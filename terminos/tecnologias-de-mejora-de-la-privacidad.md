@@ -5,7 +5,7 @@ slug: tecnologias-de-mejora-de-la-privacidad
 categorias: [datos, tecnico]
 relacionados: [datos-sinteticos, aprendizaje-federado, anonimato-de-los-modelos]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Familia de técnicas que permiten extraer valor de los datos reduciendo la información personal que se expone en el proceso. Bajo esa etiqueta conviven soluciones muy distintas: la generación de datos sintéticos, el aprendizaje federado, la privacidad diferencial —que introduce ruido calibrado para que ningún registro individual influya de forma detectable en el resultado—, el cifrado homomórfico, que permite computar sobre datos cifrados sin descifrarlos, y los entornos de ejecución confiables. La AEPD las divulga sistemáticamente en su espacio de innovación tecnológica, con guías propias sobre [datos sintéticos](https://www.aepd.es/guias/guia-sobre-generacion-datos-sinteticos.pdf) y [aprendizaje federado](https://www.aepd.es/guias/tech-dispatch-aprendizaje-federado.pdf).

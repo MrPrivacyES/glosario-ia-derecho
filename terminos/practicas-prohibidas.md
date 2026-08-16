@@ -5,7 +5,7 @@ slug: practicas-prohibidas
 categorias: [ria, riesgos]
 relacionados: [enfoque-basado-en-el-riesgo, tecnicas-subliminales, social-scoring, policia-predictiva]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Escalón superior del enfoque basado en el riesgo: los usos de la IA que el legislador europeo considera de riesgo inadmisible y veda por completo. El artículo 5 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) enumera ocho: las técnicas subliminales o deliberadamente manipuladoras (letra a); la explotación de vulnerabilidades por edad, discapacidad o situación social o económica (b); la puntuación ciudadana (c); la predicción de delitos basada solo en perfiles o rasgos de personalidad (d); la creación o ampliación de bases de datos de reconocimiento facial por extracción no selectiva de internet o de circuitos cerrados (e); el reconocimiento de emociones en el trabajo y en la educación (f); la categorización biométrica para inferir raza, opiniones políticas, afiliación sindical, creencias, vida u orientación sexual (g); y la identificación biométrica remota en tiempo real en espacios públicos con fines policiales, salvo excepciones tasadas (h).

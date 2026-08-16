@@ -5,7 +5,7 @@ slug: tecnicas-subliminales
 categorias: [ria, riesgos]
 relacionados: [practicas-prohibidas, persona-afectada, riesgo]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Primera de las prácticas prohibidas. El artículo 5.1.a del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) veda los sistemas de IA que se sirvan de técnicas subliminales que trasciendan la conciencia de una persona, o de técnicas deliberadamente manipuladoras o engañosas, con el objetivo o el efecto de alterar sustancialmente su comportamiento mermando de manera apreciable su capacidad de decidir con conocimiento de causa, de un modo que provoque o sea razonablemente probable que provoque perjuicios considerables. La letra b prohíbe en paralelo explotar las vulnerabilidades derivadas de la edad, la discapacidad o una situación social o económica específica.

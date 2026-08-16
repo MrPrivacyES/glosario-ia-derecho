@@ -5,7 +5,7 @@ slug: policia-predictiva
 categorias: [ria, riesgos]
 relacionados: [practicas-prohibidas, sesgo, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Uso de sistemas de IA para evaluar el riesgo de que una persona cometa un delito. El artículo 5.1.d del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) lo prohíbe cuando la valoración o predicción se base **únicamente** en la elaboración del perfil de la persona o en la evaluación de los rasgos y características de su personalidad. La prohibición no alcanza a los sistemas que apoyan una valoración humana de la implicación de una persona en una actividad delictiva que ya se sustente en hechos objetivos y verificables directamente relacionados con esa actividad.

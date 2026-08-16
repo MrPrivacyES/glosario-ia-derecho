@@ -5,7 +5,7 @@ slug: intervencion-humana-significativa
 categorias: [datos, gobernanza]
 relacionados: [supervision-humana, persona-afectada, explicabilidad]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Umbral que debe alcanzar la participación de una persona para que una decisión deje de considerarse «basada únicamente en el tratamiento automatizado» a efectos del artículo 22 del RGPD. No basta con que alguien firme: la intervención debe ser real, y quien la realiza ha de tener autoridad y competencia para apartarse del resultado del algoritmo.

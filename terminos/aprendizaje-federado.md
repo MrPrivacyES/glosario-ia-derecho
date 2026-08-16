@@ -5,7 +5,7 @@ slug: aprendizaje-federado
 categorias: [tecnico, datos]
 relacionados: [tecnologias-de-mejora-de-la-privacidad, aprendizaje-automatico, responsable-del-tratamiento]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Modalidad de aprendizaje automático en la que varias fuentes de datos —dispositivos o servidores— colaboran para entrenar un modelo compartido manteniendo los datos descentralizados: en lugar de enviar los datos originales a un servidor central, cada fuente entrena localmente con los suyos y solo comparte actualizaciones del modelo, es decir, gradientes o pesos. La definición y el desarrollo son del [TechDispatch sobre aprendizaje federado](https://www.aepd.es/guias/tech-dispatch-aprendizaje-federado.pdf) difundido por la AEPD. Se distingue entre federación horizontal y vertical, y entre dispositivos transversales —millones de teléfonos— y silos transversales —unos pocos hospitales o bancos—.

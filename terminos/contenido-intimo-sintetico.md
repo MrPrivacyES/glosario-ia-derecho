@@ -5,7 +5,7 @@ slug: contenido-intimo-sintetico
 categorias: [ria, riesgos]
 relacionados: [practicas-prohibidas, ultrasuplantacion, contenido-sintetico, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Imágenes, vídeos o audios realistas generados o manipulados por IA que muestran las partes íntimas de una persona identificable, o a esa persona participando en actividades sexualmente explícitas, sin su consentimiento. El [Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1744) los convirtió en **práctica prohibida**, insertando la letra b bis en el artículo 5.1 del Reglamento de IA, junto con una letra b ter para el material de abuso sexual infantil en el sentido de la Directiva 2011/93/UE. Ambas se aplican desde el 2 de diciembre de 2026, y el consentimiento que las excluye debe ser libre, específico, informado, inequívoco y explícito para esa generación o manipulación concreta.

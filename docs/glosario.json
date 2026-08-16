@@ -110,10 +110,27 @@
    "relacionados": [
     "sistema-de-ia",
     "datos-de-entrenamiento",
-    "aprendizaje-por-transferencia"
+    "aprendizaje-por-transferencia",
+    "aprendizaje-federado"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según la Agencia Española de Protección de Datos en “Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial."
+  },
+  {
+   "termino": "Aprendizaje federado",
+   "alias": "Federated learning o FL",
+   "slug": "aprendizaje-federado",
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "tecnologias-de-mejora-de-la-privacidad",
+    "aprendizaje-automatico",
+    "responsable-del-tratamiento"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Modalidad de aprendizaje automático en la que varias fuentes de datos —dispositivos o servidores— colaboran para entrenar un modelo compartido manteniendo los datos descentralizados: en lugar de enviar los datos originales a un servidor central, cada fuente entrena localmente con los suyos y solo comparte…"
   },
   {
    "termino": "Aprendizaje por transferencia",
@@ -334,6 +351,23 @@
    "extracto": "Requisito del artículo 12 del Reglamento (UE) 2024/1689: los sistemas de IA de alto riesgo deben permitir técnicamente el registro automático de acontecimientos —los llamados archivos de registro o logs— a lo largo de todo su ciclo de vida, con un nivel de trazabilidad adecuado a la finalidad prevista."
   },
   {
+   "termino": "Contenido íntimo sintético no consentido",
+   "alias": "Desnudos falsos o NCII",
+   "slug": "contenido-intimo-sintetico",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "practicas-prohibidas",
+    "ultrasuplantacion",
+    "contenido-sintetico",
+    "persona-afectada"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Imágenes, vídeos o audios realistas generados o manipulados por IA que muestran las partes íntimas de una persona identificable, o a esa persona participando en actividades sexualmente explícitas, sin su consentimiento."
+  },
+  {
    "termino": "Contenido sintético",
    "alias": "Synthetic content",
    "slug": "contenido-sintetico",
@@ -363,6 +397,22 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "El contexto de ventana o “Context Window (Token)”, según IBM, consiste en los tokens que una sistema de IA, por ejemplo ChatGPT, puede procesar o recordar como datos de entrada cuando le pedimos algo."
+  },
+  {
+   "termino": "Datos biométricos",
+   "alias": "Verificación biométrica o biometric data",
+   "slug": "datos-biometricos",
+   "categorias": [
+    "biometria",
+    "datos"
+   ],
+   "relacionados": [
+    "identificacion-biometrica",
+    "categorizacion-biometrica",
+    "sistemas-de-reconocimiento-de-emociones"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el artículo 3.34 del Reglamento (UE) 2024/1689, los datos personales obtenidos a partir de un tratamiento técnico específico, relativos a las características físicas, fisiológicas o conductuales de una persona física, como imágenes faciales o datos dactiloscópicos."
   },
   {
    "termino": "Datos de entrada",
@@ -427,6 +477,22 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en los datos usados para proporcionar una evaluación del sistema de IA entrenado y adaptar sus parámetros no entrenables y su proceso de aprendizaje para, entre otras cosas, evitar el subajuste o el"
+  },
+  {
+   "termino": "Datos sintéticos",
+   "alias": "Synthetic data",
+   "slug": "datos-sinteticos",
+   "categorias": [
+    "datos",
+    "tecnico"
+   ],
+   "relacionados": [
+    "tecnologias-de-mejora-de-la-privacidad",
+    "anonimato-de-los-modelos",
+    "datos-de-entrenamiento"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Datos artificiales generados por un modelo entrenado con un conjunto de datos de origen, del que imitan las características y la estructura."
   },
   {
    "termino": "DeepSeek",
@@ -532,7 +598,7 @@
    "relacionados": [
     "riesgo",
     "sistema-de-ia-de-alto-riesgo",
-    "ria"
+    "practicas-prohibidas"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Técnica regulatoria que gradúa las obligaciones según el daño que un sistema puede causar, en lugar de imponer las mismas reglas a toda la IA."
@@ -685,9 +751,9 @@
     "biometria"
    ],
    "relacionados": [
+    "datos-biometricos",
     "categorizacion-biometrica",
-    "sistema-de-ia-de-alto-riesgo",
-    "persona-afectada"
+    "practicas-prohibidas"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento (UE) 2024/1689, el reconocimiento automatizado de características humanas físicas, fisiológicas o conductuales (como la cara, la voz o la marcha) con el fin de determinar la identidad de una persona, comparando sus datos biométricos con una base de datos de referencia."
@@ -782,6 +848,22 @@
    "extracto": "Según la obra de Ray Kurzweil, podría hablarse de inteligencia artificial general (AGI en inglés) como de un tipo de inteligencia artificial que iguala o supera las capacidades cognitivas humanas en una amplia gama de tareas cognitivas."
   },
   {
+   "termino": "Intervención humana significativa",
+   "alias": "Meaningful human intervention",
+   "slug": "intervencion-humana-significativa",
+   "categorias": [
+    "datos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "supervision-humana",
+    "persona-afectada",
+    "explicabilidad"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Umbral que debe alcanzar la participación de una persona para que una decisión deje de considerarse «basada únicamente en el tratamiento automatizado» a efectos del artículo 22 del RGPD."
+  },
+  {
    "termino": "Jevons Paradox",
    "alias": "Paradoja de Jevons",
    "slug": "jevons-paradox",
@@ -866,7 +948,7 @@
    "relacionados": [
     "anonimato-de-los-modelos",
     "ataques-de-reidentificacion",
-    "memorizacion"
+    "tecnologias-de-mejora-de-la-privacidad"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Criterio con el que el Derecho de la Unión decide si un dato está verdaderamente anonimizado."
@@ -1052,10 +1134,27 @@
    "relacionados": [
     "responsable-del-despliegue",
     "supervision-humana",
-    "autoridad-de-vigilancia-del-mercado"
+    "intervencion-humana-significativa"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Quien sufre los efectos de un sistema de IA sin ser quien lo usa: el candidato descartado por un cribado automático, el solicitante al que un modelo deniega el crédito, el alumno al que un algoritmo puntúa."
+  },
+  {
+   "termino": "Prácticas de IA prohibidas",
+   "alias": "Prohibited AI practices",
+   "slug": "practicas-prohibidas",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "enfoque-basado-en-el-riesgo",
+    "tecnicas-subliminales",
+    "social-scoring",
+    "policia-predictiva"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Escalón superior del enfoque basado en el riesgo: los usos de la IA que el legislador europeo considera de riesgo inadmisible y veda por completo."
   },
   {
    "termino": "Precisión",
@@ -1072,6 +1171,22 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Grado en que los resultados de un sistema de IA se corresponden con los correctos."
+  },
+  {
+   "termino": "Predicción de delitos",
+   "alias": "Policía predictiva o predictive policing",
+   "slug": "policia-predictiva",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "practicas-prohibidas",
+    "sesgo",
+    "persona-afectada"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Uso de sistemas de IA para evaluar el riesgo de que una persona cometa un delito."
   },
   {
    "termino": "Prompt",
@@ -1409,10 +1524,11 @@
    ],
    "relacionados": [
     "categorizacion-biometrica",
-    "identificacion-biometrica"
+    "datos-biometricos",
+    "practicas-prohibidas"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un sistema de IA diseñado para distinguir o inferir las emociones o intenciones de personas físicas a partir de sus datos biométricos."
+   "extracto": "Según el artículo 3.39 del Reglamento (UE) 2024/1689, un sistema de IA destinado a distinguir o inferir las emociones o las intenciones de las personas físicas a partir de sus datos biométricos."
   },
   {
    "termino": "Sobreaprendizaje",
@@ -1438,10 +1554,12 @@
     "riesgos"
    ],
    "relacionados": [
-    "ria"
+    "practicas-prohibidas",
+    "persona-afectada",
+    "sesgo"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se refiere a los sistemas de IA utilizados por entidades públicas o privadas para evaluar o clasificar a personas físicas o grupos basándose en su comportamiento social en diversos contextos o en características personales conocidas, inferidas o…"
+   "extracto": "Según el artículo 5.1.c del Reglamento (UE) 2024/1689, los sistemas de IA utilizados para evaluar o clasificar a personas físicas o a colectivos durante un período determinado de tiempo atendiendo a su comportamiento social o a características personales o de su personalidad conocidas, inferidas o predichas."
   },
   {
    "termino": "Solidez",
@@ -1470,11 +1588,43 @@
    "relacionados": [
     "sistema-de-ia-de-alto-riesgo",
     "responsable-del-despliegue",
-    "persona-afectada",
-    "explicabilidad"
+    "explicabilidad",
+    "intervencion-humana-significativa"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Requisito del artículo 14 del Reglamento (UE) 2024/1689: los sistemas de IA de alto riesgo deben diseñarse y desarrollarse de modo que personas físicas puedan vigilarlos de manera efectiva mientras estén en uso, con herramientas de interfaz humano-máquina adecuadas."
+  },
+  {
+   "termino": "Técnicas subliminales",
+   "alias": "IA manipuladora, engañosa o que explota vulnerabilidades",
+   "slug": "tecnicas-subliminales",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "practicas-prohibidas",
+    "persona-afectada",
+    "riesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Primera de las prácticas prohibidas."
+  },
+  {
+   "termino": "Tecnologías de mejora de la privacidad",
+   "alias": "PET o privacy enhancing technologies",
+   "slug": "tecnologias-de-mejora-de-la-privacidad",
+   "categorias": [
+    "datos",
+    "tecnico"
+   ],
+   "relacionados": [
+    "datos-sinteticos",
+    "aprendizaje-federado",
+    "anonimato-de-los-modelos"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Familia de técnicas que permiten extraer valor de los datos reduciendo la información personal que se expone en el proceso."
   },
   {
    "termino": "Test-time Compute",
@@ -1544,9 +1694,9 @@
     "riesgos"
    ],
    "relacionados": [
-    "ria",
     "contenido-sintetico",
-    "marca-de-agua"
+    "marca-de-agua",
+    "contenido-intimo-sintetico"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.60 del Reglamento (UE) 2024/1689, un contenido de imagen, audio o vídeo generado o manipulado por una IA que se asemeja a personas, objetos, lugares, entidades o sucesos reales y que puede inducir a una persona a pensar erróneamente que son auténticos o verídicos."

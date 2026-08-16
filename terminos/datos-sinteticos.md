@@ -5,7 +5,7 @@ slug: datos-sinteticos
 categorias: [datos, tecnico]
 relacionados: [tecnologias-de-mejora-de-la-privacidad, anonimato-de-los-modelos, datos-de-entrenamiento]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Datos artificiales generados por un modelo entrenado con un conjunto de datos de origen, del que imitan las características y la estructura. Unos datos sintéticos de buena calidad conservan las propiedades estadísticas y los patrones del original, de modo que analizarlos produce resultados parecidos a los que daría el conjunto real sin manejar los registros reales. Es la definición que recoge la [guía traducida por la AEPD](https://www.aepd.es/guias/guia-sobre-generacion-datos-sinteticos.pdf), elaborada originalmente por la autoridad de Singapur.

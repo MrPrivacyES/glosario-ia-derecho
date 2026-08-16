@@ -5,7 +5,7 @@ slug: datos-biometricos
 categorias: [biometria, datos]
 relacionados: [identificacion-biometrica, categorizacion-biometrica, sistemas-de-reconocimiento-de-emociones]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el artículo 3.34 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), los datos personales obtenidos a partir de un tratamiento técnico específico, relativos a las características físicas, fisiológicas o conductuales de una persona física, como imágenes faciales o datos dactiloscópicos. Sobre ellos se construyen las tres figuras que el Reglamento regula por separado: la identificación biométrica, la categorización biométrica y el reconocimiento de emociones.

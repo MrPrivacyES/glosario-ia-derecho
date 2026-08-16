@@ -62,7 +62,7 @@
    "relacionados": [
     "llm-o-large-language-model",
     "retrieval-augmented-generation",
-    "prompt"
+    "ia-generativa"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Respuesta de un modelo generativo que resulta fluida, verosímil y sintácticamente correcta, pero falsa: datos inventados, citas inexistentes, sentencias que nunca se dictaron."
@@ -271,6 +271,22 @@
    "extracto": "Tercero de los requisitos del artículo 15 del Reglamento (UE) 2024/1689, cuyo apartado 5 lo formula así: los sistemas de IA de alto riesgo serán resistentes a los intentos de terceros no autorizados de alterar su uso, sus resultados de salida o su funcionamiento aprovechando las vulnerabilidades del sistema."
   },
   {
+   "termino": "Ciclo de vida de un sistema de IA",
+   "alias": "AI lifecycle",
+   "slug": "ciclo-de-vida-del-sistema-de-ia",
+   "categorias": [
+    "gobernanza",
+    "tecnico"
+   ],
+   "relacionados": [
+    "fase-de-desarrollo",
+    "sistema-de-gestion-de-riesgos",
+    "vigilancia-poscomercializacion"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Sucesión de etapas por las que pasa un sistema de IA desde su concepción hasta su retirada: definición del problema, obtención y preparación de los datos, entrenamiento, validación y prueba, evaluación, despliegue, explotación y seguimiento, reentrenamiento y, finalmente, retirada."
+  },
+  {
    "termino": "Cláusula de anterioridad",
    "alias": "Grandfathering o sistemas heredados",
    "slug": "clausula-de-anterioridad",
@@ -378,8 +394,8 @@
    "relacionados": [
     "ultrasuplantacion",
     "marca-de-agua",
-    "sistema-de-ia-de-uso-general",
-    "proveedor"
+    "ia-generativa",
+    "contenido-intimo-sintetico"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Contenido de audio, imagen, vídeo o texto generado o manipulado artificialmente por un sistema de IA, en contraposición al producido directamente por una persona."
@@ -634,6 +650,23 @@
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un marco controlado establecido por una autoridad competente que ofrece a los proveedores y proveedores potenciales de sistemas de IA la posibilidad de desarrollar, entrenar, validar y probar, en condiciones reales cuando proceda, un…"
   },
   {
+   "termino": "Evaluación de impacto relativa a los derechos fundamentales",
+   "alias": "EIDF o FRIA",
+   "slug": "evaluacion-de-impacto-derechos-fundamentales",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "sistema-de-ia-de-alto-riesgo",
+    "responsable-del-despliegue",
+    "persona-afectada",
+    "supervision-humana"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Evaluación que el artículo 27 del Reglamento (UE) 2024/1689 impone antes de desplegar determinados sistemas de IA de alto riesgo."
+  },
+  {
    "termino": "Evaluación de la conformidad",
    "alias": "Conformity assessment",
    "slug": "evaluacion-de-la-conformidad",
@@ -660,7 +693,7 @@
    ],
    "relacionados": [
     "transparencia",
-    "persona-afectada",
+    "human-in-the-loop",
     "razonamiento"
    ],
    "actualizado": "2026-08-16",
@@ -677,7 +710,7 @@
    "relacionados": [
     "reutilizacion-de-datos",
     "responsable-del-tratamiento",
-    "ajuste-fino"
+    "ciclo-de-vida-del-sistema-de-ia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Distinción que la CNIL sitúa en la base de todo su análisis: construir un sistema de IA y usarlo son dos tratamientos de datos personales distintos, cada uno con su finalidad, su base jurídica y, en su caso, su régimen legal."
@@ -727,6 +760,22 @@
    "extracto": "Un GPT o Transformador Pre-entrenado Generativo es un tipo de LLM o modelo de IA de uso general."
   },
   {
+   "termino": "Human in the loop",
+   "alias": "No exclusividad de la decisión algorítmica",
+   "slug": "human-in-the-loop",
+   "categorias": [
+    "tecnico",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "supervision-humana",
+    "intervencion-humana-significativa",
+    "explicabilidad"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Arquitectura en la que una persona interviene dentro del ciclo de decisión del sistema, con capacidad efectiva de controlar, validar o rechazar el resultado automático."
+  },
+  {
    "termino": "IA agéntica",
    "alias": "Agentic AI",
    "slug": "ia-agentica",
@@ -741,6 +790,23 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Sistemas de IA que no se limitan a responder preguntas, sino que interactúan de forma autónoma con su entorno digital —navegan, consultan fuentes, invocan herramientas y encadenan pasos— para alcanzar un objetivo encargado por el usuario."
+  },
+  {
+   "termino": "IA generativa",
+   "alias": "Inteligencia artificial generativa o GenAI",
+   "slug": "ia-generativa",
+   "categorias": [
+    "tecnico",
+    "ria"
+   ],
+   "relacionados": [
+    "contenido-sintetico",
+    "modelo-de-ia-de-uso-general",
+    "alucinacion",
+    "prompt"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Sistemas de IA capaces de producir contenido nuevo —texto, imagen, audio, vídeo, código— en lugar de limitarse a clasificar o predecir sobre datos existentes."
   },
   {
    "termino": "Identificación biométrica",
@@ -857,7 +923,7 @@
    ],
    "relacionados": [
     "supervision-humana",
-    "persona-afectada",
+    "human-in-the-loop",
     "explicabilidad"
    ],
    "actualizado": "2026-08-16",
@@ -1304,9 +1370,9 @@
    "relacionados": [
     "proveedor",
     "operador",
-    "supervision-humana",
     "instrucciones-de-uso",
-    "responsable-del-tratamiento"
+    "responsable-del-tratamiento",
+    "evaluacion-de-impacto-derechos-fundamentales"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, o autoridad pública, órgano u organismo que utilice un sistema de IA bajo su propia autoridad, salvo cuando su uso se enmarque en una actividad personal de carácter no profesional."
@@ -1345,12 +1411,14 @@
    "alias": "RAG",
    "slug": "retrieval-augmented-generation",
    "categorias": [
-    "tecnico"
+    "tecnico",
+    "datos"
    ],
    "relacionados": [
     "embedding",
     "llm-o-large-language-model",
-    "alucinacion"
+    "alucinacion",
+    "ia-generativa"
    ],
    "actualizado": "2026-08-16",
    "extracto": "La “Generación aumentada con recuperación” es una arquitectura híbrida que primero recupera documentos relevantes de una base externa (por ejemplo, tus modelos de contrato) y luego los introduce en el modelo generativo, combinando precisión factual con capacidad de lenguaje."
@@ -1462,7 +1530,7 @@
    "relacionados": [
     "riesgo",
     "sistema-de-ia-de-alto-riesgo",
-    "sistema-de-gestion-de-la-calidad"
+    "ciclo-de-vida-del-sistema-de-ia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Primer requisito exigible a un sistema de IA de alto riesgo."
@@ -1588,8 +1656,8 @@
    "relacionados": [
     "sistema-de-ia-de-alto-riesgo",
     "responsable-del-despliegue",
-    "explicabilidad",
-    "intervencion-humana-significativa"
+    "intervencion-humana-significativa",
+    "human-in-the-loop"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Requisito del artículo 14 del Reglamento (UE) 2024/1689: los sistemas de IA de alto riesgo deben diseñarse y desarrollarse de modo que personas físicas puedan vigilarlos de manera efectiva mientras estén en uso, con herramientas de interfaz humano-máquina adecuadas."
@@ -1740,7 +1808,7 @@
    "relacionados": [
     "incidente-grave",
     "conservacion-de-registros",
-    "sistema-de-gestion-de-riesgos"
+    "ciclo-de-vida-del-sistema-de-ia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.25 del Reglamento (UE) 2024/1689, todas las actividades realizadas por los proveedores destinadas a recoger y examinar la experiencia obtenida con el uso de los sistemas de IA que han introducido en el mercado o puesto en servicio, con objeto de detectar la posible necesidad de aplicar de…"

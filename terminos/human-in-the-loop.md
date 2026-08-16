@@ -5,7 +5,7 @@ slug: human-in-the-loop
 categorias: [tecnico, gobernanza]
 relacionados: [supervision-humana, intervencion-humana-significativa, explicabilidad]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Arquitectura en la que una persona interviene dentro del ciclo de decisión del sistema, con capacidad efectiva de controlar, validar o rechazar el resultado automático. Suele contraponerse al *human on the loop* —la persona supervisa el funcionamiento sin intervenir en cada decisión— y al *human out of the loop*, sin intervención alguna.

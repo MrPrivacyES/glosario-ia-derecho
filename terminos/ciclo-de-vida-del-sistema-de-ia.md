@@ -5,7 +5,7 @@ slug: ciclo-de-vida-del-sistema-de-ia
 categorias: [gobernanza, tecnico]
 relacionados: [fase-de-desarrollo, sistema-de-gestion-de-riesgos, vigilancia-poscomercializacion]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Sucesión de etapas por las que pasa un sistema de IA desde su concepción hasta su retirada: definición del problema, obtención y preparación de los datos, entrenamiento, validación y prueba, evaluación, despliegue, explotación y seguimiento, reentrenamiento y, finalmente, retirada. El [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) recurre continuamente a la expresión sin definirla, y el SEPD la desarrolla como columna vertebral de su [guía sobre gestión de riesgos en sistemas de IA](https://www.edps.europa.eu/system/files/2025-11/2025-11-11_ai_risks_management_guidance_en.pdf), incluida la fase previa de contratación.

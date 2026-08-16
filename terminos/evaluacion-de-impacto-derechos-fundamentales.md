@@ -5,7 +5,7 @@ slug: evaluacion-de-impacto-derechos-fundamentales
 categorias: [ria, gobernanza]
 relacionados: [sistema-de-ia-de-alto-riesgo, responsable-del-despliegue, persona-afectada, supervision-humana]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Evaluación que el artículo 27 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) impone **antes de desplegar** determinados sistemas de IA de alto riesgo. A diferencia del resto de obligaciones del Reglamento, no recae sobre el proveedor sino sobre quien lo despliega, y solo sobre algunos: organismos de Derecho público, entidades privadas que prestan servicios públicos, y quienes desplieguen sistemas de evaluación de solvencia crediticia o de fijación de precios y evaluación de riesgos en seguros de vida y salud.

@@ -5,7 +5,7 @@ slug: ia-generativa
 categorias: [tecnico, ria]
 relacionados: [contenido-sintetico, modelo-de-ia-de-uso-general, alucinacion, prompt]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Sistemas de IA capaces de producir contenido nuevo —texto, imagen, audio, vídeo, código— en lugar de limitarse a clasificar o predecir sobre datos existentes. Es la categoría a la que pertenecen los grandes modelos de lenguaje y los generadores de imagen, y la que ha llevado la IA al uso cotidiano desde finales de 2022.

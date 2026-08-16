@@ -5,7 +5,7 @@ slug: envenenamiento-de-datos
 categorias: [tecnico, riesgos]
 relacionados: [ciberseguridad, datos-de-entrenamiento, ejemplos-adversarios]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Ataque que consiste en contaminar deliberadamente el material con el que se entrena un modelo para alterar su comportamiento posterior. El [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) lo nombra en su artículo 15.5 y distingue dos variantes: el envenenamiento de **datos**, que manipula el conjunto de datos de entrenamiento, y el envenenamiento de **modelos**, que actúa sobre los componentes preentrenados que se reutilizan en el entrenamiento.

@@ -5,7 +5,7 @@ slug: ejemplos-adversarios
 categorias: [tecnico, riesgos]
 relacionados: [ciberseguridad, envenenamiento-de-datos, prompt-injection]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Entradas manipuladas de forma deliberada, a menudo con alteraciones imperceptibles para una persona, que hacen que un modelo cometa un error. El [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) los define en su artículo 15.5 como «la información de entrada diseñada para hacer que el modelo de IA cometa un error», y les da como sinónimo la «evasión de modelos».

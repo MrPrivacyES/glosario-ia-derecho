@@ -5,7 +5,7 @@ slug: instrucciones-de-uso
 categorias: [ria, gobernanza]
 relacionados: [transparencia, responsable-del-despliegue, proveedor]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Documento que el proveedor debe entregar junto con todo sistema de IA de alto riesgo, en formato digital u otro adecuado, con información concisa, completa, correcta y clara, accesible y comprensible para el responsable del despliegue (artículo 13.2 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712)).

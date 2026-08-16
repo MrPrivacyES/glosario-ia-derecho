@@ -5,7 +5,7 @@ slug: ciberseguridad
 categorias: [ria, riesgos]
 relacionados: [envenenamiento-de-datos, ejemplos-adversarios, solidez]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Tercero de los requisitos del artículo 15 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), cuyo apartado 5 lo formula así: los sistemas de IA de alto riesgo serán resistentes a los intentos de terceros no autorizados de alterar su uso, sus resultados de salida o su funcionamiento aprovechando las vulnerabilidades del sistema.

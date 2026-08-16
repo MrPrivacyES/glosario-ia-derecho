@@ -5,7 +5,7 @@ slug: incidente-grave
 categorias: [ria, riesgos]
 relacionados: [vigilancia-poscomercializacion, autoridad-de-vigilancia-del-mercado, conservacion-de-registros]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el artículo 3.49 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), un incidente o defecto de funcionamiento de un sistema de IA que, directa o indirectamente, tenga alguna de estas consecuencias: el fallecimiento de una persona o un perjuicio grave para su salud; una alteración grave e irreversible de la gestión o el funcionamiento de infraestructuras críticas; el incumplimiento de obligaciones del Derecho de la Unión destinadas a proteger los derechos fundamentales; o daños graves a la propiedad o al medio ambiente.

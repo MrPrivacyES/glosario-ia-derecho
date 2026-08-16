@@ -5,7 +5,7 @@ slug: explicabilidad
 categorias: [tecnico, gobernanza]
 relacionados: [transparencia, persona-afectada, razonamiento]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Conjunto de técnicas que permiten dar cuenta de por qué un modelo ha producido un resultado concreto. Suele distinguirse de la interpretabilidad: un modelo es interpretable cuando su funcionamiento es comprensible por su propia estructura —un árbol de decisión pequeño, una regresión lineal—, mientras que la explicabilidad se aplica a los modelos que no lo son y busca reconstruir a posteriori qué factores pesaron en la salida. La [guía de la AESIA sobre transparencia](https://aesia.digital.gob.es/storage/media/08-guia-transparencia.pdf) las trata como los dos instrumentos con los que se alcanza la transparencia exigida.

@@ -5,7 +5,7 @@ slug: sobreaprendizaje
 categorias: [tecnico]
 relacionados: [precision, datos-de-entrenamiento, datos-de-validacion]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Defecto de un modelo que ha aprendido demasiado bien los datos con los que se entrenó —incluidos su ruido y sus peculiaridades— y por eso rinde de maravilla sobre ellos y mal sobre datos nuevos. Es el motivo por el que se reservan conjuntos de datos de validación y de prueba separados: sin ellos, las métricas del entrenamiento son un espejismo.

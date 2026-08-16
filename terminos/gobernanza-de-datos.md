@@ -5,7 +5,7 @@ slug: gobernanza-de-datos
 categorias: [datos, ria]
 relacionados: [datos-de-entrenamiento, sesgo, sistema-de-ia-de-alto-riesgo]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Conjunto de políticas, procedimientos y controles que garantizan que los datos con los que se entrena, valida y prueba un sistema de IA son adecuados, pertinentes, suficientemente representativos y cumplen los requisitos de calidad y completitud exigidos. La definición es de la [guía de la AESIA](https://aesia.digital.gob.es/storage/media/07-guia-de-datos-y-gobernanza-de-datos.pdf), que subraya la consecuencia de no tenerla: resultados sesgados o inexactos que acaban convirtiéndose en un riesgo para la salud, la seguridad o los derechos fundamentales.

@@ -5,7 +5,7 @@ slug: precision
 categorias: [ria, tecnico]
 relacionados: [solidez, ciberseguridad, sobreaprendizaje]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Grado en que los resultados de un sistema de IA se corresponden con los correctos. El artículo 15 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) exige que los sistemas de alto riesgo alcancen un nivel adecuado de precisión, solidez y ciberseguridad y funcionen de manera uniforme en esos sentidos durante todo su ciclo de vida, y obliga a declarar en las instrucciones de uso los niveles de precisión y los parámetros con los que se han medido.

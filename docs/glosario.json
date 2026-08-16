@@ -156,6 +156,22 @@
    "extracto": "Según la orden ejecutiva #14110 de octubre de 2023 del gobierno Biden en Estados Unidos, el Chief AI Officer será el responsable de coordinar el uso de IA en una organización, promover la innovación en IA, gestionar los riesgos del uso de IA en la organización y gestionar las responsabilidades derivadas de la…"
   },
   {
+   "termino": "Ciberseguridad",
+   "alias": "Cybersecurity",
+   "slug": "ciberseguridad",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "envenenamiento-de-datos",
+    "ejemplos-adversarios",
+    "solidez"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Tercero de los requisitos del artículo 15 del Reglamento (UE) 2024/1689, cuyo apartado 5 lo formula así: los sistemas de IA de alto riesgo serán resistentes a los intentos de terceros no autorizados de alterar su uso, sus resultados de salida o su funcionamiento aprovechando las vulnerabilidades del sistema."
+  },
+  {
    "termino": "Cláusula de anterioridad",
    "alias": "Grandfathering o sistemas heredados",
    "slug": "clausula-de-anterioridad",
@@ -220,6 +236,22 @@
    "extracto": "Órgano creado por el artículo 65 del Reglamento (UE) 2024/1689, compuesto por un representante de cada Estado miembro, que asesora y asiste a la Comisión y a los Estados en la aplicación coherente y eficaz del Reglamento."
   },
   {
+   "termino": "Conservación de registros",
+   "alias": "Archivos de registro o logs",
+   "slug": "conservacion-de-registros",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "documentacion-tecnica",
+    "sistema-de-ia-de-alto-riesgo",
+    "vigilancia-poscomercializacion"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Requisito del artículo 12 del Reglamento (UE) 2024/1689: los sistemas de IA de alto riesgo deben permitir técnicamente el registro automático de acontecimientos —los llamados archivos de registro o logs— a lo largo de todo su ciclo de vida, con un nivel de trazabilidad adecuado a la finalidad prevista."
+  },
+  {
    "termino": "Contenido sintético",
    "alias": "Synthetic content",
    "slug": "contenido-sintetico",
@@ -278,7 +310,7 @@
     "datos-de-prueba",
     "aprendizaje-automatico",
     "web-scraping",
-    "sesgo"
+    "gobernanza-de-datos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "(Dataset): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consisten en los datos usados para entrenar un sistema de IA mediante el ajuste de sus parámetros"
@@ -308,7 +340,8 @@
    ],
    "relacionados": [
     "datos-de-entrenamiento",
-    "datos-de-prueba"
+    "datos-de-prueba",
+    "sobreaprendizaje"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en los datos usados para proporcionar una evaluación del sistema de IA entrenado y adaptar sus parámetros no entrenables y su proceso de aprendizaje para, entre otras cosas, evitar el subajuste o el"
@@ -360,6 +393,38 @@
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica que forme parte de la cadena de suministro, distinta del proveedor o el importador, que comercialice un sistema de IA en el mercado de la Unión."
   },
   {
+   "termino": "Documentación técnica",
+   "alias": "Technical documentation",
+   "slug": "documentacion-tecnica",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "sistema-de-ia-de-alto-riesgo",
+    "evaluacion-de-la-conformidad",
+    "conservacion-de-registros"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Expediente que demuestra que un sistema de IA de alto riesgo cumple los requisitos del capítulo III, sección 2."
+  },
+  {
+   "termino": "Ejemplos adversarios",
+   "alias": "Adversarial examples o evasión de modelos",
+   "slug": "ejemplos-adversarios",
+   "categorias": [
+    "tecnico",
+    "riesgos"
+   ],
+   "relacionados": [
+    "ciberseguridad",
+    "envenenamiento-de-datos",
+    "prompt-injection"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Entradas manipuladas de forma deliberada, a menudo con alteraciones imperceptibles para una persona, que hacen que un modelo cometa un error."
+  },
+  {
    "termino": "Embedding",
    "alias": "Incrustación",
    "slug": "embedding",
@@ -391,6 +456,22 @@
    "extracto": "Técnica regulatoria que gradúa las obligaciones según el daño que un sistema puede causar, en lugar de imponer las mismas reglas a toda la IA."
   },
   {
+   "termino": "Envenenamiento de datos",
+   "alias": "Data poisoning o envenenamiento de modelos",
+   "slug": "envenenamiento-de-datos",
+   "categorias": [
+    "tecnico",
+    "riesgos"
+   ],
+   "relacionados": [
+    "ciberseguridad",
+    "datos-de-entrenamiento",
+    "ejemplos-adversarios"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Ataque que consiste en contaminar deliberadamente el material con el que se entrena un modelo para alterar su comportamiento posterior."
+  },
+  {
    "termino": "Espacio controlado de pruebas para la IA",
    "alias": "Sandbox",
    "slug": "espacio-controlado-de-pruebas-para-la-ia",
@@ -415,10 +496,27 @@
    "relacionados": [
     "sistema-de-ia-de-alto-riesgo",
     "marcado-ce",
-    "normas-armonizadas"
+    "normas-armonizadas",
+    "organismo-notificado"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.20 del Reglamento (UE) 2024/1689, el proceso por el que se demuestra si se han cumplido los requisitos del capítulo III, sección 2, en relación con un sistema de IA de alto riesgo."
+  },
+  {
+   "termino": "Explicabilidad",
+   "alias": "Interpretabilidad o explainability",
+   "slug": "explicabilidad",
+   "categorias": [
+    "tecnico",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "transparencia",
+    "persona-afectada",
+    "razonamiento"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Conjunto de técnicas que permiten dar cuenta de por qué un modelo ha producido un resultado concreto."
   },
   {
    "termino": "Finalidad prevista",
@@ -433,6 +531,22 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en el uso para el que un proveedor concibe un sistema de IA, incluidos el contexto y las condiciones de uso concretos, según la información facilitada por el proveedor en las instrucciones de uso, los materiales y las declaraciones de…"
+  },
+  {
+   "termino": "Gobernanza de datos",
+   "alias": "Gobierno del dato o data governance",
+   "slug": "gobernanza-de-datos",
+   "categorias": [
+    "datos",
+    "ria"
+   ],
+   "relacionados": [
+    "datos-de-entrenamiento",
+    "sesgo",
+    "sistema-de-ia-de-alto-riesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Conjunto de políticas, procedimientos y controles que garantizan que los datos con los que se entrena, valida y prueba un sistema de IA son adecuados, pertinentes, suficientemente representativos y cumplen los requisitos de calidad y completitud exigidos."
   },
   {
    "termino": "GPT",
@@ -494,6 +608,38 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica ubicada o establecida en la Unión que introduzca en el mercado un sistema de IA que lleve el nombre o la marca de una persona física o jurídica establecida en un tercer país."
+  },
+  {
+   "termino": "Incidente grave",
+   "alias": "Serious incident",
+   "slug": "incidente-grave",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "vigilancia-poscomercializacion",
+    "autoridad-de-vigilancia-del-mercado",
+    "conservacion-de-registros"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el artículo 3.49 del Reglamento (UE) 2024/1689, un incidente o defecto de funcionamiento de un sistema de IA que, directa o indirectamente, tenga alguna de estas consecuencias: el fallecimiento de una persona o un perjuicio grave para su salud; una alteración grave e irreversible de la gestión o el…"
+  },
+  {
+   "termino": "Instrucciones de uso",
+   "alias": "Instructions for use",
+   "slug": "instrucciones-de-uso",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "transparencia",
+    "responsable-del-despliegue",
+    "proveedor"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Documento que el proveedor debe entregar junto con todo sistema de IA de alto riesgo, en formato digital u otro adecuado, con información concisa, completa, correcta y clara, accesible y comprensible para el responsable del despliegue (artículo 13.2 del Reglamento (UE) 2024/1689)."
   },
   {
    "termino": "Inteligencia artificial",
@@ -722,6 +868,22 @@
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un proveedor, fabricante del producto, responsable del despliegue, representante autorizado, importador o distribuidor."
   },
   {
+   "termino": "Organismo notificado",
+   "alias": "Notified body",
+   "slug": "organismo-notificado",
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "evaluacion-de-la-conformidad",
+    "marcado-ce",
+    "sistema-de-ia-de-alto-riesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el artículo 3.22 del Reglamento (UE) 2024/1689, un organismo de evaluación de la conformidad notificado con arreglo al propio Reglamento y a otros actos pertinentes de la legislación de armonización de la Unión."
+  },
+  {
    "termino": "P(doom)",
    "alias": "probabilidad de apocalipsis",
    "slug": "p-doom",
@@ -766,6 +928,22 @@
    "extracto": "Quien sufre los efectos de un sistema de IA sin ser quien lo usa: el candidato descartado por un cribado automático, el solicitante al que un modelo deniega el crédito, el alumno al que un algoritmo puntúa."
   },
   {
+   "termino": "Precisión",
+   "alias": "Accuracy",
+   "slug": "precision",
+   "categorias": [
+    "ria",
+    "tecnico"
+   ],
+   "relacionados": [
+    "solidez",
+    "ciberseguridad",
+    "sobreaprendizaje"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Grado en que los resultados de un sistema de IA se corresponden con los correctos."
+  },
+  {
    "termino": "Prompt",
    "alias": "",
    "slug": "prompt",
@@ -789,7 +967,8 @@
    ],
    "relacionados": [
     "prompt",
-    "llm-o-large-language-model"
+    "llm-o-large-language-model",
+    "ejemplos-adversarios"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según IBM, consiste en un tipo de ciberataque contra un LLM."
@@ -806,7 +985,7 @@
     "responsable-del-despliegue",
     "operador",
     "proveedor-posterior",
-    "marcado-ce"
+    "sistema-de-gestion-de-la-calidad"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, autoridad pública, órgano u organismo que desarrolle un sistema de IA o un modelo de IA de uso general o para el que se desarrolle un sistema de IA o un modelo de IA de uso general y lo introduzca en el…"
@@ -881,7 +1060,7 @@
     "operador",
     "ia-agentica",
     "supervision-humana",
-    "persona-afectada"
+    "instrucciones-de-uso"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, o autoridad pública, órgano u organismo que utilice un sistema de IA bajo su propia autoridad, salvo cuando su uso se enmarque en una actividad personal de carácter no profesional."
@@ -974,10 +1153,42 @@
    "relacionados": [
     "datos-de-entrenamiento",
     "web-scraping",
-    "riesgo"
+    "gobernanza-de-datos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Desviación sistemática en el comportamiento de un sistema de IA que hace que sus resultados perjudiquen o favorezcan de forma injustificada a determinadas personas o grupos."
+  },
+  {
+   "termino": "Sistema de gestión de la calidad",
+   "alias": "Quality management system o QMS",
+   "slug": "sistema-de-gestion-de-la-calidad",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "sistema-de-gestion-de-riesgos",
+    "evaluacion-de-la-conformidad",
+    "proveedor"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Obligación del proveedor —no del sistema— recogida en el artículo 17 del Reglamento (UE) 2024/1689: quien introduzca en el mercado un sistema de IA de alto riesgo debe establecer un sistema de gestión de la calidad que garantice el cumplimiento del Reglamento, consignado de manera sistemática y ordenada en…"
+  },
+  {
+   "termino": "Sistema de gestión de riesgos",
+   "alias": "Risk management system",
+   "slug": "sistema-de-gestion-de-riesgos",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "riesgo",
+    "sistema-de-ia-de-alto-riesgo",
+    "sistema-de-gestion-de-la-calidad"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Primer requisito exigible a un sistema de IA de alto riesgo."
   },
   {
    "termino": "Sistema de IA",
@@ -1006,7 +1217,8 @@
     "riesgo",
     "evaluacion-de-la-conformidad",
     "supervision-humana",
-    "clausula-de-anterioridad"
+    "sistema-de-gestion-de-riesgos",
+    "documentacion-tecnica"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Categoría central del Reglamento (UE) 2024/1689: la de los sistemas que, sin estar prohibidos, soportan el grueso de las obligaciones de la norma."
@@ -1041,6 +1253,21 @@
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un sistema de IA diseñado para distinguir o inferir las emociones o intenciones de personas físicas a partir de sus datos biométricos."
   },
   {
+   "termino": "Sobreaprendizaje",
+   "alias": "Overfitting o sobreajuste",
+   "slug": "sobreaprendizaje",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "precision",
+    "datos-de-entrenamiento",
+    "datos-de-validacion"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Defecto de un modelo que ha aprendido demasiado bien los datos con los que se entrenó —incluidos su ruido y sus peculiaridades— y por eso rinde de maravilla sobre ellos y mal sobre datos nuevos."
+  },
+  {
    "termino": "Social scoring",
    "alias": "puntuación ciudadana",
    "slug": "social-scoring",
@@ -1055,8 +1282,24 @@
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se refiere a los sistemas de IA utilizados por entidades públicas o privadas para evaluar o clasificar a personas físicas o grupos basándose en su comportamiento social en diversos contextos o en características personales conocidas, inferidas o…"
   },
   {
+   "termino": "Solidez",
+   "alias": "Robustez o robustness",
+   "slug": "solidez",
+   "categorias": [
+    "ria",
+    "tecnico"
+   ],
+   "relacionados": [
+    "precision",
+    "ciberseguridad",
+    "sistema-de-ia-de-alto-riesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Capacidad de un sistema de IA de mantener su rendimiento ante condiciones distintas de las de su entorno de prueba: datos con ruido, entradas inesperadas, errores, fallos del hardware o interacción con otros sistemas."
+  },
+  {
    "termino": "Supervisión humana",
-   "alias": "Human oversight",
+   "alias": "Vigilancia humana o human oversight",
    "slug": "supervision-humana",
    "categorias": [
     "ria",
@@ -1065,7 +1308,8 @@
    "relacionados": [
     "sistema-de-ia-de-alto-riesgo",
     "responsable-del-despliegue",
-    "persona-afectada"
+    "persona-afectada",
+    "explicabilidad"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Requisito del artículo 14 del Reglamento (UE) 2024/1689: los sistemas de IA de alto riesgo deben diseñarse y desarrollarse de modo que personas físicas puedan vigilarlos de manera efectiva mientras estén en uso, con herramientas de interfaz humano-máquina adecuadas."
@@ -1114,6 +1358,22 @@
    "extracto": "La arquitectura de aprendizaje profundo transformadora o “Transformer”, fue desarrollada por investigadores de Google y se propuso en un famoso paper de 2017 titulado \"Attention Is All You Need\"."
   },
   {
+   "termino": "Transparencia",
+   "alias": "Transparency",
+   "slug": "transparencia",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "instrucciones-de-uso",
+    "explicabilidad",
+    "sistema-de-ia-de-alto-riesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Cualidad de un sistema de IA que permite interpretarlo y comprenderlo a lo largo de todo su ciclo de vida, de modo que pueda entenderse el porqué de sus resultados y controlarlo adecuadamente; así la define la guía de la AESIA, que la vincula a la explicabilidad y la interpretabilidad."
+  },
+  {
    "termino": "Ultrafalsificación",
    "alias": "Ultrasuplantación o deepfake",
    "slug": "ultrasuplantacion",
@@ -1156,6 +1416,22 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "“Programar por sensaciones” es un estilo de desarrollar software asistido por inteligencia artificial y popularizado por Andrej Karpathy en febrero de 2025."
+  },
+  {
+   "termino": "Vigilancia poscomercialización",
+   "alias": "Post-market monitoring",
+   "slug": "vigilancia-poscomercializacion",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "incidente-grave",
+    "conservacion-de-registros",
+    "sistema-de-gestion-de-riesgos"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el artículo 3.25 del Reglamento (UE) 2024/1689, todas las actividades realizadas por los proveedores destinadas a recoger y examinar la experiencia obtenida con el uso de los sistemas de IA que han introducido en el mercado o puesto en servicio, con objeto de detectar la posible necesidad de aplicar de…"
   },
   {
    "termino": "Web scraping",

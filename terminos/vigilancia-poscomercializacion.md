@@ -5,7 +5,7 @@ slug: vigilancia-poscomercializacion
 categorias: [ria, gobernanza]
 relacionados: [incidente-grave, conservacion-de-registros, sistema-de-gestion-de-riesgos]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el artículo 3.25 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), todas las actividades realizadas por los proveedores destinadas a recoger y examinar la experiencia obtenida con el uso de los sistemas de IA que han introducido en el mercado o puesto en servicio, con objeto de detectar la posible necesidad de aplicar de inmediato medidas correctoras o preventivas.

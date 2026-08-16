@@ -5,7 +5,7 @@ slug: transparencia
 categorias: [ria, gobernanza]
 relacionados: [instrucciones-de-uso, explicabilidad, sistema-de-ia-de-alto-riesgo]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Cualidad de un sistema de IA que permite interpretarlo y comprenderlo a lo largo de todo su ciclo de vida, de modo que pueda entenderse el porqué de sus resultados y controlarlo adecuadamente; así la define la [guía de la AESIA](https://aesia.digital.gob.es/storage/media/08-guia-transparencia.pdf), que la vincula a la explicabilidad y la interpretabilidad.

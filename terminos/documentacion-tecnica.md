@@ -5,7 +5,7 @@ slug: documentacion-tecnica
 categorias: [ria, gobernanza]
 relacionados: [sistema-de-ia-de-alto-riesgo, evaluacion-de-la-conformidad, conservacion-de-registros]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Expediente que demuestra que un sistema de IA de alto riesgo cumple los requisitos del capítulo III, sección 2. El artículo 11 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) obliga a elaborarla **antes** de la introducción en el mercado o la puesta en servicio y a mantenerla actualizada, con el contenido mínimo del anexo IV: descripción general del sistema, elementos de desarrollo, datos y procesos de entrenamiento, prueba y validación, capacidades y limitaciones, métricas de precisión, medidas de supervisión humana y documentación del sistema de gestión de riesgos. Las pymes y empresas emergentes pueden presentarla de forma simplificada mediante un formulario de la Comisión.

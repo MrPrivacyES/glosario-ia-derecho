@@ -5,7 +5,7 @@ slug: sistema-de-gestion-de-riesgos
 categorias: [ria, gobernanza]
 relacionados: [riesgo, sistema-de-ia-de-alto-riesgo, sistema-de-gestion-de-la-calidad]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Primer requisito exigible a un sistema de IA de alto riesgo. El artículo 9 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) obliga a establecerlo, implantarlo, documentarlo y mantenerlo, y lo define como un proceso iterativo continuo, planificado y ejecutado durante todo el ciclo de vida del sistema, sujeto a revisiones y actualizaciones sistemáticas periódicas. Sus etapas son determinar y analizar los riesgos conocidos y previsibles para la salud, la seguridad y los derechos fundamentales, estimar los que puedan surgir del uso conforme a la finalidad prevista y del uso indebido razonablemente previsible, evaluar los que se detecten en la vigilancia poscomercialización y adoptar medidas de gestión adecuadas.

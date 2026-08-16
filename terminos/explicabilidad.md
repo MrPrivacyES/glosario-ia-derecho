@@ -3,7 +3,7 @@ termino: Explicabilidad
 alias: Interpretabilidad o explainability
 slug: explicabilidad
 categorias: [tecnico, gobernanza]
-relacionados: [transparencia, persona-afectada, razonamiento]
+relacionados: [transparencia, human-in-the-loop, razonamiento]
 actualizado: 2026-08-16
 estado: publicado
 ---

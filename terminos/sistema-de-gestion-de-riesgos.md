@@ -3,7 +3,7 @@ termino: Sistema de gestión de riesgos
 alias: Risk management system
 slug: sistema-de-gestion-de-riesgos
 categorias: [ria, gobernanza]
-relacionados: [riesgo, sistema-de-ia-de-alto-riesgo, sistema-de-gestion-de-la-calidad]
+relacionados: [riesgo, sistema-de-ia-de-alto-riesgo, ciclo-de-vida-del-sistema-de-ia]
 actualizado: 2026-08-16
 estado: publicado
 ---

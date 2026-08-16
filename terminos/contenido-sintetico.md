@@ -3,7 +3,7 @@ termino: Contenido sintético
 alias: Synthetic content
 slug: contenido-sintetico
 categorias: [ria, riesgos]
-relacionados: [ultrasuplantacion, marca-de-agua, sistema-de-ia-de-uso-general, proveedor]
+relacionados: [ultrasuplantacion, marca-de-agua, ia-generativa, contenido-intimo-sintetico]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -3,7 +3,7 @@ termino: Vigilancia poscomercialización
 alias: Post-market monitoring
 slug: vigilancia-poscomercializacion
 categorias: [ria, gobernanza]
-relacionados: [incidente-grave, conservacion-de-registros, sistema-de-gestion-de-riesgos]
+relacionados: [incidente-grave, conservacion-de-registros, ciclo-de-vida-del-sistema-de-ia]
 actualizado: 2026-08-16
 estado: publicado
 ---

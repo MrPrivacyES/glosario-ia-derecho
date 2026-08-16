@@ -3,7 +3,7 @@ termino: Responsable del despliegue
 alias: 
 slug: responsable-del-despliegue
 categorias: [ria, actores]
-relacionados: [proveedor, operador, supervision-humana, instrucciones-de-uso, responsable-del-tratamiento]
+relacionados: [proveedor, operador, instrucciones-de-uso, responsable-del-tratamiento, evaluacion-de-impacto-derechos-fundamentales]
 actualizado: 2026-08-16
 estado: publicado
 ---

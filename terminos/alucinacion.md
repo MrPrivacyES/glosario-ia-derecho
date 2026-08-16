@@ -3,7 +3,7 @@ termino: Alucinación
 alias: Hallucination
 slug: alucinacion
 categorias: [tecnico, riesgos]
-relacionados: [llm-o-large-language-model, retrieval-augmented-generation, prompt]
+relacionados: [llm-o-large-language-model, retrieval-augmented-generation, ia-generativa]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -3,7 +3,7 @@ termino: Fase de desarrollo
 alias: Fase de despliegue o development phase
 slug: fase-de-desarrollo
 categorias: [datos, gobernanza]
-relacionados: [reutilizacion-de-datos, responsable-del-tratamiento, ajuste-fino]
+relacionados: [reutilizacion-de-datos, responsable-del-tratamiento, ciclo-de-vida-del-sistema-de-ia]
 actualizado: 2026-08-16
 estado: publicado
 ---

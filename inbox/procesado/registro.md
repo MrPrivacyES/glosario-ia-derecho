@@ -157,3 +157,41 @@ alfabetización quedan cubiertas por `alfabetizacion-en-materia-de-ia`; la propu
 controlado de pruebas neerlandés y el dictamen sobre la estructura de supervisión son
 posiciones institucionales nacionales; el documento sobre normas de producto está en
 neerlandés y solapa con `normas-armonizadas`.
+
+## 2026-08-16 — SEPD (7), Garante italiano (5) y DSK Alemania (3)
+
+Fuentes: `02_EDPS/`, `07_Garante_Italia/` y `06_DSK_Alemania/`. Procesadas juntas por ser
+nichos. Rendimiento bajo en número, como estaba previsto, pero incluye dos huecos de
+primer orden que ninguna de las series anteriores había destapado.
+
+| Término | Estado | Fuente |
+|---|---|---|
+| `ia-generativa` | nuevo (borrador) | SEPD, orientaciones sobre IA generativa |
+| `evaluacion-de-impacto-derechos-fundamentales` | nuevo (borrador) | art. 27 RIA |
+| `human-in-the-loop` | nuevo (borrador) | Garante, decálogo de IA en sanidad |
+| `ciclo-de-vida-del-sistema-de-ia` | nuevo (borrador) | SEPD, guía de gestión de riesgos |
+| `retrieval-augmented-generation` | actualizado | DSK, orientación sobre RAG (oct. 2025) |
+| `sesgo` | actualizado | SEPD, taxonomía de sesgos |
+| `contenido-intimo-sintetico` | actualizado | SEPD, declaración conjunta de 23-2-2026 |
+
+Dos gaps notables que no había detectado ninguna serie anterior: la evaluación de impacto
+relativa a los derechos fundamentales del artículo 27 —la única obligación del RIA que pesa
+sobre el responsable del despliegue y no sobre el proveedor— y la propia «IA generativa»,
+que el glosario usaba sin definir.
+
+### Descartado de estas tres series
+
+Del SEPD: el dictamen conjunto sobre el Ómnibus duplica el ya procesado del CEPD; el
+*Compass* 2026-2027 y el informe de mapeo de alto riesgo son planificación institucional
+propia del supervisor europeo, sin vocabulario nuevo.
+
+Del Garante: las directrices del Convenio 108 (2019) son anteriores al RIA y a la doctrina
+actual; el vademécum sobre deepfakes (2020) queda cubierto por `ultrasuplantacion` y
+`contenido-intimo-sintetico`; la nota sobre web scraping e IA generativa (2024) coincide con
+lo ya recogido de la CNIL y del CEPD en `web-scraping`. El decálogo de sanidad se aprovechó
+solo en `human-in-the-loop`: su grueso es Derecho italiano de protección de datos en el
+sector público, no trasladable.
+
+De la DSK: la orientación general sobre IA y protección de datos (2024) es una lista de
+comprobación para responsables; la de medidas técnicas y organizativas en sistemas de IA
+(2025) desarrolla el artículo 32 del RGPD sin acuñar términos propios. Ambas en alemán.

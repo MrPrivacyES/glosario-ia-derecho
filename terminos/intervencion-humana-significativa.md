@@ -3,7 +3,7 @@ termino: Intervención humana significativa
 alias: Meaningful human intervention
 slug: intervencion-humana-significativa
 categorias: [datos, gobernanza]
-relacionados: [supervision-humana, human-in-the-loop, explicabilidad]
+relacionados: [supervision-humana, human-in-the-loop, decisiones-automatizadas]
 actualizado: 2026-08-16
 estado: publicado
 ---

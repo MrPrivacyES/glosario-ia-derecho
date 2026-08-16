@@ -3,7 +3,7 @@ termino: Social scoring
 alias: puntuación ciudadana
 slug: social-scoring
 categorias: [ria, riesgos]
-relacionados: [practicas-prohibidas, persona-afectada, sesgo]
+relacionados: [practicas-prohibidas, elaboracion-de-perfiles, sesgo]
 actualizado: 2026-08-16
 estado: publicado
 ---

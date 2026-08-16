@@ -3,7 +3,7 @@ termino: Predicción de delitos
 alias: Policía predictiva o predictive policing
 slug: policia-predictiva
 categorias: [ria, riesgos]
-relacionados: [practicas-prohibidas, sesgo, persona-afectada]
+relacionados: [practicas-prohibidas, sesgo, elaboracion-de-perfiles]
 actualizado: 2026-08-16
 estado: publicado
 ---

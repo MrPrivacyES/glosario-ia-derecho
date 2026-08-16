@@ -3,7 +3,7 @@ termino: Persona afectada
 alias: Affected person
 slug: persona-afectada
 categorias: [ria, actores]
-relacionados: [responsable-del-despliegue, supervision-humana, intervencion-humana-significativa]
+relacionados: [responsable-del-despliegue, intervencion-humana-significativa, decisiones-automatizadas]
 actualizado: 2026-08-16
 estado: publicado
 ---

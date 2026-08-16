@@ -195,3 +195,47 @@ sector público, no trasladable.
 De la DSK: la orientación general sobre IA y protección de datos (2024) es una lista de
 comprobación para responsables; la de medidas técnicas y organizativas en sistemas de IA
 (2025) desarrolla el artículo 32 del RGPD sin acuñar términos propios. Ambas en alemán.
+
+## 2026-08-16 — ICO Reino Unido (11), APD Bélgica (8) e IMY/Digg Suecia (6)
+
+Fuentes: `09_ICO_ReinoUnido/`, `10_Belgica/` y `11_Suecia/`. Cierra el corpus
+`Guias_IA_Autoridades`: las once carpetas quedan procesadas. Rendimiento el más bajo de
+todas las tandas, como estaba previsto.
+
+| Término | Estado | Fuente |
+|---|---|---|
+| `elaboracion-de-perfiles` | nuevo (borrador) | art. 4.4 RGPD · ICO, decisiones automatizadas |
+| `decisiones-automatizadas` | nuevo (borrador) | art. 22 RGPD · ICO |
+| `explicabilidad` | actualizado | ICO, «Explaining decisions made with AI» |
+| `espacio-controlado-de-pruebas-para-la-ia` | actualizado | IMY, informe final de su espacio de protección de datos |
+
+Nota sobre el ICO: es Derecho británico y, tras la Data (Use and Access) Act de 19 de junio
+de 2025, su propia guía está en revisión. Se cita solo como referencia metodológica, nunca
+como fuente normativa, y así queda advertido en los términos.
+
+Los dos términos nuevos no salen en rigor del ICO sino del RGPD: la serie sirvió para
+detectar que el glosario venía citando el artículo 22 en cuatro entradas sin haberlo
+definido nunca.
+
+### Descartado de estas tres series
+
+Del ICO: las dos guías extensas (marco de auditoría de IA y guía sobre IA y protección de
+datos, unas 90.000 palabras) desarrollan el RGPD británico; la estrategia de IA y biometría,
+el enfoque regulador y la respuesta al RIA de 2021 son posición institucional; la política
+interna de uso de IA es organización propia del regulador.
+
+De Bélgica: los dos folletos —sistemas de IA y RGPD (2024) e impacto de la IA sobre la
+privacidad (2026), cada uno en tres idiomas— son divulgación general que solapa
+íntegramente con lo ya recogido de CNIL, AEPD y CEPD. La resolución AFAPDP sobre gobernanza
+ética es una declaración de principios.
+
+De Suecia: las directrices de Digg e IMY sobre IA generativa en la Administración quedan
+cubiertas por `ia-generativa`; la guía sobre reconocimiento facial y RGPD es una ficha
+breve; el resto está en sueco y no aporta vocabulario nuevo.
+
+---
+
+## Estado del corpus
+
+Las once carpetas de `Guias_IA_Autoridades` (123 documentos) quedan procesadas en siete
+tandas. Total: 61 términos nuevos y 12 actualizaciones sobre los 58 migrados de Ghost.

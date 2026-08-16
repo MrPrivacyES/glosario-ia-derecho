@@ -3,7 +3,7 @@ termino: Datos de entrenamiento
 alias: 
 slug: datos-de-entrenamiento
 categorias: [ria, datos]
-relacionados: [datos-de-validacion, datos-de-prueba, aprendizaje-automatico, web-scraping, sesgo]
+relacionados: [datos-de-validacion, datos-de-prueba, aprendizaje-automatico, web-scraping, gobernanza-de-datos]
 actualizado: 2026-08-16
 estado: publicado
 ---

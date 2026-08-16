@@ -3,7 +3,7 @@ termino: Proveedor
 alias: 
 slug: proveedor
 categorias: [ria, actores]
-relacionados: [responsable-del-despliegue, operador, proveedor-posterior, marcado-ce]
+relacionados: [responsable-del-despliegue, operador, proveedor-posterior, sistema-de-gestion-de-la-calidad]
 actualizado: 2026-08-16
 estado: publicado
 ---

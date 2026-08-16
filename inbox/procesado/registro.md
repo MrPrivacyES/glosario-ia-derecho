@@ -47,3 +47,41 @@ Fuente: `01_EDPB/EDPB_ChatGPT_Taskforce_Report_EN.md` (23-5-2024).
 
 Ventanilla única, interés legítimo y su ponderación, EIPD, derechos del interesado: son RGPD
 puro, no IA. Pequeña empresa de mediana capitalización (SMC): demasiado nicho.
+
+## 2026-08-16 — AESIA, serie de 16 guías sobre los requisitos del RIA
+
+Fuente: `12_AESIA/AESIA_01` a `AESIA_16`. Una guía por requisito del capítulo III, sección 2,
+más la maquinaria de cumplimiento que lo rodea. Publicadas en
+https://aesia.digital.gob.es. Valor principal: fijan la terminología oficial en castellano.
+
+| Término | Estado | Guía de origen y artículo del RIA |
+|---|---|---|
+| `sistema-de-gestion-de-riesgos` | nuevo (borrador) | Guía 05 · art. 9 |
+| `gobernanza-de-datos` | nuevo (borrador) | Guía 07 · art. 10 |
+| `documentacion-tecnica` | nuevo (borrador) | Guía 15 · arts. 11 y 18, anexo IV |
+| `conservacion-de-registros` | nuevo (borrador) | Guía 12 · arts. 12 y 26.6 |
+| `transparencia` | nuevo (borrador) | Guía 08 · art. 13 |
+| `instrucciones-de-uso` | nuevo (borrador) | Guía 08 · art. 13.2 y 13.3 |
+| `explicabilidad` | nuevo (borrador) | Guía 08 · arts. 13.3 y 86 |
+| `precision` | nuevo (borrador) | Guía 09 · art. 15 |
+| `solidez` | nuevo (borrador) | Guía 10 · art. 15 |
+| `ciberseguridad` | nuevo (borrador) | Guía 11 · art. 15.5 |
+| `envenenamiento-de-datos` | nuevo (borrador) | Guía 11 · art. 15.5 |
+| `ejemplos-adversarios` | nuevo (borrador) | Guía 11 · art. 15.5 |
+| `sistema-de-gestion-de-la-calidad` | nuevo (borrador) | Guía 04 · art. 17 |
+| `organismo-notificado` | nuevo (borrador) | Guía 03 · art. 3.22 |
+| `vigilancia-poscomercializacion` | nuevo (borrador) | Guía 13 · arts. 3.25 y 72 |
+| `incidente-grave` | nuevo (borrador) | Guía 14 · arts. 3.49 y 73 |
+| `sobreaprendizaje` | nuevo (borrador) | Guía 09 |
+| `supervision-humana` | actualizado | Guía 06 · art. 14 |
+
+Hallazgo terminológico: la AESIA titula su guía 06 «Vigilancia humana», mientras que el texto
+español del RIA titula el artículo 14 «Supervisión humana». Ambas expresiones circulan como
+sinónimas; recogido como alias en el término.
+
+### Descartado de la serie AESIA
+
+Las guías 01, 02 y 16 son introductorias y de checklist: no aportan términos que no estén ya
+cubiertos. Se descartan también las métricas concretas de evaluación (F1, balanced accuracy,
+matriz de confusión) y el aparato de normas ISO citado: son instrumental técnico que un
+abogado no necesita definir, aunque sí reconocer.

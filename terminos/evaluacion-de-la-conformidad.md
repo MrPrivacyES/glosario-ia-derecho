@@ -3,7 +3,7 @@ termino: Evaluación de la conformidad
 alias: Conformity assessment
 slug: evaluacion-de-la-conformidad
 categorias: [ria, gobernanza]
-relacionados: [sistema-de-ia-de-alto-riesgo, marcado-ce, normas-armonizadas]
+relacionados: [sistema-de-ia-de-alto-riesgo, marcado-ce, normas-armonizadas, organismo-notificado]
 actualizado: 2026-08-16
 estado: publicado
 ---

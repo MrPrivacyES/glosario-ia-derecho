@@ -3,7 +3,7 @@ termino: Datos de validación
 alias: 
 slug: datos-de-validacion
 categorias: [ria, datos]
-relacionados: [datos-de-entrenamiento, datos-de-prueba]
+relacionados: [datos-de-entrenamiento, datos-de-prueba, sobreaprendizaje]
 actualizado: 2026-08-16
 estado: publicado
 ---

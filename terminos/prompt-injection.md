@@ -3,7 +3,7 @@ termino: Prompt injection
 alias: inyección en datos de entrada
 slug: prompt-injection
 categorias: [tecnico, riesgos]
-relacionados: [prompt, llm-o-large-language-model]
+relacionados: [prompt, llm-o-large-language-model, ejemplos-adversarios]
 actualizado: 2026-08-16
 estado: publicado
 ---

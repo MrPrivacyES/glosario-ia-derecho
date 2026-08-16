@@ -3,7 +3,7 @@ termino: Sesgo
 alias: Bias
 slug: sesgo
 categorias: [tecnico, riesgos]
-relacionados: [datos-de-entrenamiento, web-scraping, riesgo]
+relacionados: [datos-de-entrenamiento, web-scraping, gobernanza-de-datos]
 actualizado: 2026-08-16
 estado: publicado
 ---

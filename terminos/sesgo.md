@@ -5,7 +5,7 @@ slug: sesgo
 categorias: [tecnico, riesgos]
 relacionados: [datos-de-entrenamiento, web-scraping, riesgo]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Desviación sistemática en el comportamiento de un sistema de IA que hace que sus resultados perjudiquen o favorezcan de forma injustificada a determinadas personas o grupos. Puede venir de los datos —conjuntos poco representativos, o que reflejan discriminaciones históricas—, del diseño del modelo o del propio uso, cuando quien lo emplea confía acríticamente en lo que la máquina propone.

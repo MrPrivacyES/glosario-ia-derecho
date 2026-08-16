@@ -5,7 +5,7 @@ slug: web-scraping
 categorias: [datos, tecnico]
 relacionados: [datos-de-entrenamiento, sesgo, modelo-de-ia-de-uso-general]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Recogida y extracción automatizada de información de fuentes accesibles al público en internet, normalmente para construir conjuntos de datos de entrenamiento. Es la forma en que se ha reunido buena parte del material con el que se entrenan los grandes modelos, y el [informe del grupo de trabajo del CEPD sobre ChatGPT](https://www.edpb.europa.eu/system/files/2024-05/edpb_20240523_report_chatgpt_taskforce_en.pdf) usa la expresión para englobar tanto el *scraping* como el *crawling*.

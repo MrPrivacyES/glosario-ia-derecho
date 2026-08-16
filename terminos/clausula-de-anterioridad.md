@@ -5,7 +5,7 @@ slug: clausula-de-anterioridad
 categorias: [ria, gobernanza]
 relacionados: [sistema-de-ia-de-alto-riesgo, modificacion-sustancial, ria]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Regla que exime de una norma nueva a lo que ya existía cuando entró en vigor. En el [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) la recoge el artículo 111.2: los sistemas de IA de alto riesgo introducidos en el mercado o puestos en servicio antes de la fecha de corte quedan fuera del Reglamento **salvo** que a partir de esa fecha sufran cambios significativos en su diseño. Hay dos excepciones importantes: las prácticas prohibidas del artículo 5 se aplican igualmente, y los sistemas de alto riesgo destinados a autoridades públicas deben cumplir en todo caso, como muy tarde, el 2 de agosto de 2030.

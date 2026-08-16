@@ -5,7 +5,7 @@ slug: enfoque-basado-en-el-riesgo
 categorias: [ria, riesgos]
 relacionados: [riesgo, sistema-de-ia-de-alto-riesgo, ria]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Técnica regulatoria que gradúa las obligaciones según el daño que un sistema puede causar, en lugar de imponer las mismas reglas a toda la IA. Es la arquitectura del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), que distribuye los sistemas en cuatro escalones: prácticas prohibidas (artículo 5), alto riesgo (artículo 6 y anexo III), riesgo de transparencia (artículo 50) y el resto, sin obligaciones específicas. A los modelos de IA de uso general se les aplica un eje paralelo, con un umbral propio de riesgo sistémico.

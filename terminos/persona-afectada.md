@@ -5,7 +5,7 @@ slug: persona-afectada
 categorias: [ria, actores]
 relacionados: [responsable-del-despliegue, supervision-humana, autoridad-de-vigilancia-del-mercado]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Quien sufre los efectos de un sistema de IA sin ser quien lo usa: el candidato descartado por un cribado automático, el solicitante al que un modelo deniega el crédito, el alumno al que un algoritmo puntúa. El [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) no la define en su artículo 3, pero la menciona repetidamente y le reconoce derechos concretos.

@@ -5,7 +5,7 @@ slug: autoridad-de-vigilancia-del-mercado
 categorias: [ria, gobernanza]
 relacionados: [oficina-de-ia, autoridades-de-derechos-fundamentales, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el artículo 3.26 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), la autoridad nacional que lleva a cabo las actividades y adopta las medidas previstas en el Reglamento (UE) 2019/1020. Traducido: es quien inspecciona, requiere documentación, ordena retirar del mercado y propone sanciones. Cada Estado miembro designa la suya; en España el papel está previsto para la AESIA, a la espera de que lo confirme el Proyecto de Ley Orgánica para el buen uso y la gobernanza de la IA.

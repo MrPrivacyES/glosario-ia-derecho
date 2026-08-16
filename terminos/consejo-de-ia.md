@@ -5,7 +5,7 @@ slug: consejo-de-ia
 categorias: [ria, gobernanza]
 relacionados: [oficina-de-ia, ria, codigo-de-buenas-practicas]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Órgano creado por el artículo 65 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), compuesto por un representante de cada Estado miembro, que asesora y asiste a la Comisión y a los Estados en la aplicación coherente y eficaz del Reglamento. El Supervisor Europeo de Protección de Datos participa como observador y la Oficina de IA asiste a las reuniones sin derecho de voto.

@@ -5,7 +5,7 @@ slug: alucinacion
 categorias: [tecnico, riesgos]
 relacionados: [llm-o-large-language-model, retrieval-augmented-generation, prompt]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Respuesta de un modelo generativo que resulta fluida, verosímil y sintácticamente correcta, pero falsa: datos inventados, citas inexistentes, sentencias que nunca se dictaron. No es un fallo puntual sino una consecuencia del funcionamiento del modelo, que predice la continuación estadísticamente más probable de un texto sin comprobar si lo que afirma es cierto. Ninguna norma emplea el término, y por eso conviene saber dónde se engancha jurídicamente.

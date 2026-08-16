@@ -5,7 +5,7 @@ slug: evaluacion-de-la-conformidad
 categorias: [ria, gobernanza]
 relacionados: [sistema-de-ia-de-alto-riesgo, marcado-ce, normas-armonizadas]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el artículo 3.20 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), el proceso por el que se demuestra si se han cumplido los requisitos del capítulo III, sección 2, en relación con un sistema de IA de alto riesgo. Es el trámite que abre la puerta del mercado europeo: sin superarlo no puede colocarse el marcado CE ni introducirse el sistema.

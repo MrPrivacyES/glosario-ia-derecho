@@ -5,7 +5,7 @@ slug: autoridades-de-derechos-fundamentales
 categorias: [ria, gobernanza]
 relacionados: [autoridad-de-vigilancia-del-mercado, sistema-de-ia-de-alto-riesgo, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Autoridades u organismos públicos nacionales encargados de supervisar o hacer respetar las obligaciones del Derecho de la Unión en materia de protección de los derechos fundamentales, incluido el derecho a la no discriminación. El artículo 77 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) les reconoce la facultad de solicitar y acceder a cualquier documentación creada o conservada en virtud del Reglamento —en un lenguaje y formato accesibles— cuando lo necesiten para cumplir su mandato respecto de sistemas de alto riesgo del anexo III. Cada Estado publica su lista; el acrónimo inglés FRAB se ha impuesto en la práctica.

@@ -5,7 +5,7 @@ slug: supervision-humana
 categorias: [ria, gobernanza]
 relacionados: [sistema-de-ia-de-alto-riesgo, responsable-del-despliegue, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Requisito del artículo 14 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712): los sistemas de IA de alto riesgo deben diseñarse y desarrollarse de modo que personas físicas puedan vigilarlos de manera efectiva mientras estén en uso, con herramientas de interfaz humano-máquina adecuadas. Su objetivo es prevenir o minimizar los riesgos para la salud, la seguridad o los derechos fundamentales que surjan tanto del uso conforme a la finalidad prevista como del uso indebido razonablemente previsible, y sus medidas deben ser proporcionales al riesgo, al nivel de autonomía y al contexto de uso.

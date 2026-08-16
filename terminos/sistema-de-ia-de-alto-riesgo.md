@@ -5,7 +5,7 @@ slug: sistema-de-ia-de-alto-riesgo
 categorias: [ria, riesgos]
 relacionados: [riesgo, evaluacion-de-la-conformidad, supervision-humana, clausula-de-anterioridad]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Categoría central del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712): la de los sistemas que, sin estar prohibidos, soportan el grueso de las obligaciones de la norma. Su artículo 6 los define por dos vías. La primera (artículo 6.1): el sistema es un componente de seguridad de un producto ya regulado por la legislación de armonización del anexo I —máquinas, juguetes, productos sanitarios, ascensores— o es él mismo ese producto, y debe pasar una evaluación de la conformidad de terceros. La segunda (artículo 6.2 y anexo III): el sistema se destina a alguno de los ámbitos listados —biometría, infraestructuras críticas, educación, empleo, servicios públicos y privados esenciales, garantía del cumplimiento del Derecho, migración y asilo, justicia y procesos democráticos—.

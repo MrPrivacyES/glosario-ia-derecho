@@ -5,7 +5,7 @@ slug: fase-de-desarrollo
 categorias: [datos, gobernanza]
 relacionados: [reutilizacion-de-datos, responsable-del-tratamiento, ajuste-fino]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Distinción que la [CNIL](https://www.cnil.fr/en/determining-applicable-legal-regime) sitúa en la base de todo su análisis: construir un sistema de IA y usarlo son dos tratamientos de datos personales distintos, cada uno con su finalidad, su base jurídica y, en su caso, su régimen legal. La fase de desarrollo comprende la creación del conjunto de entrenamiento, el entrenamiento y la validación; la de despliegue, el uso operativo del sistema ya construido.

@@ -5,7 +5,7 @@ slug: aprendizaje-por-transferencia
 categorias: [tecnico]
 relacionados: [ajuste-fino, aprendizaje-automatico, open-weights]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Técnica que reutiliza un modelo entrenado para una tarea como punto de partida para otra distinta, aprovechando las representaciones que ya aprendió. Un modelo entrenado para reconocer objetos en fotografías sirve, con relativamente pocos datos añadidos, para detectar defectos en piezas industriales o lesiones en radiografías. Es más amplio que el ajuste fino: éste especializa un modelo dentro de su misma tarea, aquél lo traslada a otra.

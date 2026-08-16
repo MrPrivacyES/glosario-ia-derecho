@@ -5,7 +5,7 @@ slug: reutilizacion-de-datos
 categorias: [datos]
 relacionados: [web-scraping, fase-de-desarrollo, responsable-del-tratamiento]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Uso de datos ya recogidos —propios o ajenos— para construir un conjunto de entrenamiento. Es la vía por la que se alimentan la mayoría de los modelos, y la [CNIL](https://www.cnil.fr/node/164402) exige distinguir dos supuestos con consecuencias distintas.

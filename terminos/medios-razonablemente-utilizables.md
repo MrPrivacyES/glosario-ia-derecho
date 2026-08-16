@@ -5,7 +5,7 @@ slug: medios-razonablemente-utilizables
 categorias: [datos]
 relacionados: [anonimato-de-los-modelos, ataques-de-reidentificacion, memorizacion]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Criterio con el que el Derecho de la Unión decide si un dato está verdaderamente anonimizado. El considerando 26 del RGPD lo formula así: para determinar si una persona es identificable deben tenerse en cuenta todos los medios que razonablemente pueda utilizar el responsable del tratamiento o cualquier otra persona, valorando el coste, el tiempo necesario y la tecnología disponible en el momento del tratamiento y su evolución. Es, por tanto, un estándar relativo y móvil: lo que hoy es anónimo puede dejar de serlo mañana.

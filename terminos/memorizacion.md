@@ -5,7 +5,7 @@ slug: memorizacion
 categorias: [tecnico, datos]
 relacionados: [anonimato-de-los-modelos, sobreaprendizaje, datos-de-entrenamiento]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Fenómeno por el que un modelo retiene fragmentos literales de sus datos de entrenamiento y puede llegar a reproducirlos en sus salidas. Cuando la reproducción ocurre en el uso normal del sistema —basta a veces un *prompt* muy específico— suele hablarse de regurgitación; cuando hace falta un ataque deliberado para extraerlos, de extracción.

@@ -5,7 +5,7 @@ slug: anotacion-de-datos
 categorias: [datos, tecnico]
 relacionados: [datos-de-entrenamiento, gobernanza-de-datos, sesgo]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Proceso de añadir a cada dato la etiqueta que el modelo debe aprender a predecir: marcar en una grabación quién habla, señalar en una imagen la posición de una persona y si está de pie o tendida, asociar a un análisis de sangre el diagnóstico que emitió un médico. Puede ser humana, semiautomática o automática, y a menudo reutiliza caracterizaciones hechas antes con otra finalidad. El artículo 10.2.c del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) la incluye expresamente entre las operaciones de preparación de datos sujetas a gobernanza.

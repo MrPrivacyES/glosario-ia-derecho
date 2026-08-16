@@ -20,6 +20,22 @@
    "extracto": "Son entornos simulados y controlados (normalmente clones de apps o servicios) en los que agentes de IA practican tareas de inicio a fin con refuerzos/feedback (Reinforcement Learning), así como validadores automáticos y humanos que miden su desempeño y seguridad."
   },
   {
+   "termino": "Ajuste fino",
+   "alias": "Fine-tuning",
+   "slug": "ajuste-fino",
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "aprendizaje-por-transferencia",
+    "datos-de-entrenamiento",
+    "proveedor-posterior"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Segunda fase del entrenamiento de un modelo: sobre un modelo ya preentrenado con un corpus general y costoso, se realiza un entrenamiento adicional con un conjunto de datos mucho más pequeño y específico para especializarlo en una tarea, un dominio o un estilo."
+  },
+  {
    "termino": "Alfabetización en materia de IA",
    "alias": "AI literacy",
    "slug": "alfabetizacion-en-materia-de-ia",
@@ -52,6 +68,39 @@
    "extracto": "Respuesta de un modelo generativo que resulta fluida, verosímil y sintácticamente correcta, pero falsa: datos inventados, citas inexistentes, sentencias que nunca se dictaron."
   },
   {
+   "termino": "Anonimato de un modelo de IA",
+   "alias": "Estatuto del modelo o model anonymity",
+   "slug": "anonimato-de-los-modelos",
+   "categorias": [
+    "datos",
+    "tecnico"
+   ],
+   "relacionados": [
+    "memorizacion",
+    "ataques-de-reidentificacion",
+    "medios-razonablemente-utilizables",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Cuestión previa a cualquier análisis de protección de datos sobre un modelo entrenado con datos personales: si del propio modelo pueden extraerse esos datos, el RGPD se aplica al modelo; si no, el modelo es anónimo y queda fuera."
+  },
+  {
+   "termino": "Anotación de datos",
+   "alias": "Etiquetado o data annotation",
+   "slug": "anotacion-de-datos",
+   "categorias": [
+    "datos",
+    "tecnico"
+   ],
+   "relacionados": [
+    "datos-de-entrenamiento",
+    "gobernanza-de-datos",
+    "sesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Proceso de añadir a cada dato la etiqueta que el modelo debe aprender a predecir: marcar en una grabación quién habla, señalar en una imagen la posición de una persona y si está de pie o tendida, asociar a un análisis de sangre el diagnóstico que emitió un médico."
+  },
+  {
    "termino": "Aprendizaje automático",
    "alias": "machine learning o ML",
    "slug": "aprendizaje-automatico",
@@ -60,10 +109,26 @@
    ],
    "relacionados": [
     "sistema-de-ia",
-    "datos-de-entrenamiento"
+    "datos-de-entrenamiento",
+    "aprendizaje-por-transferencia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según la Agencia Española de Protección de Datos en “Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial."
+  },
+  {
+   "termino": "Aprendizaje por transferencia",
+   "alias": "Transfer learning",
+   "slug": "aprendizaje-por-transferencia",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "ajuste-fino",
+    "aprendizaje-automatico",
+    "open-weights"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Técnica que reutiliza un modelo entrenado para una tarea como punto de partida para otra distinta, aprovechando las representaciones que ya aprendió."
   },
   {
    "termino": "Aprendizaje reforzado con retroalimentación humana",
@@ -79,6 +144,22 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "El Reinforcement Learning from Human Feedback (RLHF) es una técnica que combina aprendizaje por refuerzo con evaluaciones humanas de la salida (respuesta) del modelo para alinear su comportamiento con valores deseados."
+  },
+  {
+   "termino": "Ataques de reidentificación",
+   "alias": "Inferencia de pertenencia, inversión de modelo o reconstrucción",
+   "slug": "ataques-de-reidentificacion",
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "anonimato-de-los-modelos",
+    "memorizacion",
+    "ciberseguridad"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Familia de técnicas que buscan recuperar datos personales a partir de un modelo ya entrenado, y que la CNIL exige ensayar antes de afirmar que un modelo es anónimo."
   },
   {
    "termino": "Autoridad de vigilancia del mercado",
@@ -166,7 +247,8 @@
    "relacionados": [
     "envenenamiento-de-datos",
     "ejemplos-adversarios",
-    "solidez"
+    "solidez",
+    "ataques-de-reidentificacion"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Tercero de los requisitos del artículo 15 del Reglamento (UE) 2024/1689, cuyo apartado 5 lo formula así: los sistemas de IA de alto riesgo serán resistentes a los intentos de terceros no autorizados de alterar su uso, sus resultados de salida o su funcionamiento aprovechando las vulnerabilidades del sistema."
@@ -519,6 +601,22 @@
    "extracto": "Conjunto de técnicas que permiten dar cuenta de por qué un modelo ha producido un resultado concreto."
   },
   {
+   "termino": "Fase de desarrollo",
+   "alias": "Fase de despliegue o development phase",
+   "slug": "fase-de-desarrollo",
+   "categorias": [
+    "datos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "reutilizacion-de-datos",
+    "responsable-del-tratamiento",
+    "ajuste-fino"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Distinción que la CNIL sitúa en la base de todo su análisis: construir un sistema de IA y usarlo son dos tratamientos de datos personales distintos, cada uno con su finalidad, su base jurídica y, en su caso, su régimen legal."
+  },
+  {
    "termino": "Finalidad prevista",
    "alias": "",
    "slug": "finalidad-prevista",
@@ -543,7 +641,7 @@
    "relacionados": [
     "datos-de-entrenamiento",
     "sesgo",
-    "sistema-de-ia-de-alto-riesgo"
+    "anotacion-de-datos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Conjunto de políticas, procedimientos y controles que garantizan que los datos con los que se entrena, valida y prueba un sistema de IA son adecuados, pertinentes, suficientemente representativos y cumplen los requisitos de calidad y completitud exigidos."
@@ -759,6 +857,37 @@
    "extracto": "Según el artículo 3.24 del Reglamento (UE) 2024/1689, el marcado con el que un proveedor indica que un sistema de IA es conforme con los requisitos del capítulo III, sección 2, y con los demás actos de la legislación de armonización de la Unión que prevean su colocación."
   },
   {
+   "termino": "Medios razonablemente utilizables",
+   "alias": "Means reasonably likely to be used",
+   "slug": "medios-razonablemente-utilizables",
+   "categorias": [
+    "datos"
+   ],
+   "relacionados": [
+    "anonimato-de-los-modelos",
+    "ataques-de-reidentificacion",
+    "memorizacion"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Criterio con el que el Derecho de la Unión decide si un dato está verdaderamente anonimizado."
+  },
+  {
+   "termino": "Memorización",
+   "alias": "Regurgitación o memorisation",
+   "slug": "memorizacion",
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "anonimato-de-los-modelos",
+    "sobreaprendizaje",
+    "datos-de-entrenamiento"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Fenómeno por el que un modelo retiene fragmentos literales de sus datos de entrenamiento y puede llegar a reproducirlos en sus salidas."
+  },
+  {
    "termino": "Mixture of Experts (MoE) o “Mezcla de expertos”",
    "alias": "",
    "slug": "mixture-of-experts",
@@ -782,8 +911,8 @@
    "relacionados": [
     "sistema-de-ia-de-uso-general",
     "riesgo-sistemico",
-    "proveedor",
-    "codigo-de-buenas-practicas"
+    "codigo-de-buenas-practicas",
+    "anonimato-de-los-modelos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un modelo de IA, también uno entrenado con un gran volumen de datos utilizando autosupervisión a gran escala, que presenta un grado considerable de generalidad y es capaz de realizar de manera competente una gran variedad de tareas…"
@@ -845,7 +974,8 @@
    ],
    "relacionados": [
     "inteligencia-artificial-de-codigo-abierto",
-    "parametros"
+    "parametros",
+    "aprendizaje-por-transferencia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Publicación de los parámetros numéricos (“Pesos”) finales de un modelo, normalmente bajo licencia abierta, lo que permite su ejecución, afinado (fine-tuning) o inspección por terceros."
@@ -1000,7 +1130,8 @@
    ],
    "relacionados": [
     "proveedor",
-    "modificacion-sustancial"
+    "modificacion-sustancial",
+    "ajuste-fino"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un proveedor de un sistema de IA, también de un sistema de IA de uso general, que integra un modelo de IA, con independencia de que el modelo de IA lo proporcione él mismo y esté integrado verticalmente o lo proporcione otra entidad en virtud de…"
@@ -1058,12 +1189,28 @@
    "relacionados": [
     "proveedor",
     "operador",
-    "ia-agentica",
     "supervision-humana",
-    "instrucciones-de-uso"
+    "instrucciones-de-uso",
+    "responsable-del-tratamiento"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, o autoridad pública, órgano u organismo que utilice un sistema de IA bajo su propia autoridad, salvo cuando su uso se enmarque en una actividad personal de carácter no profesional."
+  },
+  {
+   "termino": "Responsable del tratamiento",
+   "alias": "Encargado del tratamiento o controller",
+   "slug": "responsable-del-tratamiento",
+   "categorias": [
+    "datos",
+    "actores"
+   ],
+   "relacionados": [
+    "responsable-del-despliegue",
+    "proveedor",
+    "fase-de-desarrollo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Quien determina los fines y los medios del tratamiento de datos personales —el «por qué» y el «cómo»—, frente al encargado, que trata los datos por cuenta de aquél."
   },
   {
    "termino": "Retirada de un sistema de IA",
@@ -1092,6 +1239,21 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "La “Generación aumentada con recuperación” es una arquitectura híbrida que primero recupera documentos relevantes de una base externa (por ejemplo, tus modelos de contrato) y luego los introduce en el modelo generativo, combinando precisión factual con capacidad de lenguaje."
+  },
+  {
+   "termino": "Reutilización de datos",
+   "alias": "Difusor y reutilizador de datos",
+   "slug": "reutilizacion-de-datos",
+   "categorias": [
+    "datos"
+   ],
+   "relacionados": [
+    "web-scraping",
+    "fase-de-desarrollo",
+    "responsable-del-tratamiento"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Uso de datos ya recogidos —propios o ajenos— para construir un conjunto de entrenamiento."
   },
   {
    "termino": "RIA",
@@ -1261,8 +1423,8 @@
    ],
    "relacionados": [
     "precision",
-    "datos-de-entrenamiento",
-    "datos-de-validacion"
+    "datos-de-validacion",
+    "memorizacion"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Defecto de un modelo que ha aprendido demasiado bien los datos con los que se entrenó —incluidos su ruido y sus peculiaridades— y por eso rinde de maravilla sobre ellos y mal sobre datos nuevos."
@@ -1444,7 +1606,8 @@
    "relacionados": [
     "datos-de-entrenamiento",
     "sesgo",
-    "modelo-de-ia-de-uso-general"
+    "reutilizacion-de-datos",
+    "memorizacion"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Recogida y extracción automatizada de información de fuentes accesibles al público en internet, normalmente para construir conjuntos de datos de entrenamiento."

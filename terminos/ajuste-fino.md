@@ -5,7 +5,7 @@ slug: ajuste-fino
 categorias: [tecnico, datos]
 relacionados: [aprendizaje-por-transferencia, datos-de-entrenamiento, proveedor-posterior]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Segunda fase del entrenamiento de un modelo: sobre un modelo ya preentrenado con un corpus general y costoso, se realiza un entrenamiento adicional con un conjunto de datos mucho más pequeño y específico para especializarlo en una tarea, un dominio o un estilo. Es la técnica que permite a una organización mediana tener un modelo propio sin entrenar nada desde cero.

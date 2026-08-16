@@ -5,7 +5,7 @@ slug: responsable-del-tratamiento
 categorias: [datos, actores]
 relacionados: [responsable-del-despliegue, proveedor, fase-de-desarrollo]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Quien determina los fines y los medios del tratamiento de datos personales —el «por qué» y el «cómo»—, frente al encargado, que trata los datos por cuenta de aquél. Son las figuras del artículo 4 del RGPD, y su relevancia aquí está en que **no coinciden con los roles del Reglamento de IA**: proveedor y responsable del despliegue son categorías de seguridad de los productos; responsable y encargado, de protección de datos. Una misma empresa puede ser proveedor y encargado, o responsable del despliegue y responsable del tratamiento, y confundirlos lleva a repartir mal las obligaciones en el contrato.

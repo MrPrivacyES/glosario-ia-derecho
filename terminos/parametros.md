@@ -3,7 +3,7 @@ termino: Parámetros
 alias: 
 slug: parametros
 categorias: [tecnico]
-relacionados: [llm-o-large-language-model, open-weights]
+relacionados: [llm-o-large-language-model, open-weights, mixture-of-experts]
 actualizado: 2026-08-16
 estado: publicado
 ---

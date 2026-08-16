@@ -3,7 +3,7 @@ termino: Sistema de IA de alto riesgo
 alias: High-risk AI system
 slug: sistema-de-ia-de-alto-riesgo
 categorias: [ria, riesgos]
-relacionados: [riesgo, evaluacion-de-la-conformidad, supervision-humana, sistema-de-gestion-de-riesgos, documentacion-tecnica]
+relacionados: [riesgo, evaluacion-de-la-conformidad, supervision-humana, sistema-de-gestion-de-riesgos, documentacion-tecnica, componente-de-seguridad]
 actualizado: 2026-08-16
 estado: publicado
 ---

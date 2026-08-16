@@ -143,8 +143,9 @@ for (const L of "ABCDEFGHIJKLMNOPQRSTUVWXYZ") {
 function cardHTML(t) {
   const alias = t.alias ? ` <span class="alias">(${t.alias})</span>` : "";
   const badges = t.categorias.map(c => `<span class="badge">${CATS[c]}</span>`).join("");
-  const rel = t.relacionados.length ? `<div class="rel"><span class="lbl">Relacionados</span>` +
-    t.relacionados.map(r => { const rt = DATA.find(x => x.slug === r);
+  const todosRel = [...t.relacionados, ...(t.enlazado_desde || [])];
+  const rel = todosRel.length ? `<div class="rel"><span class="lbl">Relacionados</span>` +
+    todosRel.map(r => { const rt = DATA.find(x => x.slug === r);
       return rt ? `<a href="#${r}">${rt.termino}</a>` : ""; }).join("") + `</div>` : "";
   return `<article class="card" id="${t.slug}">
     <button class="card-head" aria-expanded="false">

@@ -54,9 +54,12 @@ Reglas del cuerpo:
    española o europea (número, artículo, fecha, vigencia), verificarla con la skill
    `verificacion-legalize` (MCP Legalize Es). Si una cita no se puede verificar, se enlaza
    la fuente pero no se afirma el contenido del artículo.
-2. **Enlaces cruzados bidireccionales**: al crear o tocar un término, revisar que los
-   `relacionados` apunten a slugs existentes y que los términos destino enlacen de vuelta
-   cuando la relación sea simétrica.
+2. **Enlaces cruzados**: al crear o tocar un término, revisar que los `relacionados`
+   apunten a slugs existentes. La lista es curada (2-5 entradas, las más útiles para el
+   lector); no hace falta reciprocidad manual — el build añade automáticamente los enlaces
+   entrantes en la web —, pero sí conviene el enlace de vuelta cuando ambos términos se
+   explican mutuamente y el destino tiene hueco. No saturar los términos "hub" (LLM,
+   Sistema de IA de alto riesgo, Proveedor…) con listas kilométricas.
 3. **Nunca borrar un término** sin instrucción expresa del autor. Para retirar uno,
    `estado: borrador` (el build lo excluye).
 4. **`actualizado`** se cambia solo cuando cambia el contenido sustantivo, no por retoques

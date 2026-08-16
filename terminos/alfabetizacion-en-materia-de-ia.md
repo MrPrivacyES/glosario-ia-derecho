@@ -3,7 +3,7 @@ termino: Alfabetización en materia de IA
 alias: AI literacy
 slug: alfabetizacion-en-materia-de-ia
 categorias: [ria, gobernanza]
-relacionados: [ria, proveedor, responsable-del-despliegue]
+relacionados: [ria, proveedor, responsable-del-despliegue, chief-ai-officer]
 actualizado: 2026-08-16
 estado: publicado
 ---

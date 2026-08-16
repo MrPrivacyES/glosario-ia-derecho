@@ -3,7 +3,7 @@ termino: Autoridad de vigilancia del mercado
 alias: Market surveillance authority o MSA
 slug: autoridad-de-vigilancia-del-mercado
 categorias: [ria, gobernanza]
-relacionados: [oficina-de-ia, autoridades-de-derechos-fundamentales, persona-afectada]
+relacionados: [oficina-de-ia, autoridades-de-derechos-fundamentales, persona-afectada, espacio-controlado-de-pruebas-para-la-ia]
 actualizado: 2026-08-16
 estado: publicado
 ---

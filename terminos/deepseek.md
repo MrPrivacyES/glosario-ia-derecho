@@ -3,7 +3,7 @@ termino: DeepSeek
 alias: 
 slug: deepseek
 categorias: [cultura, tecnico]
-relacionados: [llm-o-large-language-model, open-weights, distillation]
+relacionados: [llm-o-large-language-model, open-weights, distillation, jevons-paradox]
 actualizado: 2026-08-16
 estado: publicado
 ---

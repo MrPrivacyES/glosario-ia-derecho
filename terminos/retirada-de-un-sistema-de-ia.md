@@ -3,7 +3,7 @@ termino: Retirada de un sistema de IA
 alias: 
 slug: retirada-de-un-sistema-de-ia
 categorias: [ria]
-relacionados: [recuperacion-de-un-sistema-de-ia]
+relacionados: [recuperacion-de-un-sistema-de-ia, autoridad-de-vigilancia-del-mercado]
 actualizado: 2026-08-16
 estado: publicado
 ---

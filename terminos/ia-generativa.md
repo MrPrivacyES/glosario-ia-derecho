@@ -3,7 +3,7 @@ termino: IA generativa
 alias: Inteligencia artificial generativa o GenAI
 slug: ia-generativa
 categorias: [tecnico, ria]
-relacionados: [contenido-sintetico, modelo-de-ia-de-uso-general, alucinacion, prompt]
+relacionados: [contenido-sintetico, modelo-de-ia-de-uso-general, alucinacion, prompt, vibe-coding]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -108,12 +108,21 @@ def main():
             print(f"AVISO: {t['slug']} tiene relacionados inexistentes o en borrador: {rotos}")
         t["relacionados"] = [r for r in t["relacionados"] if r in slugs]
 
+    # enlaces entrantes: la web los muestra junto a los curados, así el grafo
+    # navega en ambos sentidos sin obligar a reciprocidad manual en cada archivo
+    entrantes = {t["slug"]: [] for t in terms}
+    for t in terms:
+        for r in t["relacionados"]:
+            entrantes[r].append(t["slug"])
+    for t in terms:
+        t["enlazado_desde"] = [s for s in entrantes[t["slug"]] if s not in t["relacionados"]]
+
     terms.sort(key=lambda t: normaliza(t["termino"]))
     os.makedirs(OUT, exist_ok=True)
     hoy = datetime.date.today().isoformat()
 
     # datos abiertos (sin campo de búsqueda ni html)
-    abierto = [{k: t[k] for k in ("termino", "alias", "slug", "categorias", "relacionados", "actualizado", "extracto")} for t in terms]
+    abierto = [{k: t[k] for k in ("termino", "alias", "slug", "categorias", "relacionados", "enlazado_desde", "actualizado", "extracto")} for t in terms]
     with open(os.path.join(OUT, "glosario.json"), "w", encoding="utf-8") as f:
         json.dump({"titulo": "Glosario sobre IA y Derecho — The Legal Letters",
                    "url": "https://glosario.thelegaletters.com",

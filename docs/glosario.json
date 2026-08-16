@@ -16,6 +16,7 @@
     "reinforcement-learning",
     "modelo-de-ia-de-uso-general"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Son entornos simulados y controlados (normalmente clones de apps o servicios) en los que agentes de IA practican tareas de inicio a fin con refuerzos/feedback (Reinforcement Learning), así como validadores automáticos y humanos que miden su desempeño y seguridad."
   },
@@ -31,6 +32,7 @@
     "sistema-de-ia",
     "inteligencia-artificial"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Práctica de marketing engañosa consistente en exagerar o directamente inventar la presencia de inteligencia artificial en un producto o servicio para presentarlo como más avanzado o innovador de lo que realmente es."
   },
@@ -47,6 +49,7 @@
     "datos-de-entrenamiento",
     "proveedor-posterior"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Segunda fase del entrenamiento de un modelo: sobre un modelo ya preentrenado con un corpus general y costoso, se realiza un entrenamiento adicional con un conjunto de datos mucho más pequeño y específico para especializarlo en una tarea, un dominio o un estilo."
   },
@@ -61,8 +64,10 @@
    "relacionados": [
     "ria",
     "proveedor",
-    "responsable-del-despliegue"
+    "responsable-del-despliegue",
+    "chief-ai-officer"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se refiere al conjunto de capacidades, conocimientos y comprensión que permiten a proveedores, responsables del despliegue y otras personas afectadas tomar decisiones informadas en relación con los sistemas de IA, así como comprender las…"
   },
@@ -79,6 +84,7 @@
     "retrieval-augmented-generation",
     "ia-generativa"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Respuesta de un modelo generativo que resulta fluida, verosímil y sintácticamente correcta, pero falsa: datos inventados, citas inexistentes, sentencias que nunca se dictaron."
   },
@@ -96,6 +102,10 @@
     "medios-razonablemente-utilizables",
     "modelo-de-ia-de-uso-general"
    ],
+   "enlazado_desde": [
+    "datos-sinteticos",
+    "tecnologias-de-mejora-de-la-privacidad"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Cuestión previa a cualquier análisis de protección de datos sobre un modelo entrenado con datos personales: si del propio modelo pueden extraerse esos datos, el RGPD se aplica al modelo; si no, el modelo es anónimo y queda fuera."
   },
@@ -112,6 +122,7 @@
     "gobernanza-de-datos",
     "sesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Proceso de añadir a cada dato la etiqueta que el modelo debe aprender a predecir: marcar en una grabación quién habla, señalar en una imagen la posición de una persona y si está de pie o tendida, asociar a un análisis de sangre el diagnóstico que emitió un médico."
   },
@@ -128,6 +139,7 @@
     "aprendizaje-por-transferencia",
     "aprendizaje-federado"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según la Agencia Española de Protección de Datos en “Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial."
   },
@@ -144,6 +156,7 @@
     "aprendizaje-automatico",
     "responsable-del-tratamiento"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Modalidad de aprendizaje automático en la que varias fuentes de datos —dispositivos o servidores— colaboran para entrenar un modelo compartido manteniendo los datos descentralizados: en lugar de enviar los datos originales a un servidor central, cada fuente entrena localmente con los suyos y solo comparte…"
   },
@@ -159,6 +172,7 @@
     "aprendizaje-automatico",
     "open-weights"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Técnica que reutiliza un modelo entrenado para una tarea como punto de partida para otra distinta, aprovechando las representaciones que ya aprendió."
   },
@@ -174,6 +188,7 @@
     "reinforcement-learning",
     "llm-o-large-language-model"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "El Reinforcement Learning from Human Feedback (RLHF) es una técnica que combina aprendizaje por refuerzo con evaluaciones humanas de la salida (respuesta) del modelo para alinear su comportamiento con valores deseados."
   },
@@ -190,6 +205,9 @@
     "memorizacion",
     "ciberseguridad"
    ],
+   "enlazado_desde": [
+    "medios-razonablemente-utilizables"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Familia de técnicas que buscan recuperar datos personales a partir de un modelo ya entrenado, y que la CNIL exige ensayar antes de afirmar que un modelo es anónimo."
   },
@@ -204,7 +222,13 @@
    "relacionados": [
     "oficina-de-ia",
     "autoridades-de-derechos-fundamentales",
-    "persona-afectada"
+    "persona-afectada",
+    "espacio-controlado-de-pruebas-para-la-ia"
+   ],
+   "enlazado_desde": [
+    "incidente-grave",
+    "recuperacion-de-un-sistema-de-ia",
+    "retirada-de-un-sistema-de-ia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.26 del Reglamento (UE) 2024/1689, la autoridad nacional que lleva a cabo las actividades y adopta las medidas previstas en el Reglamento (UE) 2019/1020."
@@ -222,6 +246,7 @@
     "sistema-de-ia-de-alto-riesgo",
     "persona-afectada"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Autoridades u organismos públicos nacionales encargados de supervisar o hacer respetar las obligaciones del Derecho de la Unión en materia de protección de los derechos fundamentales, incluido el derecho a la no discriminación."
   },
@@ -237,6 +262,7 @@
     "riesgo-sistemico",
     "modelo-de-ia-de-uso-general"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), capacidades que igualan o superan las capacidades mostradas por los modelos de IA de uso general más avanzados."
   },
@@ -252,6 +278,9 @@
     "identificacion-biometrica",
     "sistemas-de-reconocimiento-de-emociones"
    ],
+   "enlazado_desde": [
+    "datos-biometricos"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la clasificación de personas físicas en categorías específicas basándose en sus datos biométricos."
   },
@@ -265,6 +294,7 @@
    "relacionados": [
     "alfabetizacion-en-materia-de-ia"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según la orden ejecutiva #14110 de octubre de 2023 del gobierno Biden en Estados Unidos, el Chief AI Officer será el responsable de coordinar el uso de IA en una organización, promover la innovación en IA, gestionar los riesgos del uso de IA en la organización y gestionar las responsabilidades derivadas de la…"
   },
@@ -282,6 +312,9 @@
     "solidez",
     "ataques-de-reidentificacion"
    ],
+   "enlazado_desde": [
+    "precision"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Tercero de los requisitos del artículo 15 del Reglamento (UE) 2024/1689, cuyo apartado 5 lo formula así: los sistemas de IA de alto riesgo serán resistentes a los intentos de terceros no autorizados de alterar su uso, sus resultados de salida o su funcionamiento aprovechando las vulnerabilidades del sistema."
   },
@@ -298,6 +331,7 @@
     "sistema-de-gestion-de-riesgos",
     "vigilancia-poscomercializacion"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Sucesión de etapas por las que pasa un sistema de IA desde su concepción hasta su retirada: definición del problema, obtención y preparación de los datos, entrenamiento, validación y prueba, evaluación, despliegue, explotación y seguimiento, reentrenamiento y, finalmente, retirada."
   },
@@ -314,6 +348,7 @@
     "modificacion-sustancial",
     "ria"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Regla que exime de una norma nueva a lo que ya existía cuando entró en vigor."
   },
@@ -331,6 +366,10 @@
     "marca-de-agua",
     "normas-armonizadas"
    ],
+   "enlazado_desde": [
+    "consejo-de-ia",
+    "modelo-de-ia-de-uso-general"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Instrumento voluntario, elaborado por la industria con la Oficina de IA y evaluado por la Comisión, que concreta cómo cumplir determinadas obligaciones del Reglamento (UE) 2024/1689."
   },
@@ -346,6 +385,7 @@
     "riesgo",
     "sistema-de-ia-de-alto-riesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un componente de un producto o un sistema de IA que cumple una función de seguridad para dicho producto o sistema de IA, o cuyo fallo o defecto de funcionamiento pone en peligro la salud y la seguridad de las personas o los bienes."
   },
@@ -362,6 +402,7 @@
     "ria",
     "codigo-de-buenas-practicas"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Órgano creado por el artículo 65 del Reglamento (UE) 2024/1689, compuesto por un representante de cada Estado miembro, que asesora y asiste a la Comisión y a los Estados en la aplicación coherente y eficaz del Reglamento."
   },
@@ -377,6 +418,9 @@
     "documentacion-tecnica",
     "sistema-de-ia-de-alto-riesgo",
     "vigilancia-poscomercializacion"
+   ],
+   "enlazado_desde": [
+    "incidente-grave"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Requisito del artículo 12 del Reglamento (UE) 2024/1689: los sistemas de IA de alto riesgo deben permitir técnicamente el registro automático de acontecimientos —los llamados archivos de registro o logs— a lo largo de todo su ciclo de vida, con un nivel de trazabilidad adecuado a la finalidad prevista."
@@ -395,6 +439,7 @@
     "contenido-sintetico",
     "persona-afectada"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Imágenes, vídeos o audios realistas generados o manipulados por IA que muestran las partes íntimas de una persona identificable, o a esa persona participando en actividades sexualmente explícitas, sin su consentimiento."
   },
@@ -412,6 +457,10 @@
     "ia-generativa",
     "contenido-intimo-sintetico"
    ],
+   "enlazado_desde": [
+    "codigo-de-buenas-practicas",
+    "sistema-de-ia-de-uso-general"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Contenido de audio, imagen, vídeo o texto generado o manipulado artificialmente por un sistema de IA, en contraposición al producido directamente por una persona."
   },
@@ -426,8 +475,9 @@
     "token",
     "llm-o-large-language-model"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "El contexto de ventana o “Context Window (Token)”, según IBM, consiste en los tokens que una sistema de IA, por ejemplo ChatGPT, puede procesar o recordar como datos de entrada cuando le pedimos algo."
+   "extracto": "El contexto de ventana o “Context Window (Token)”, según IBM, consiste en los tokens que un sistema de IA, por ejemplo ChatGPT, puede procesar o recordar como datos de entrada cuando le pedimos algo."
   },
   {
    "termino": "Datos biométricos",
@@ -442,6 +492,7 @@
     "categorizacion-biometrica",
     "sistemas-de-reconocimiento-de-emociones"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.34 del Reglamento (UE) 2024/1689, los datos personales obtenidos a partir de un tratamiento técnico específico, relativos a las características físicas, fisiológicas o conductuales de una persona física, como imágenes faciales o datos dactiloscópicos."
   },
@@ -456,6 +507,9 @@
    "relacionados": [
     "datos-de-entrenamiento",
     "sistema-de-ia"
+   ],
+   "enlazado_desde": [
+    "prompt"
    ],
    "actualizado": "2026-08-16",
    "extracto": "(Prompt): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), los datos proporcionados a un sistema de IA u obtenidos directamente por él a partir de los cuales produce un resultado de salida."
@@ -475,6 +529,15 @@
     "web-scraping",
     "gobernanza-de-datos"
    ],
+   "enlazado_desde": [
+    "ajuste-fino",
+    "anotacion-de-datos",
+    "datos-de-entrada",
+    "datos-sinteticos",
+    "envenenamiento-de-datos",
+    "memorizacion",
+    "sesgo"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "(Dataset): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consisten en los datos usados para entrenar un sistema de IA mediante el ajuste de sus parámetros"
   },
@@ -490,6 +553,7 @@
     "datos-de-entrenamiento",
     "datos-de-validacion"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consisten en los datos usados para proporcionar una evaluación independiente del sistema de IA, con el fin de confirmar el funcionamiento previsto de dicho sistema antes de su introducción en el mercado o su puesta en servicio."
   },
@@ -506,6 +570,7 @@
     "datos-de-prueba",
     "sobreaprendizaje"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en los datos usados para proporcionar una evaluación del sistema de IA entrenado y adaptar sus parámetros no entrenables y su proceso de aprendizaje para, entre otras cosas, evitar el subajuste o el"
   },
@@ -522,6 +587,7 @@
     "anonimato-de-los-modelos",
     "datos-de-entrenamiento"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Datos artificiales generados por un modelo entrenado con un conjunto de datos de origen, del que imitan las características y la estructura."
   },
@@ -539,6 +605,7 @@
     "explicabilidad",
     "persona-afectada"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "El artículo 22 del Reglamento (UE) 2016/679 reconoce a todo interesado el derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar."
   },
@@ -553,8 +620,10 @@
    "relacionados": [
     "llm-o-large-language-model",
     "open-weights",
-    "distillation"
+    "distillation",
+    "jevons-paradox"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd."
   },
@@ -569,6 +638,7 @@
     "llm-o-large-language-model",
     "deepseek"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Proceso por el que los conocimientos de un modelo fundacional (“Profesor”) se transfieren a uno más pequeño en desarrollo (“Estudiante”) conservando la mayor parte de su precisión, pero reduciendo parámetros y coste de inferencia."
   },
@@ -585,6 +655,7 @@
     "importador",
     "operador"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica que forme parte de la cadena de suministro, distinta del proveedor o el importador, que comercialice un sistema de IA en el mercado de la Unión."
   },
@@ -601,6 +672,7 @@
     "evaluacion-de-la-conformidad",
     "conservacion-de-registros"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Expediente que demuestra que un sistema de IA de alto riesgo cumple los requisitos del capítulo III, sección 2."
   },
@@ -617,6 +689,7 @@
     "envenenamiento-de-datos",
     "prompt-injection"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Entradas manipuladas de forma deliberada, a menudo con alteraciones imperceptibles para una persona, que hacen que un modelo cometa un error."
   },
@@ -631,6 +704,10 @@
     "decisiones-automatizadas",
     "sesgo",
     "persona-afectada"
+   ],
+   "enlazado_desde": [
+    "policia-predictiva",
+    "social-scoring"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 4.4 del Reglamento (UE) 2016/679, toda forma de tratamiento automatizado de datos personales consistente en utilizar datos personales para evaluar determinados aspectos personales de una persona física, en particular para analizar o predecir aspectos relativos a su rendimiento profesional,…"
@@ -647,6 +724,7 @@
     "retrieval-augmented-generation",
     "token"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según lo define AWS, las incrustaciones son representaciones numéricas de objetos del mundo real que los sistemas de IA utilizan para comprender dominios de conocimiento complejos, como lo hacen los humanos."
   },
@@ -663,6 +741,7 @@
     "sistema-de-ia-de-alto-riesgo",
     "practicas-prohibidas"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Técnica regulatoria que gradúa las obligaciones según el daño que un sistema puede causar, en lugar de imponer las mismas reglas a toda la IA."
   },
@@ -679,6 +758,7 @@
     "datos-de-entrenamiento",
     "ejemplos-adversarios"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Ataque que consiste en contaminar deliberadamente el material con el que se entrena un modelo para alterar su comportamiento posterior."
   },
@@ -695,6 +775,7 @@
     "autoridad-de-vigilancia-del-mercado",
     "fase-de-desarrollo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento (UE) 2024/1689, un marco controlado establecido por una autoridad competente que ofrece a los proveedores y proveedores potenciales de sistemas de IA la posibilidad de desarrollar, entrenar, validar y probar, en condiciones reales cuando proceda, un sistema de IA innovador, con arreglo a un plan…"
   },
@@ -712,6 +793,7 @@
     "persona-afectada",
     "supervision-humana"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Evaluación que el artículo 27 del Reglamento (UE) 2024/1689 impone antes de desplegar determinados sistemas de IA de alto riesgo."
   },
@@ -729,6 +811,10 @@
     "normas-armonizadas",
     "organismo-notificado"
    ],
+   "enlazado_desde": [
+    "documentacion-tecnica",
+    "sistema-de-gestion-de-la-calidad"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.20 del Reglamento (UE) 2024/1689, el proceso por el que se demuestra si se han cumplido los requisitos del capítulo III, sección 2, en relación con un sistema de IA de alto riesgo."
   },
@@ -745,6 +831,7 @@
     "human-in-the-loop",
     "decisiones-automatizadas"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Conjunto de técnicas que permiten dar cuenta de por qué un modelo ha producido un resultado concreto."
   },
@@ -761,6 +848,9 @@
     "responsable-del-tratamiento",
     "ciclo-de-vida-del-sistema-de-ia"
    ],
+   "enlazado_desde": [
+    "espacio-controlado-de-pruebas-para-la-ia"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Distinción que la CNIL sitúa en la base de todo su análisis: construir un sistema de IA y usarlo son dos tratamientos de datos personales distintos, cada uno con su finalidad, su base jurídica y, en su caso, su régimen legal."
   },
@@ -774,6 +864,9 @@
    "relacionados": [
     "uso-indebido-razonablemente-previsible",
     "sistema-de-ia"
+   ],
+   "enlazado_desde": [
+    "modificacion-sustancial"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en el uso para el que un proveedor concibe un sistema de IA, incluidos el contexto y las condiciones de uso concretos, según la información facilitada por el proveedor en las instrucciones de uso, los materiales y las declaraciones de…"
@@ -791,6 +884,7 @@
     "sesgo",
     "anotacion-de-datos"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Conjunto de políticas, procedimientos y controles que garantizan que los datos con los que se entrena, valida y prueba un sistema de IA son adecuados, pertinentes, suficientemente representativos y cumplen los requisitos de calidad y completitud exigidos."
   },
@@ -805,6 +899,7 @@
     "llm-o-large-language-model",
     "transformer"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Un GPT o Transformador Pre-entrenado Generativo es un tipo de LLM o modelo de IA de uso general."
   },
@@ -821,6 +916,7 @@
     "intervencion-humana-significativa",
     "explicabilidad"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Arquitectura en la que una persona interviene dentro del ciclo de decisión del sistema, con capacidad efectiva de controlar, validar o rechazar el resultado automático."
   },
@@ -837,6 +933,7 @@
     "responsable-del-despliegue",
     "razonamiento"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Sistemas de IA que no se limitan a responder preguntas, sino que interactúan de forma autónoma con su entorno digital —navegan, consultan fuentes, invocan herramientas y encadenan pasos— para alcanzar un objetivo encargado por el usuario."
   },
@@ -852,7 +949,11 @@
     "contenido-sintetico",
     "modelo-de-ia-de-uso-general",
     "alucinacion",
-    "prompt"
+    "prompt",
+    "vibe-coding"
+   ],
+   "enlazado_desde": [
+    "retrieval-augmented-generation"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Sistemas de IA capaces de producir contenido nuevo —texto, imagen, audio, vídeo, código— en lugar de limitarse a clasificar o predecir sobre datos existentes."
@@ -870,6 +971,7 @@
     "categorizacion-biometrica",
     "practicas-prohibidas"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento (UE) 2024/1689, el reconocimiento automatizado de características humanas físicas, fisiológicas o conductuales (como la cara, la voz o la marcha) con el fin de determinar la identidad de una persona, comparando sus datos biométricos con una base de datos de referencia."
   },
@@ -884,6 +986,9 @@
    "relacionados": [
     "distribuidor",
     "proveedor"
+   ],
+   "enlazado_desde": [
+    "operador"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica ubicada o establecida en la Unión que introduzca en el mercado un sistema de IA que lleve el nombre o la marca de una persona física o jurídica establecida en un tercer país."
@@ -901,6 +1006,7 @@
     "autoridad-de-vigilancia-del-mercado",
     "conservacion-de-registros"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.49 del Reglamento (UE) 2024/1689, un incidente o defecto de funcionamiento de un sistema de IA que, directa o indirectamente, tenga alguna de estas consecuencias: el fallecimiento de una persona o un perjuicio grave para su salud; una alteración grave e irreversible de la gestión o el…"
   },
@@ -917,6 +1023,7 @@
     "responsable-del-despliegue",
     "proveedor"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Documento que el proveedor debe entregar junto con todo sistema de IA de alto riesgo, en formato digital u otro adecuado, con información concisa, completa, correcta y clara, accesible y comprensible para el responsable del despliegue (artículo 13.2 del Reglamento (UE) 2024/1689)."
   },
@@ -928,10 +1035,12 @@
     "ria"
    ],
    "relacionados": [
-    "sistema-de-ia"
+    "sistema-de-ia",
+    "ai-washing"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "Según la OCDE en marzo de 2024, consiste en un un sistema basado en máquinas que, para objetivos explícitos o implícitos, infiere, a partir de la información que recibe, cómo generar resultados como predicciones, contenido, recomendaciones o decisiones que pueden influir en entornos físicos o virtuales."
+   "extracto": "Según la OCDE en marzo de 2024, consiste en un sistema basado en máquinas que, para objetivos explícitos o implícitos, infiere, a partir de la información que recibe, cómo generar resultados como predicciones, contenido, recomendaciones o decisiones que pueden influir en entornos físicos o virtuales."
   },
   {
    "termino": "Inteligencia artificial de código abierto",
@@ -944,6 +1053,7 @@
    "relacionados": [
     "open-weights"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según la Open Source Initiative, lo será cualquier modelo de IA que proporcione: 1) Acceso a detalles sobre los datos utilizados para entrenar la IA para que otros puedan comprenderla y recrearla; 2) el código completo utilizado para construir y ejecutar la IA; 3) y las configuraciones y pesos del entrenamiento,…"
   },
@@ -959,6 +1069,7 @@
     "llm-o-large-language-model",
     "p-doom"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según la obra de Ray Kurzweil, podría hablarse de inteligencia artificial general (AGI en inglés) como de un tipo de inteligencia artificial que iguala o supera las capacidades cognitivas humanas en una amplia gama de tareas cognitivas."
   },
@@ -975,6 +1086,9 @@
     "human-in-the-loop",
     "decisiones-automatizadas"
    ],
+   "enlazado_desde": [
+    "persona-afectada"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Umbral que debe alcanzar la participación de una persona para que una decisión deje de considerarse «basada únicamente en el tratamiento automatizado» a efectos del artículo 22 del RGPD."
   },
@@ -988,6 +1102,7 @@
    "relacionados": [
     "deepseek"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Principio económico según el cual las mejoras en la eficiencia de un recurso (p.ej."
   },
@@ -1002,6 +1117,7 @@
     "parametros",
     "test-time-compute"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Las “Scaling Laws” son regularidades empíricas que describen cómo el rendimiento del modelo mejora de forma predecible al aumentar en datos, parámetros o cómputo, permitiendo extrapolar la necesidad de recursos antes de entrenar."
   },
@@ -1017,6 +1133,21 @@
     "token",
     "gpt",
     "alucinacion"
+   ],
+   "enlazado_desde": [
+    "aprendizaje-reforzado-con-retroalimentacion-humana",
+    "context-window",
+    "deepseek",
+    "distillation",
+    "embedding",
+    "inteligencia-artificial-general",
+    "mixture-of-experts",
+    "parametros",
+    "prompt-injection",
+    "prompt",
+    "razonamiento",
+    "retrieval-augmented-generation",
+    "vibe-coding"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Ver la definición de “Modelo de IA de uso general”."
@@ -1034,6 +1165,7 @@
     "ultrasuplantacion",
     "codigo-de-buenas-practicas"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Señal imperceptible que se incrusta en el propio contenido generado por una IA —en los píxeles de una imagen, en la onda de audio o en la distribución de los tokens de un texto— para que una máquina pueda después detectar su origen artificial, incluso tras recortes, recompresiones o capturas de pantalla."
   },
@@ -1050,6 +1182,9 @@
     "sistema-de-ia-de-alto-riesgo",
     "proveedor"
    ],
+   "enlazado_desde": [
+    "organismo-notificado"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.24 del Reglamento (UE) 2024/1689, el marcado con el que un proveedor indica que un sistema de IA es conforme con los requisitos del capítulo III, sección 2, y con los demás actos de la legislación de armonización de la Unión que prevean su colocación."
   },
@@ -1065,6 +1200,7 @@
     "ataques-de-reidentificacion",
     "tecnologias-de-mejora-de-la-privacidad"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Criterio con el que el Derecho de la Unión decide si un dato está verdaderamente anonimizado."
   },
@@ -1081,6 +1217,10 @@
     "sobreaprendizaje",
     "datos-de-entrenamiento"
    ],
+   "enlazado_desde": [
+    "ataques-de-reidentificacion",
+    "web-scraping"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Fenómeno por el que un modelo retiene fragmentos literales de sus datos de entrenamiento y puede llegar a reproducirlos en sus salidas."
   },
@@ -1095,6 +1235,7 @@
     "llm-o-large-language-model",
     "parametros"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Arquitectura en la que varios sub-modelos especializados (“Expertos”) compiten o son seleccionados dinámicamente mediante un router para responder a cada entrada, aumentando la capacidad efectiva sin elevar el coste de inferencia linealmente."
   },
@@ -1111,6 +1252,11 @@
     "codigo-de-buenas-practicas",
     "anonimato-de-los-modelos"
    ],
+   "enlazado_desde": [
+    "ai-gyms",
+    "capacidades-de-gran-impacto",
+    "ia-generativa"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un modelo de IA, también uno entrenado con un gran volumen de datos utilizando autosupervisión a gran escala, que presenta un grado considerable de generalidad y es capaz de realizar de manera competente una gran variedad de tareas…"
   },
@@ -1126,6 +1272,7 @@
     "finalidad-prevista",
     "clausula-de-anterioridad"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un cambio en un sistema de IA tras su introducción en el mercado o puesta en servicio que no haya sido previsto o proyectado en la evaluación de la conformidad inicial realizada por el proveedor y a consecuencia del cual se vea afectado el…"
   },
@@ -1142,6 +1289,7 @@
     "codigo-de-buenas-practicas",
     "sistema-de-ia-de-alto-riesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Normas técnicas elaboradas por los organismos europeos de normalización —CEN, CENELEC, ETSI— a petición de la Comisión, cuyas referencias se publican en el Diario Oficial."
   },
@@ -1159,6 +1307,7 @@
     "consejo-de-ia",
     "autoridad-de-vigilancia-del-mercado"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.47 del Reglamento (UE) 2024/1689, la función de la Comisión consistente en contribuir a la implantación, el seguimiento y la supervisión de los sistemas de IA y los modelos de IA de uso general, y a la gobernanza de la IA prevista en la Decisión de la Comisión de 24 de enero de 2024; el propio…"
   },
@@ -1173,6 +1322,9 @@
     "inteligencia-artificial-de-codigo-abierto",
     "parametros",
     "aprendizaje-por-transferencia"
+   ],
+   "enlazado_desde": [
+    "deepseek"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Publicación de los parámetros numéricos (“Pesos”) finales de un modelo, normalmente bajo licencia abierta, lo que permite su ejecución, afinado (fine-tuning) o inspección por terceros."
@@ -1191,6 +1343,7 @@
     "distribuidor",
     "importador"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un proveedor, fabricante del producto, responsable del despliegue, representante autorizado, importador o distribuidor."
   },
@@ -1207,6 +1360,7 @@
     "marcado-ce",
     "sistema-de-ia-de-alto-riesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.22 del Reglamento (UE) 2024/1689, un organismo de evaluación de la conformidad notificado con arreglo al propio Reglamento y a otros actos pertinentes de la legislación de armonización de la Unión."
   },
@@ -1221,6 +1375,7 @@
    "relacionados": [
     "inteligencia-artificial-general"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Es un término en seguridad de IA que se refiere a la probabilidad de resultados existencialmente catastróficos (o \"perdición\") como resultado de la inteligencia artificial."
   },
@@ -1233,7 +1388,11 @@
    ],
    "relacionados": [
     "llm-o-large-language-model",
-    "open-weights"
+    "open-weights",
+    "mixture-of-experts"
+   ],
+   "enlazado_desde": [
+    "leyes-de-escalado"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Valores numéricos que definen el estado de un modelo de IA tras el entrenamiento; influyen directamente en la salida o respuesta en relación a una entrada dada (el prompt)."
@@ -1250,6 +1409,14 @@
     "responsable-del-despliegue",
     "intervencion-humana-significativa",
     "decisiones-automatizadas"
+   ],
+   "enlazado_desde": [
+    "autoridad-de-vigilancia-del-mercado",
+    "autoridades-de-derechos-fundamentales",
+    "contenido-intimo-sintetico",
+    "elaboracion-de-perfiles",
+    "evaluacion-de-impacto-derechos-fundamentales",
+    "tecnicas-subliminales"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Quien sufre los efectos de un sistema de IA sin ser quien lo usa: el candidato descartado por un cribado automático, el solicitante al que un modelo deniega el crédito, el alumno al que un algoritmo puntúa."
@@ -1268,6 +1435,11 @@
     "social-scoring",
     "policia-predictiva"
    ],
+   "enlazado_desde": [
+    "contenido-intimo-sintetico",
+    "identificacion-biometrica",
+    "sistemas-de-reconocimiento-de-emociones"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Escalón superior del enfoque basado en el riesgo: los usos de la IA que el legislador europeo considera de riesgo inadmisible y veda por completo."
   },
@@ -1284,6 +1456,7 @@
     "ciberseguridad",
     "sobreaprendizaje"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Grado en que los resultados de un sistema de IA se corresponden con los correctos."
   },
@@ -1300,6 +1473,7 @@
     "sesgo",
     "elaboracion-de-perfiles"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Uso de sistemas de IA para evaluar el riesgo de que una persona cometa un delito."
   },
@@ -1312,7 +1486,12 @@
    ],
    "relacionados": [
     "prompt-injection",
-    "llm-o-large-language-model"
+    "llm-o-large-language-model",
+    "datos-de-entrada"
+   ],
+   "enlazado_desde": [
+    "ia-generativa",
+    "vibe-coding"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Ver definición de “Datos de entrada”."
@@ -1330,6 +1509,7 @@
     "llm-o-large-language-model",
     "ejemplos-adversarios"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según IBM, consiste en un tipo de ciberataque contra un LLM."
   },
@@ -1347,6 +1527,15 @@
     "proveedor-posterior",
     "sistema-de-gestion-de-la-calidad"
    ],
+   "enlazado_desde": [
+    "alfabetizacion-en-materia-de-ia",
+    "distribuidor",
+    "importador",
+    "instrucciones-de-uso",
+    "marcado-ce",
+    "responsable-del-tratamiento",
+    "ria"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, autoridad pública, órgano u organismo que desarrolle un sistema de IA o un modelo de IA de uso general o para el que se desarrolle un sistema de IA o un modelo de IA de uso general y lo introduzca en el…"
   },
@@ -1363,6 +1552,7 @@
     "modificacion-sustancial",
     "ajuste-fino"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un proveedor de un sistema de IA, también de un sistema de IA de uso general, que integra un modelo de IA, con independencia de que el modelo de IA lo proporcione él mismo y esté integrado verticalmente o lo proporcione otra entidad en virtud de…"
   },
@@ -1378,6 +1568,7 @@
     "llm-o-large-language-model",
     "ia-agentica"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Capacidad de un sistema para encadenar inferencias lógicas o causales más allá de la simple correlación estadística, resolviendo tareas que requieren planificación, deducción o abstracción."
   },
@@ -1389,8 +1580,10 @@
     "ria"
    ],
    "relacionados": [
-    "retirada-de-un-sistema-de-ia"
+    "retirada-de-un-sistema-de-ia",
+    "autoridad-de-vigilancia-del-mercado"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en toda medida encaminada a conseguir la devolución al proveedor de un sistema de IA puesto a disposición de los responsables del despliegue, a inutilizarlo o a desactivar su uso."
   },
@@ -1405,6 +1598,7 @@
     "aprendizaje-reforzado-con-retroalimentacion-humana",
     "ai-gyms"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "El RL consiste, según IBM, en un proceso de aprendizaje automático que se centra en la toma de decisiones por parte de agentes autónomos."
   },
@@ -1423,6 +1617,12 @@
     "responsable-del-tratamiento",
     "evaluacion-de-impacto-derechos-fundamentales"
    ],
+   "enlazado_desde": [
+    "alfabetizacion-en-materia-de-ia",
+    "ia-agentica",
+    "persona-afectada",
+    "supervision-humana"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, o autoridad pública, órgano u organismo que utilice un sistema de IA bajo su propia autoridad, salvo cuando su uso se enmarque en una actividad personal de carácter no profesional."
   },
@@ -1439,6 +1639,10 @@
     "proveedor",
     "fase-de-desarrollo"
    ],
+   "enlazado_desde": [
+    "aprendizaje-federado",
+    "reutilizacion-de-datos"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Quien determina los fines y los medios del tratamiento de datos personales —el «por qué» y el «cómo»—, frente al encargado, que trata los datos por cuenta de aquél."
   },
@@ -1450,8 +1654,10 @@
     "ria"
    ],
    "relacionados": [
-    "recuperacion-de-un-sistema-de-ia"
+    "recuperacion-de-un-sistema-de-ia",
+    "autoridad-de-vigilancia-del-mercado"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en toda medida destinada a impedir la comercialización de un sistema de IA que se encuentra en la cadena de suministro."
   },
@@ -1469,6 +1675,7 @@
     "alucinacion",
     "ia-generativa"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "La “Generación aumentada con recuperación” es una arquitectura híbrida que primero recupera documentos relevantes de una base externa (por ejemplo, tus modelos de contrato) y luego los introduce en el modelo generativo, combinando precisión factual con capacidad de lenguaje."
   },
@@ -1484,6 +1691,7 @@
     "fase-de-desarrollo",
     "responsable-del-tratamiento"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Uso de datos ya recogidos —propios o ajenos— para construir un conjunto de entrenamiento."
   },
@@ -1499,6 +1707,12 @@
     "proveedor",
     "riesgo",
     "oficina-de-ia"
+   ],
+   "enlazado_desde": [
+    "alfabetizacion-en-materia-de-ia",
+    "clausula-de-anterioridad",
+    "consejo-de-ia",
+    "espacio-controlado-de-pruebas-para-la-ia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Acrónimo más común para referirse al Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia artificial, o Reglamento de Inteligencia Artificial."
@@ -1517,6 +1731,11 @@
     "sistema-de-ia-de-alto-riesgo",
     "enfoque-basado-en-el-riesgo"
    ],
+   "enlazado_desde": [
+    "componente-de-seguridad",
+    "sistema-de-gestion-de-riesgos",
+    "tecnicas-subliminales"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la combinación de la probabilidad de que se produzca un perjuicio y la gravedad de dicho perjuicio."
   },
@@ -1533,6 +1752,7 @@
     "capacidades-de-gran-impacto",
     "modelo-de-ia-de-uso-general"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un riesgo específico de las capacidades de gran impacto de los modelos de IA de uso general, que tienen unas repercusiones considerables en el mercado debido a su alcance o a los efectos negativos reales o razonablemente previsibles en la salud…"
   },
@@ -1548,6 +1768,12 @@
     "datos-de-entrenamiento",
     "web-scraping",
     "gobernanza-de-datos"
+   ],
+   "enlazado_desde": [
+    "anotacion-de-datos",
+    "elaboracion-de-perfiles",
+    "policia-predictiva",
+    "social-scoring"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Desviación sistemática en el comportamiento de un sistema de IA que hace que sus resultados perjudiquen o favorezcan de forma injustificada a determinadas personas o grupos."
@@ -1565,6 +1791,7 @@
     "evaluacion-de-la-conformidad",
     "proveedor"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Obligación del proveedor —no del sistema— recogida en el artículo 17 del Reglamento (UE) 2024/1689: quien introduzca en el mercado un sistema de IA de alto riesgo debe establecer un sistema de gestión de la calidad que garantice el cumplimiento del Reglamento, consignado de manera sistemática y ordenada en…"
   },
@@ -1581,6 +1808,9 @@
     "sistema-de-ia-de-alto-riesgo",
     "ciclo-de-vida-del-sistema-de-ia"
    ],
+   "enlazado_desde": [
+    "sistema-de-gestion-de-la-calidad"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Primer requisito exigible a un sistema de IA de alto riesgo."
   },
@@ -1595,6 +1825,13 @@
     "inteligencia-artificial",
     "ria",
     "ia-agentica"
+   ],
+   "enlazado_desde": [
+    "ai-washing",
+    "aprendizaje-automatico",
+    "componente-de-seguridad",
+    "datos-de-entrada",
+    "finalidad-prevista"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se trata de un sistema basado en una máquina que está diseñado para funcionar con distintos niveles de autonomía y que puede mostrar capacidad de adaptación tras el despliegue, y que, para objetivos explícitos o implícitos, infiere de la información…"
@@ -1612,7 +1849,20 @@
     "evaluacion-de-la-conformidad",
     "supervision-humana",
     "sistema-de-gestion-de-riesgos",
-    "documentacion-tecnica"
+    "documentacion-tecnica",
+    "componente-de-seguridad"
+   ],
+   "enlazado_desde": [
+    "autoridades-de-derechos-fundamentales",
+    "clausula-de-anterioridad",
+    "conservacion-de-registros",
+    "enfoque-basado-en-el-riesgo",
+    "evaluacion-de-impacto-derechos-fundamentales",
+    "marcado-ce",
+    "normas-armonizadas",
+    "organismo-notificado",
+    "solidez",
+    "transparencia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Categoría central del Reglamento (UE) 2024/1689: la de los sistemas que, sin estar prohibidos, soportan el grueso de las obligaciones de la norma."
@@ -1628,6 +1878,7 @@
     "modelo-de-ia-de-uso-general",
     "contenido-sintetico"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un sistema de IA basado en un modelo de IA de uso general y que puede servir para diversos fines, tanto para su uso directo como para su integración en otros sistemas de IA."
   },
@@ -1644,6 +1895,7 @@
     "datos-biometricos",
     "practicas-prohibidas"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.39 del Reglamento (UE) 2024/1689, un sistema de IA destinado a distinguir o inferir las emociones o las intenciones de las personas físicas a partir de sus datos biométricos."
   },
@@ -1659,6 +1911,7 @@
     "datos-de-validacion",
     "memorizacion"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Defecto de un modelo que ha aprendido demasiado bien los datos con los que se entrenó —incluidos su ruido y sus peculiaridades— y por eso rinde de maravilla sobre ellos y mal sobre datos nuevos."
   },
@@ -1675,6 +1928,7 @@
     "elaboracion-de-perfiles",
     "sesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 5.1.c del Reglamento (UE) 2024/1689, los sistemas de IA utilizados para evaluar o clasificar a personas físicas o a colectivos durante un período determinado de tiempo atendiendo a su comportamiento social o a características personales o de su personalidad conocidas, inferidas o predichas."
   },
@@ -1691,6 +1945,7 @@
     "ciberseguridad",
     "sistema-de-ia-de-alto-riesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Capacidad de un sistema de IA de mantener su rendimiento ante condiciones distintas de las de su entorno de prueba: datos con ruido, entradas inesperadas, errores, fallos del hardware o interacción con otros sistemas."
   },
@@ -1708,6 +1963,9 @@
     "intervencion-humana-significativa",
     "human-in-the-loop"
    ],
+   "enlazado_desde": [
+    "evaluacion-de-impacto-derechos-fundamentales"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Requisito del artículo 14 del Reglamento (UE) 2024/1689: los sistemas de IA de alto riesgo deben diseñarse y desarrollarse de modo que personas físicas puedan vigilarlos de manera efectiva mientras estén en uso, con herramientas de interfaz humano-máquina adecuadas."
   },
@@ -1724,6 +1982,7 @@
     "persona-afectada",
     "riesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Primera de las prácticas prohibidas."
   },
@@ -1740,6 +1999,9 @@
     "aprendizaje-federado",
     "anonimato-de-los-modelos"
    ],
+   "enlazado_desde": [
+    "medios-razonablemente-utilizables"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Familia de técnicas que permiten extraer valor de los datos reduciendo la información personal que se expone en el proceso."
   },
@@ -1754,6 +2016,7 @@
     "razonamiento",
     "leyes-de-escalado"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Cantidad de operaciones o energía necesaria para que un modelo genere una respuesta una vez entrenado (es decir, inferir)."
   },
@@ -1769,6 +2032,7 @@
     "embedding",
     "llm-o-large-language-model"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Consisten en datos de entrada transformados de forma que el sistema de IA pueda entenderlos, analizarlos, recordarlos y procesarlos para proporcionar los datos de salida más ajustados."
   },
@@ -1783,6 +2047,7 @@
     "gpt",
     "llm-o-large-language-model"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "La arquitectura de aprendizaje profundo transformadora o “Transformer”, fue desarrollada por investigadores de Google y se propuso en un famoso paper de 2017 titulado \"Attention Is All You Need\"."
   },
@@ -1799,6 +2064,7 @@
     "explicabilidad",
     "sistema-de-ia-de-alto-riesgo"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Cualidad de un sistema de IA que permite interpretarlo y comprenderlo a lo largo de todo su ciclo de vida, de modo que pueda entenderse el porqué de sus resultados y controlarlo adecuadamente; así la define la guía de la AESIA, que la vincula a la explicabilidad y la interpretabilidad."
   },
@@ -1815,6 +2081,7 @@
     "marca-de-agua",
     "contenido-intimo-sintetico"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.60 del Reglamento (UE) 2024/1689, un contenido de imagen, audio o vídeo generado o manipulado por una IA que se asemeja a personas, objetos, lugares, entidades o sucesos reales y que puede inducir a una persona a pensar erróneamente que son auténticos o verídicos."
   },
@@ -1828,6 +2095,7 @@
    "relacionados": [
     "finalidad-prevista"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la utilización de un sistema de IA de un modo que no corresponde a su finalidad prevista, pero que puede derivarse de un comportamiento humano o una interacción con otros sistemas, incluidos otros sistemas de IA, razonablemente previsible."
   },
@@ -1842,6 +2110,9 @@
    "relacionados": [
     "prompt",
     "llm-o-large-language-model"
+   ],
+   "enlazado_desde": [
+    "ia-generativa"
    ],
    "actualizado": "2026-08-16",
    "extracto": "“Programar por sensaciones” es un estilo de desarrollar software asistido por inteligencia artificial y popularizado por Andrej Karpathy en febrero de 2025."
@@ -1859,6 +2130,7 @@
     "conservacion-de-registros",
     "ciclo-de-vida-del-sistema-de-ia"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.25 del Reglamento (UE) 2024/1689, todas las actividades realizadas por los proveedores destinadas a recoger y examinar la experiencia obtenida con el uso de los sistemas de IA que han introducido en el mercado o puesto en servicio, con objeto de detectar la posible necesidad de aplicar de…"
   },
@@ -1876,6 +2148,7 @@
     "reutilizacion-de-datos",
     "memorizacion"
    ],
+   "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Recogida y extracción automatizada de información de fuentes accesibles al público en internet, normalmente para construir conjuntos de datos de entrenamiento."
   }

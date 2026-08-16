@@ -85,3 +85,33 @@ Las guías 01, 02 y 16 son introductorias y de checklist: no aportan términos q
 cubiertos. Se descartan también las métricas concretas de evaluación (F1, balanced accuracy,
 matriz de confusión) y el aparato de normas ISO citado: son instrumental técnico que un
 abogado no necesita definir, aunque sí reconocer.
+
+## 2026-08-16 — CNIL, 5 documentos y 17 fichas «how-to» sobre IA
+
+Fuente: `04_CNIL/` (fichas publicadas en https://www.cnil.fr, últimas actualizadas el
+5-1-2026). Valor principal: es el corpus que mejor articula RGPD y desarrollo de modelos,
+y el único que da un método operativo para el anonimato de un modelo.
+
+| Término | Estado | Ficha de origen |
+|---|---|---|
+| `anonimato-de-los-modelos` | nuevo (borrador) | HowTo 16 + Dictamen 28/2024 del CEPD |
+| `memorizacion` | nuevo (borrador) | HowTo 16 |
+| `ataques-de-reidentificacion` | nuevo (borrador) | HowTo 16 |
+| `medios-razonablemente-utilizables` | nuevo (borrador) | HowTo 16 + cons. 26 RGPD |
+| `fase-de-desarrollo` | nuevo (borrador) | HowTo 01 |
+| `ajuste-fino` | nuevo (borrador) | HowTo 03 y 16 |
+| `aprendizaje-por-transferencia` | nuevo (borrador) | HowTo 03 |
+| `anotacion-de-datos` | nuevo (borrador) | HowTo 14 · art. 10.2.c RIA |
+| `reutilizacion-de-datos` | nuevo (borrador) | HowTo 03 y 05 · art. 6.4 RGPD |
+| `responsable-del-tratamiento` | nuevo (borrador) | HowTo 03 |
+| `web-scraping` | actualizado | HowTo 10 |
+
+### Descartado de la serie CNIL
+
+Las fichas 02 (finalidad), 04 y 09 (base jurídica e interés legítimo), 06 (EIPD), 07
+(protección desde el diseño), 08 (recogida de datos), 12 (información a los interesados),
+13 (ejercicio de derechos) y 15 (seguridad del desarrollo) desarrollan obligaciones del
+RGPD aplicadas a la IA, pero no acuñan vocabulario propio: son procedimiento, no términos.
+La 11 (modelos de código abierto) queda cubierta por `open-weights` e
+`inteligencia-artificial-de-codigo-abierto`. Las síntesis de consultas públicas de 2025 son
+recopilaciones de aportaciones de terceros, sin doctrina propia.

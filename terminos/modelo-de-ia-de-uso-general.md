@@ -3,7 +3,7 @@ termino: Modelo de IA de uso general
 alias: modelo fundacional o LLM
 slug: modelo-de-ia-de-uso-general
 categorias: [ria]
-relacionados: [sistema-de-ia-de-uso-general, riesgo-sistemico, proveedor, codigo-de-buenas-practicas]
+relacionados: [sistema-de-ia-de-uso-general, riesgo-sistemico, codigo-de-buenas-practicas, anonimato-de-los-modelos]
 actualizado: 2026-08-16
 estado: publicado
 ---

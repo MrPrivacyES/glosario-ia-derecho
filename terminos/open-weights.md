@@ -3,7 +3,7 @@ termino: Open Weights
 alias: Pesos abiertos
 slug: open-weights
 categorias: [tecnico]
-relacionados: [inteligencia-artificial-de-codigo-abierto, parametros]
+relacionados: [inteligencia-artificial-de-codigo-abierto, parametros, aprendizaje-por-transferencia]
 actualizado: 2026-08-16
 estado: publicado
 ---

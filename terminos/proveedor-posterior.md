@@ -3,7 +3,7 @@ termino: Proveedor posterior
 alias: 
 slug: proveedor-posterior
 categorias: [ria, actores]
-relacionados: [proveedor, modificacion-sustancial]
+relacionados: [proveedor, modificacion-sustancial, ajuste-fino]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -3,7 +3,7 @@ termino: Sobreaprendizaje
 alias: Overfitting o sobreajuste
 slug: sobreaprendizaje
 categorias: [tecnico]
-relacionados: [precision, datos-de-entrenamiento, datos-de-validacion]
+relacionados: [precision, datos-de-validacion, memorizacion]
 actualizado: 2026-08-16
 estado: publicado
 ---

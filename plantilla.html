@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glosario sobre IA y Derecho — The Legal Letters</title>
+<meta name="description" content="Glosario vivo de __COUNT__ términos sobre inteligencia artificial y Derecho: Reglamento europeo de IA, protección de datos, conceptos técnicos y jerga del sector, con fuentes oficiales enlazadas.">
+<meta property="og:title" content="Glosario sobre IA y Derecho">
+<meta property="og:description" content="__COUNT__ términos de IA y Derecho con fuentes oficiales, buscador y enlaces cruzados. Actualizado el __FECHA__.">
+<meta property="og:type" content="website">
+<style>
+  :root {
+    --bg: #faf9f6; --card: #ffffff; --text: #1c1c1c; --muted: #6b6b66;
+    --accent: #23408e; --accent-soft: #e8edf8; --border: #e4e1d8;
+    --chip: #f0eee6; --chip-on: #23408e; --chip-on-text: #ffffff;
+    --shadow: 0 1px 3px rgba(30,30,20,.07);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a; --card: #1d2026; --text: #e8e6e1; --muted: #9a988f;
+      --accent: #8fabe8; --accent-soft: #262f45; --border: #2c2f36;
+      --chip: #262930; --chip-on: #8fabe8; --chip-on-text: #14161a;
+      --shadow: 0 1px 3px rgba(0,0,0,.4);
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.65 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  a { color: var(--accent); }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 0 20px 80px; }
+  header { padding: 48px 0 8px; }
+  header h1 { font-family: Georgia, "Times New Roman", serif; font-size: clamp(28px, 5vw, 42px);
+              line-height: 1.15; margin: 0 0 10px; }
+  header p.sub { color: var(--muted); margin: 0 0 6px; max-width: 60ch; }
+  .meta-line { color: var(--muted); font-size: 14px; margin: 10px 0 0; }
+  .meta-line a { color: var(--muted); }
+
+  .controls { position: sticky; top: 0; background: var(--bg); padding: 14px 0 10px; z-index: 5;
+              border-bottom: 1px solid var(--border); }
+  .searchrow { display: flex; gap: 10px; }
+  input[type=search] { flex: 1; padding: 11px 14px; font-size: 16px; border: 1px solid var(--border);
+    border-radius: 10px; background: var(--card); color: var(--text); outline: none; }
+  input[type=search]:focus { border-color: var(--accent); }
+  select { padding: 0 10px; border: 1px solid var(--border); border-radius: 10px;
+           background: var(--card); color: var(--text); font-size: 14px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px; }
+  .chip { border: none; cursor: pointer; padding: 5px 12px; border-radius: 999px; font-size: 13px;
+          background: var(--chip); color: var(--text); }
+  .chip.on { background: var(--chip-on); color: var(--chip-on-text); }
+  .letters { display: flex; flex-wrap: wrap; gap: 2px; margin-top: 10px; font-size: 13px; }
+  .letters button { border: none; background: none; cursor: pointer; color: var(--accent);
+                    padding: 2px 6px; border-radius: 6px; font-weight: 600; }
+  .letters button:disabled { color: var(--border); cursor: default; }
+  .letters button.on { background: var(--chip-on); color: var(--chip-on-text); }
+
+  #stats { color: var(--muted); font-size: 14px; margin: 16px 0 8px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+          margin: 10px 0; box-shadow: var(--shadow); overflow: hidden; }
+  .card-head { display: block; width: 100%; text-align: left; border: none; background: none;
+               color: inherit; font: inherit; cursor: pointer; padding: 16px 18px; }
+  .card-head h2 { margin: 0; font-size: 19px; font-family: Georgia, serif; }
+  .card-head h2 .alias { font-family: inherit; font-weight: 400; font-style: italic;
+                         color: var(--muted); font-size: 15px; }
+  .badges { display: inline-flex; gap: 5px; margin-left: 8px; vertical-align: 2px; }
+  .badge { font-size: 11px; padding: 2px 8px; border-radius: 999px; background: var(--accent-soft);
+           color: var(--accent); font-family: -apple-system, sans-serif; font-weight: 600; }
+  .extracto { color: var(--muted); font-size: 14.5px; margin: 6px 0 0; }
+  .card-body { display: none; padding: 0 18px 16px; border-top: 1px dashed var(--border); }
+  .card.open .card-body { display: block; }
+  .card.open .extracto { display: none; }
+  .card-body p { margin: 12px 0; }
+  .rel { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .rel span.lbl { font-size: 12.5px; color: var(--muted); text-transform: uppercase;
+                  letter-spacing: .04em; margin-right: 2px; }
+  .rel a { font-size: 13px; padding: 4px 11px; border-radius: 999px; background: var(--accent-soft);
+           color: var(--accent); text-decoration: none; }
+  .foot-entry { margin-top: 12px; font-size: 12.5px; color: var(--muted); display: flex; gap: 14px; }
+  .foot-entry a { color: var(--muted); }
+  #none { color: var(--muted); padding: 40px 0; text-align: center; display: none; }
+  footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--border);
+           color: var(--muted); font-size: 14px; }
+  footer p { margin: 6px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Glosario sobre IA y Derecho</h1>
+    <p class="sub">Diccionario jurídico-tecnológico vivo sobre inteligencia artificial: definiciones en castellano con fuentes oficiales enlazadas, del Reglamento europeo de IA a la jerga del sector.</p>
+    <p class="meta-line">__COUNT__ términos · actualizado el __FECHA__ · un proyecto de <a href="https://www.thelegaletters.com" target="_blank" rel="noopener">The Legal Letters</a></p>
+  </header>
+
+  <div class="controls">
+    <div class="searchrow">
+      <input id="q" type="search" placeholder="Buscar término, alias o dentro de las definiciones…" autocomplete="off">
+      <select id="orden" title="Orden">
+        <option value="az">A–Z</option>
+        <option value="recientes">Recientes</option>
+      </select>
+    </div>
+    <div class="chips" id="chips"></div>
+    <div class="letters" id="letters"></div>
+  </div>
+
+  <p id="stats"></p>
+  <div id="lista"></div>
+  <p id="none">Ningún término coincide con el filtro. <a href="#" id="reset">Quitar filtros</a></p>
+
+  <footer>
+    <p>Contenido abierto bajo licencia <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noopener">CC BY 4.0</a> — se agradece el enlace al citar.</p>
+    <p>Datos reutilizables: <a href="glosario.json">glosario.json</a> · Sugerencias de términos: <a href="https://www.thelegaletters.com/contacto/" target="_blank" rel="noopener">contacto</a></p>
+    <p>Mantenido con la ayuda de Claude · © Jorge Morell Ramos, The Legal Letters</p>
+  </footer>
+</div>
+
+<script>
+const DATA = __DATA__;
+const CATS = __CATS__;
+const $ = s => document.querySelector(s);
+const norm = s => s.toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "");
+let filtroCats = new Set(), letra = null;
+
+// chips de categorías
+for (const [k, label] of Object.entries(CATS)) {
+  if (!DATA.some(t => t.categorias.includes(k))) continue;
+  const b = document.createElement("button");
+  b.className = "chip"; b.textContent = label; b.dataset.cat = k;
+  b.onclick = () => { b.classList.toggle("on");
+    b.classList.contains("on") ? filtroCats.add(k) : filtroCats.delete(k); render(); };
+  $("#chips").appendChild(b);
+}
+// barra alfabética
+const letrasCon = new Set(DATA.map(t => norm(t.termino)[0].toUpperCase()));
+for (const L of "ABCDEFGHIJKLMNOPQRSTUVWXYZ") {
+  const b = document.createElement("button");
+  b.textContent = L; b.disabled = !letrasCon.has(L);
+  b.onclick = () => { letra = (letra === L) ? null : L;
+    document.querySelectorAll(".letters button").forEach(x => x.classList.toggle("on", x.textContent === letra));
+    render(); };
+  $("#letters").appendChild(b);
+}
+
+function cardHTML(t) {
+  const alias = t.alias ? ` <span class="alias">(${t.alias})</span>` : "";
+  const badges = t.categorias.map(c => `<span class="badge">${CATS[c]}</span>`).join("");
+  const rel = t.relacionados.length ? `<div class="rel"><span class="lbl">Relacionados</span>` +
+    t.relacionados.map(r => { const rt = DATA.find(x => x.slug === r);
+      return rt ? `<a href="#${r}">${rt.termino}</a>` : ""; }).join("") + `</div>` : "";
+  return `<article class="card" id="${t.slug}">
+    <button class="card-head" aria-expanded="false">
+      <h2>${t.termino}${alias}<span class="badges">${badges}</span></h2>
+      <p class="extracto">${t.extracto}</p>
+    </button>
+    <div class="card-body">${t.html}${rel}
+      <div class="foot-entry"><span>Actualizado: ${t.actualizado}</span>
+      <a href="#${t.slug}" class="perma">Enlace directo</a></div>
+    </div></article>`;
+}
+
+function visibles() {
+  const q = norm($("#q").value.trim());
+  let v = DATA.filter(t =>
+    (!q || t.buscar.includes(q)) &&
+    (!filtroCats.size || t.categorias.some(c => filtroCats.has(c))) &&
+    (!letra || norm(t.termino)[0].toUpperCase() === letra));
+  if ($("#orden").value === "recientes")
+    v = [...v].sort((a, b) => b.actualizado.localeCompare(a.actualizado));
+  return v;
+}
+
+function render() {
+  const v = visibles();
+  $("#lista").innerHTML = v.map(cardHTML).join("");
+  $("#stats").textContent = v.length === DATA.length ?
+    `${DATA.length} términos` : `${v.length} de ${DATA.length} términos`;
+  $("#none").style.display = v.length ? "none" : "block";
+  document.querySelectorAll(".card-head").forEach(h =>
+    h.onclick = () => toggle(h.closest(".card")));
+}
+
+function toggle(card, force) {
+  const abrir = force !== undefined ? force : !card.classList.contains("open");
+  card.classList.toggle("open", abrir);
+  card.querySelector(".card-head").setAttribute("aria-expanded", abrir);
+  if (abrir) history.replaceState(null, "", "#" + card.id);
+}
+
+function irA(slug) {
+  const card = document.getElementById(slug);
+  if (!card) return;
+  toggle(card, true);
+  card.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+$("#q").oninput = render;
+$("#orden").onchange = render;
+$("#reset").onclick = e => { e.preventDefault();
+  $("#q").value = ""; filtroCats.clear(); letra = null;
+  document.querySelectorAll(".chip.on, .letters .on").forEach(x => x.classList.remove("on"));
+  render(); };
+window.addEventListener("hashchange", () => irA(location.hash.slice(1)));
+document.addEventListener("click", e => {
+  const a = e.target.closest('a[href^="#"]');
+  if (a && a.hash) { e.preventDefault(); history.replaceState(null, "", a.hash); irA(a.hash.slice(1)); }
+});
+
+render();
+if (location.hash) irA(location.hash.slice(1));
+</script>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"DefinedTermSet",
+ "name":"Glosario sobre IA y Derecho","inLanguage":"es",
+ "creator":{"@type":"Person","name":"Jorge Morell Ramos"},
+ "publisher":{"@type":"Organization","name":"The Legal Letters","url":"https://www.thelegaletters.com"},
+ "dateModified":"__FECHA__","license":"https://creativecommons.org/licenses/by/4.0/"}
+</script>
+</body>
+</html>

@@ -1,0 +1,848 @@
+{
+ "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
+ "url": "https://glosario.thelegaletters.com",
+ "licencia": "CC BY 4.0",
+ "generado": "2026-08-16",
+ "terminos": [
+  {
+   "termino": "AI Gyms",
+   "alias": "Gimnasios de IA",
+   "slug": "ai-gyms",
+   "categorias": [
+    "tecnico",
+    "riesgos"
+   ],
+   "relacionados": [
+    "reinforcement-learning",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Son entornos simulados y controlados (normalmente clones de apps o servicios) en los que agentes de IA practican tareas de inicio a fin con refuerzos/feedback (Reinforcement Learning), así como validadores automáticos y humanos que miden su desempeño y seguridad."
+  },
+  {
+   "termino": "Alfabetización en materia de IA",
+   "alias": "AI literacy",
+   "slug": "alfabetizacion-en-materia-de-ia",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "ria",
+    "proveedor",
+    "responsable-del-despliegue"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se refiere al conjunto de capacidades, conocimientos y comprensión que permiten a proveedores, responsables del despliegue y otras personas afectadas tomar decisiones informadas en relación con los sistemas de IA, así como comprender las…"
+  },
+  {
+   "termino": "Aprendizaje automático",
+   "alias": "machine learning o ML",
+   "slug": "aprendizaje-automatico",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "sistema-de-ia",
+    "datos-de-entrenamiento"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según la Agencia Española de Protección de Datos en “Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial."
+  },
+  {
+   "termino": "Aprendizaje reforzado con retroalimentación humana",
+   "alias": "",
+   "slug": "aprendizaje-reforzado-con-retroalimentacion-humana",
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "reinforcement-learning",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "El Reinforcement Learning from Human Feedback (RLHF) es una técnica que combina aprendizaje por refuerzo con evaluaciones humanas de la salida (respuesta) del modelo para alinear su comportamiento con valores deseados."
+  },
+  {
+   "termino": "Capacidades de gran impacto",
+   "alias": "",
+   "slug": "capacidades-de-gran-impacto",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "riesgo-sistemico",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), capacidades que igualan o superan las capacidades mostradas por los modelos de IA de uso general más avanzados."
+  },
+  {
+   "termino": "Categorización biométrica",
+   "alias": "Biometric categorization",
+   "slug": "categorizacion-biometrica",
+   "categorias": [
+    "ria",
+    "biometria"
+   ],
+   "relacionados": [
+    "identificacion-biometrica",
+    "sistemas-de-reconocimiento-de-emociones"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la clasificación de personas físicas en categorías específicas basándose en sus datos biométricos."
+  },
+  {
+   "termino": "Chief AI Officer",
+   "alias": "Director de Inteligencia Artificial",
+   "slug": "chief-ai-officer",
+   "categorias": [
+    "gobernanza"
+   ],
+   "relacionados": [
+    "alfabetizacion-en-materia-de-ia"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según la orden ejecutiva #14110 de octubre de 2023 del gobierno Biden en Estados Unidos, el Chief AI Officer será el responsable de coordinar el uso de IA en una organización, promover la innovación en IA, gestionar los riesgos del uso de IA en la organización y gestionar las responsabilidades derivadas de la…"
+  },
+  {
+   "termino": "Componente de seguridad",
+   "alias": "",
+   "slug": "componente-de-seguridad",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "sistema-de-ia",
+    "riesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un componente de un producto o un sistema de IA que cumple una función de seguridad para dicho producto o sistema de IA, o cuyo fallo o defecto de funcionamiento pone en peligro la salud y la seguridad de las personas o los bienes."
+  },
+  {
+   "termino": "Context Window",
+   "alias": "token",
+   "slug": "context-window",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "token",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "El contexto de ventana o “Context Window (Token)”, según IBM, consiste en los tokens que una sistema de IA, por ejemplo ChatGPT, puede procesar o recordar como datos de entrada cuando le pedimos algo."
+  },
+  {
+   "termino": "Datos de entrada",
+   "alias": "",
+   "slug": "datos-de-entrada",
+   "categorias": [
+    "ria",
+    "datos"
+   ],
+   "relacionados": [
+    "datos-de-entrenamiento",
+    "sistema-de-ia"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "(Prompt): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), los datos proporcionados a un sistema de IA u obtenidos directamente por él a partir de los cuales produce un resultado de salida."
+  },
+  {
+   "termino": "Datos de entrenamiento",
+   "alias": "",
+   "slug": "datos-de-entrenamiento",
+   "categorias": [
+    "ria",
+    "datos"
+   ],
+   "relacionados": [
+    "datos-de-validacion",
+    "datos-de-prueba",
+    "aprendizaje-automatico"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "(Dataset): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consisten en los datos usados para entrenar un sistema de IA mediante el ajuste de sus parámetros"
+  },
+  {
+   "termino": "Datos de prueba",
+   "alias": "",
+   "slug": "datos-de-prueba",
+   "categorias": [
+    "ria",
+    "datos"
+   ],
+   "relacionados": [
+    "datos-de-entrenamiento",
+    "datos-de-validacion"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consisten en los datos usados para proporcionar una evaluación independiente del sistema de IA, con el fin de confirmar el funcionamiento previsto de dicho sistema antes de su introducción en el mercado o su puesta en servicio."
+  },
+  {
+   "termino": "Datos de validación",
+   "alias": "",
+   "slug": "datos-de-validacion",
+   "categorias": [
+    "ria",
+    "datos"
+   ],
+   "relacionados": [
+    "datos-de-entrenamiento",
+    "datos-de-prueba"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en los datos usados para proporcionar una evaluación del sistema de IA entrenado y adaptar sus parámetros no entrenables y su proceso de aprendizaje para, entre otras cosas, evitar el subajuste o el"
+  },
+  {
+   "termino": "DeepSeek",
+   "alias": "",
+   "slug": "deepseek",
+   "categorias": [
+    "cultura",
+    "tecnico"
+   ],
+   "relacionados": [
+    "llm-o-large-language-model",
+    "open-weights",
+    "distillation"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd."
+  },
+  {
+   "termino": "Distillation",
+   "alias": "Destilación",
+   "slug": "distillation",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "llm-o-large-language-model",
+    "deepseek"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Proceso por el que los conocimientos de un modelo fundacional (“Profesor”) se transfieren a uno más pequeño en desarrollo (“Estudiante”) conservando la mayor parte de su precisión, pero reduciendo parámetros y coste de inferencia."
+  },
+  {
+   "termino": "Distribuidor",
+   "alias": "",
+   "slug": "distribuidor",
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "proveedor",
+    "importador",
+    "operador"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica que forme parte de la cadena de suministro, distinta del proveedor o el importador, que comercialice un sistema de IA en el mercado de la Unión."
+  },
+  {
+   "termino": "Embedding",
+   "alias": "Incrustación",
+   "slug": "embedding",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "llm-o-large-language-model",
+    "retrieval-augmented-generation",
+    "token"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según lo define AWS, las incrustaciones son representaciones numéricas de objetos del mundo real que los sistemas de IA utilizan para comprender dominios de conocimiento complejos, como lo hacen los humanos."
+  },
+  {
+   "termino": "Espacio controlado de pruebas para la IA",
+   "alias": "Sandbox",
+   "slug": "espacio-controlado-de-pruebas-para-la-ia",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "ria"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un marco controlado establecido por una autoridad competente que ofrece a los proveedores y proveedores potenciales de sistemas de IA la posibilidad de desarrollar, entrenar, validar y probar, en condiciones reales cuando proceda, un…"
+  },
+  {
+   "termino": "Finalidad prevista",
+   "alias": "",
+   "slug": "finalidad-prevista",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "uso-indebido-razonablemente-previsible",
+    "sistema-de-ia"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en el uso para el que un proveedor concibe un sistema de IA, incluidos el contexto y las condiciones de uso concretos, según la información facilitada por el proveedor en las instrucciones de uso, los materiales y las declaraciones de…"
+  },
+  {
+   "termino": "GPT",
+   "alias": "Generative Pre-trained Transformer",
+   "slug": "gpt",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "llm-o-large-language-model",
+    "transformer"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Un GPT o Transformador Pre-entrenado Generativo es un tipo de LLM o modelo de IA de uso general."
+  },
+  {
+   "termino": "Identificación biométrica",
+   "alias": "Biometric identification",
+   "slug": "identificacion-biometrica",
+   "categorias": [
+    "ria",
+    "biometria"
+   ],
+   "relacionados": [
+    "categorizacion-biometrica"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), el reconocimiento automatizado de características humanas físicas, fisiológicas o conductuales (como la cara, voz, marcha) con el fin de determinar la identidad de una persona, comparando sus datos biométricos con una base de datos de referencia."
+  },
+  {
+   "termino": "Importador",
+   "alias": "",
+   "slug": "importador",
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "distribuidor",
+    "proveedor"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica ubicada o establecida en la Unión que introduzca en el mercado un sistema de IA que lleve el nombre o la marca de una persona física o jurídica establecida en un tercer país."
+  },
+  {
+   "termino": "Inteligencia artificial",
+   "alias": "sistema de",
+   "slug": "inteligencia-artificial",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "sistema-de-ia"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según la OCDE en marzo de 2024, consiste en un un sistema basado en máquinas que, para objetivos explícitos o implícitos, infiere, a partir de la información que recibe, cómo generar resultados como predicciones, contenido, recomendaciones o decisiones que pueden influir en entornos físicos o virtuales."
+  },
+  {
+   "termino": "Inteligencia artificial de código abierto",
+   "alias": "",
+   "slug": "inteligencia-artificial-de-codigo-abierto",
+   "categorias": [
+    "ria",
+    "tecnico"
+   ],
+   "relacionados": [
+    "open-weights"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según la Open Source Initiative, lo será cualquier modelo de IA que proporcione: 1) Acceso a detalles sobre los datos utilizados para entrenar la IA para que otros puedan comprenderla y recrearla; 2) el código completo utilizado para construir y ejecutar la IA; 3) y las configuraciones y pesos del entrenamiento,…"
+  },
+  {
+   "termino": "Inteligencia artificial general",
+   "alias": "AGI",
+   "slug": "inteligencia-artificial-general",
+   "categorias": [
+    "tecnico",
+    "cultura"
+   ],
+   "relacionados": [
+    "llm-o-large-language-model",
+    "p-doom"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según la obra de Ray Kurzweil, podría hablarse de inteligencia artificial general (AGI en inglés) como de un tipo de inteligencia artificial que iguala o supera las capacidades cognitivas humanas en una amplia gama de tareas cognitivas."
+  },
+  {
+   "termino": "Jevons Paradox",
+   "alias": "Paradoja de Jevons",
+   "slug": "jevons-paradox",
+   "categorias": [
+    "cultura"
+   ],
+   "relacionados": [
+    "deepseek"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Principio económico según el cual las mejoras en la eficiencia de un recurso (p.ej."
+  },
+  {
+   "termino": "Leyes de escalado",
+   "alias": "",
+   "slug": "leyes-de-escalado",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "parametros",
+    "test-time-compute"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Las “Scaling Laws” son regularidades empíricas que describen cómo el rendimiento del modelo mejora de forma predecible al aumentar en datos, parámetros o cómputo, permitiendo extrapolar la necesidad de recursos antes de entrenar."
+  },
+  {
+   "termino": "LLM o Large Language Model",
+   "alias": "",
+   "slug": "llm-o-large-language-model",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "transformer",
+    "token",
+    "gpt"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Ver la definición de “Modelo de IA de uso general”."
+  },
+  {
+   "termino": "Mixture of Experts (MoE) o “Mezcla de expertos”",
+   "alias": "",
+   "slug": "mixture-of-experts",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "llm-o-large-language-model",
+    "parametros"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Arquitectura en la que varios sub-modelos especializados (“Expertos”) compiten o son seleccionados dinámicamente mediante un router para responder a cada entrada, aumentando la capacidad efectiva sin elevar el coste de inferencia linealmente."
+  },
+  {
+   "termino": "Modelo de IA de uso general",
+   "alias": "modelo fundacional o LLM",
+   "slug": "modelo-de-ia-de-uso-general",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "sistema-de-ia-de-uso-general",
+    "riesgo-sistemico",
+    "proveedor"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un modelo de IA, también uno entrenado con un gran volumen de datos utilizando autosupervisión a gran escala, que presenta un grado considerable de generalidad y es capaz de realizar de manera competente una gran variedad de tareas…"
+  },
+  {
+   "termino": "Modificación sustancial",
+   "alias": "",
+   "slug": "modificacion-sustancial",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "proveedor-posterior",
+    "finalidad-prevista"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un cambio en un sistema de IA tras su introducción en el mercado o puesta en servicio que no haya sido previsto o proyectado en la evaluación de la conformidad inicial realizada por el proveedor y a consecuencia del cual se vea afectado el…"
+  },
+  {
+   "termino": "Open Weights",
+   "alias": "Pesos abiertos",
+   "slug": "open-weights",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "inteligencia-artificial-de-codigo-abierto",
+    "parametros"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Publicación de los parámetros numéricos (“Pesos”) finales de un modelo, normalmente bajo licencia abierta, lo que permite su ejecución, afinado (fine-tuning) o inspección por terceros."
+  },
+  {
+   "termino": "Operador",
+   "alias": "",
+   "slug": "operador",
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "proveedor",
+    "responsable-del-despliegue",
+    "distribuidor",
+    "importador"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un proveedor, fabricante del producto, responsable del despliegue, representante autorizado, importador o distribuidor."
+  },
+  {
+   "termino": "P(doom)",
+   "alias": "probabilidad de apocalipsis",
+   "slug": "p-doom",
+   "categorias": [
+    "cultura",
+    "riesgos"
+   ],
+   "relacionados": [
+    "inteligencia-artificial-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Es un término en seguridad de IA) que se refiere a la probabilidad de resultados existencialmente catastróficos (o \"perdición\") como resultado de la inteligencia artificial."
+  },
+  {
+   "termino": "Parámetros",
+   "alias": "",
+   "slug": "parametros",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "llm-o-large-language-model",
+    "open-weights"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Valores numéricos que definen el estado de un modelo de IA tras el entrenamiento; influyen directamente en la salida o respuesta en relación a una entrada dada (el prompt)."
+  },
+  {
+   "termino": "Prompt",
+   "alias": "",
+   "slug": "prompt",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "prompt-injection",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Ver definición de “Datos de entrada”."
+  },
+  {
+   "termino": "Prompt injection",
+   "alias": "inyección en datos de entrada",
+   "slug": "prompt-injection",
+   "categorias": [
+    "tecnico",
+    "riesgos"
+   ],
+   "relacionados": [
+    "prompt",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según IBM, consiste en un tipo de ciberataque contra un LLM."
+  },
+  {
+   "termino": "Proveedor",
+   "alias": "",
+   "slug": "proveedor",
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "responsable-del-despliegue",
+    "operador",
+    "proveedor-posterior"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, autoridad pública, órgano u organismo que desarrolle un sistema de IA o un modelo de IA de uso general o para el que se desarrolle un sistema de IA o un modelo de IA de uso general y lo introduzca en el…"
+  },
+  {
+   "termino": "Proveedor posterior",
+   "alias": "",
+   "slug": "proveedor-posterior",
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "proveedor",
+    "modificacion-sustancial"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un proveedor de un sistema de IA, también de un sistema de IA de uso general, que integra un modelo de IA, con independencia de que el modelo de IA lo proporcione él mismo y esté integrado verticalmente o lo proporcione otra entidad en virtud de…"
+  },
+  {
+   "termino": "Razonamiento",
+   "alias": "",
+   "slug": "razonamiento",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "test-time-compute",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Capacidad de un sistema para encadenar inferencias lógicas o causales más allá de la simple correlación estadística, resolviendo tareas que requieren planificación, deducción o abstracción."
+  },
+  {
+   "termino": "Recuperación de un sistema de IA",
+   "alias": "",
+   "slug": "recuperacion-de-un-sistema-de-ia",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "retirada-de-un-sistema-de-ia"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en toda medida encaminada a conseguir la devolución al proveedor de un sistema de IA puesto a disposición de los responsables del despliegue, a inutilizarlo o a desactivar su uso."
+  },
+  {
+   "termino": "Reinforcement Learning",
+   "alias": "Aprendizaje de refuerzo",
+   "slug": "reinforcement-learning",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "aprendizaje-reforzado-con-retroalimentacion-humana",
+    "ai-gyms"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "El RL consiste, según IBM, en un proceso de aprendizaje automático que se centra en la toma de decisiones por parte de agentes autónomos."
+  },
+  {
+   "termino": "Responsable del despliegue",
+   "alias": "",
+   "slug": "responsable-del-despliegue",
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "proveedor",
+    "operador"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, o autoridad pública, órgano u organismo que utilice un sistema de IA bajo su propia autoridad, salvo cuando su uso se enmarque en una actividad personal de carácter no profesional."
+  },
+  {
+   "termino": "Retirada de un sistema de IA",
+   "alias": "",
+   "slug": "retirada-de-un-sistema-de-ia",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "recuperacion-de-un-sistema-de-ia"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en toda medida destinada a impedir la comercialización de un sistema de IA que se encuentra en la cadena de suministro."
+  },
+  {
+   "termino": "Retrieval-Augmented Generation",
+   "alias": "RAG",
+   "slug": "retrieval-augmented-generation",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "embedding",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "La “Generación aumentada con recuperación” es una arquitectura híbrida que primero recupera documentos relevantes de una base externa (por ejemplo, tus modelos de contrato) y luego los introduce en el modelo generativo, combinando precisión factual con capacidad de lenguaje."
+  },
+  {
+   "termino": "RIA",
+   "alias": "",
+   "slug": "ria",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "sistema-de-ia",
+    "proveedor",
+    "riesgo"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Acrónimo más común para referirse al Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia artificial o Reglamento de Inteligencia Artificial ."
+  },
+  {
+   "termino": "Riesgo",
+   "alias": "",
+   "slug": "riesgo",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "riesgo-sistemico",
+    "ria"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la combinación de la probabilidad de que se produzca un perjuicio y la gravedad de dicho perjuicio."
+  },
+  {
+   "termino": "Riesgo sistémico",
+   "alias": "",
+   "slug": "riesgo-sistemico",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "riesgo",
+    "capacidades-de-gran-impacto",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un riesgo específico de las capacidades de gran impacto de los modelos de IA de uso general, que tienen unas repercusiones considerables en el mercado debido a su alcance o a los efectos negativos reales o razonablemente previsibles en la salud…"
+  },
+  {
+   "termino": "Sistema de IA",
+   "alias": "",
+   "slug": "sistema-de-ia",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "inteligencia-artificial",
+    "ria"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se trata de un sistema basado en una máquina que está diseñado para funcionar con distintos niveles de autonomía y que puede mostrar capacidad de adaptación tras el despliegue, y que, para objetivos explícitos o implícitos, infiere de la información…"
+  },
+  {
+   "termino": "Sistema de IA de uso general",
+   "alias": "",
+   "slug": "sistema-de-ia-de-uso-general",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "modelo-de-ia-de-uso-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un sistema de IA basado en un modelo de IA de uso general y que puede servir para diversos fines, tanto para su uso directo como para su integración en otros sistemas de IA."
+  },
+  {
+   "termino": "Sistemas de reconocimiento de emociones",
+   "alias": "Emotion recognition systems",
+   "slug": "sistemas-de-reconocimiento-de-emociones",
+   "categorias": [
+    "ria",
+    "biometria"
+   ],
+   "relacionados": [
+    "categorizacion-biometrica",
+    "identificacion-biometrica"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un sistema de IA diseñado para distinguir o inferir las emociones o intenciones de personas físicas a partir de sus datos biométricos."
+  },
+  {
+   "termino": "Social scoring",
+   "alias": "puntuación ciudadana",
+   "slug": "social-scoring",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "ria"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se refiere a los sistemas de IA utilizados por entidades públicas o privadas para evaluar o clasificar a personas físicas o grupos basándose en su comportamiento social en diversos contextos o en características personales conocidas, inferidas o…"
+  },
+  {
+   "termino": "Test-time Compute",
+   "alias": "Cómputo en tiempo de inferencia",
+   "slug": "test-time-compute",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "razonamiento",
+    "leyes-de-escalado"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Cantidad de operaciones o energía necesaria para que un modelo genere una respuesta una vez entrenado (es decir, inferir)."
+  },
+  {
+   "termino": "Token",
+   "alias": "",
+   "slug": "token",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "context-window",
+    "embedding",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Consisten en datos de entrada transformados de forma que el sistema de IA pueda entenderlos, analizarlos, recordarlos y procesarlos para proporcionar los datos de salida más ajustados."
+  },
+  {
+   "termino": "Transformer",
+   "alias": "Deep Learning Architecture",
+   "slug": "transformer",
+   "categorias": [
+    "tecnico"
+   ],
+   "relacionados": [
+    "gpt",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "La arquitectura de aprendizaje profundo transformadora o “Transformer”, fue desarrollada por investigadores de Google y se propuso en un famoso paper de 2017 titulado \"Attention Is All You Need\"."
+  },
+  {
+   "termino": "Ultrasuplantación",
+   "alias": "",
+   "slug": "ultrasuplantacion",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "ria"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "(Deepfake): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un contenido de imagen, audio o vídeo generado o manipulado por una IA que se asemeja a personas, objetos, lugares, entidades o sucesos reales y que puede inducir a una persona a pensar erróneamente que son auténticos o verídicos."
+  },
+  {
+   "termino": "Uso indebido razonablemente previsible",
+   "alias": "",
+   "slug": "uso-indebido-razonablemente-previsible",
+   "categorias": [
+    "ria"
+   ],
+   "relacionados": [
+    "finalidad-prevista"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la utilización de un sistema de IA de un modo que no corresponde a su finalidad prevista, pero que puede derivarse de un comportamiento humano o una interacción con otros sistemas, incluidos otros sistemas de IA, razonablemente previsible."
+  },
+  {
+   "termino": "Vibe Coding",
+   "alias": "",
+   "slug": "vibe-coding",
+   "categorias": [
+    "cultura",
+    "tecnico"
+   ],
+   "relacionados": [
+    "prompt",
+    "llm-o-large-language-model"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "“Programar por sensaciones” es un estilo de desarrollar software asistido por inteligencia artificial y popularizado por Andrej Karpathy en febrero de 2025."
+  }
+ ]
+}

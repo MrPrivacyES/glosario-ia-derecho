@@ -5,7 +5,7 @@ slug: regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia
 categorias: [ria, gobernanza]
 relacionados: [oficina-de-ia, autoridad-de-vigilancia-del-mercado, operador, sistema-de-ia-de-alto-riesgo]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Conjunto de poderes de supervisión, investigación y sanción que los artículos 75 bis a 75 quater del [Reglamento de IA](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), insertados por el [Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1744), atribuyen a la Oficina de IA sobre los sistemas de su competencia exclusiva (artículo 75.1): los basados en modelos de uso general del mismo proveedor y los integrados en las grandes plataformas del Reglamento de Servicios Digitales.

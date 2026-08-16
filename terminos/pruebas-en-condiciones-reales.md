@@ -5,7 +5,7 @@ slug: pruebas-en-condiciones-reales
 categorias: [ria, gobernanza]
 relacionados: [espacio-controlado-de-pruebas-para-la-ia, sistema-de-ia-de-alto-riesgo, proveedor, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Pruebas de un sistema de IA de alto riesgo realizadas fuera de un espacio controlado de pruebas, en el entorno y con los usuarios reales a los que se destina, que el artículo 60 del [Reglamento de IA](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) permite a los proveedores y proveedores potenciales antes de la introducción en el mercado, conforme a un plan de la prueba cuyos elementos detallará la Comisión por acto de ejecución y sin perjuicio de las prácticas prohibidas del artículo 5.

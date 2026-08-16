@@ -5,7 +5,7 @@ slug: proteccion-equivalente-anexo-i
 categorias: [ria, gobernanza]
 relacionados: [sistema-de-ia-de-alto-riesgo, evaluacion-de-la-conformidad, componente-de-seguridad, normas-armonizadas]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Regla del artículo 2.13 del [Reglamento de IA](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), añadida por el [Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1744), que permite limitar la aplicación de los requisitos y obligaciones de los artículos 9 a 15 y 17 a 25 a los sistemas de IA de alto riesgo del artículo 6.1 cuando la legislación de armonización del anexo I, sección A —máquinas, productos sanitarios, juguetes, ascensores— ya imponga requisitos que proporcionen un nivel de protección de la salud, la seguridad o los derechos fundamentales equivalente o superior, y siempre que la limitación no reduzca el nivel global de protección del Reglamento.

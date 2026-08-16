@@ -5,7 +5,7 @@ slug: pequena-empresa-de-mediana-capitalizacion
 categorias: [ria, actores]
 relacionados: [proveedor, documentacion-tecnica, sistema-de-gestion-de-la-calidad, espacio-controlado-de-pruebas-para-la-ia]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el artículo 3.14 ter del [Reglamento de IA](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), insertado por el [Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1744), una empresa pequeña de mediana capitalización tal como se define en el punto 2 del anexo de la [Recomendación (UE) 2025/1099](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32025H1099): la categoría intermedia entre la pyme y la gran empresa.

@@ -71,7 +71,9 @@
     "responsable-del-despliegue",
     "chief-ai-officer"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "plataforma-unica-de-informacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se refiere al conjunto de capacidades, conocimientos y comprensión que permiten a proveedores, responsables del despliegue y otras personas afectadas tomar decisiones informadas en relación con los sistemas de IA, así como comprender las…"
   },
@@ -239,8 +241,10 @@
     "espacio-controlado-de-pruebas-para-la-ia"
    ],
    "enlazado_desde": [
+    "espacio-de-pruebas-a-escala-de-la-union",
     "incidente-grave",
     "recuperacion-de-un-sistema-de-ia",
+    "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia",
     "retirada-de-un-sistema-de-ia"
    ],
    "actualizado": "2026-08-16",
@@ -408,7 +412,9 @@
     "riesgo",
     "sistema-de-ia-de-alto-riesgo"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "proteccion-equivalente-anexo-i"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un componente de un producto o un sistema de IA que cumple una función de seguridad para dicho producto o sistema de IA, o cuyo fallo o defecto de funcionamiento pone en peligro la salud y la seguridad de las personas o los bienes."
   },
@@ -465,7 +471,9 @@
     "contenido-sintetico",
     "persona-afectada"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "material-de-abuso-sexual-infantil-sintetico"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Imágenes, vídeos o audios realistas generados o manipulados por IA que muestran las partes íntimas de una persona identificable, o a esa persona participando en actividades sexualmente explícitas, sin su consentimiento."
   },
@@ -486,6 +494,7 @@
    ],
    "enlazado_desde": [
     "codigo-de-buenas-practicas",
+    "material-de-abuso-sexual-infantil-sintetico",
     "sistema-de-ia-de-uso-general"
    ],
    "actualizado": "2026-08-16",
@@ -506,6 +515,25 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "El contexto de ventana o “Context Window (Token)”, según IBM, consiste en los tokens que un sistema de IA, por ejemplo ChatGPT, puede procesar o recordar como datos de entrada cuando le pedimos algo."
+  },
+  {
+   "termino": "Corrección de sesgos con categorías especiales de datos",
+   "alias": "Excepción del artículo 4 bis del RIA",
+   "slug": "tratamiento-de-categorias-especiales-para-corregir-sesgos",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "datos"
+   ],
+   "relacionados": [
+    "sesgo",
+    "gobernanza-de-datos",
+    "sistema-de-ia-de-alto-riesgo",
+    "responsable-del-despliegue"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Excepción del artículo 4 bis del Reglamento de IA, insertado por el Reglamento (UE) 2026/1744, que permite tratar excepcionalmente categorías especiales de datos personales —origen racial, salud, orientación sexual— en la medida en que sea estrictamente necesario para detectar y corregir sesgos en sistemas de IA."
   },
   {
    "termino": "Datos biométricos",
@@ -711,7 +739,9 @@
     "evaluacion-de-la-conformidad",
     "conservacion-de-registros"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "pequena-empresa-de-mediana-capitalizacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Expediente que demuestra que un sistema de IA de alto riesgo cumple los requisitos del capítulo III, sección 2."
   },
@@ -820,9 +850,31 @@
     "autoridad-de-vigilancia-del-mercado",
     "fase-de-desarrollo"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "espacio-de-pruebas-a-escala-de-la-union",
+    "pequena-empresa-de-mediana-capitalizacion",
+    "pruebas-en-condiciones-reales"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento (UE) 2024/1689, un marco controlado establecido por una autoridad competente que ofrece a los proveedores y proveedores potenciales de sistemas de IA la posibilidad de desarrollar, entrenar, validar y probar, en condiciones reales cuando proceda, un sistema de IA innovador, con arreglo a un plan…"
+  },
+  {
+   "termino": "Espacio de pruebas a escala de la Unión",
+   "alias": "Union-level AI sandbox",
+   "slug": "espacio-de-pruebas-a-escala-de-la-union",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "espacio-controlado-de-pruebas-para-la-ia",
+    "oficina-de-ia",
+    "autoridad-de-vigilancia-del-mercado"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Espacio controlado de pruebas para la IA que la Oficina de IA puede establecer a escala de la Unión, previsto en el artículo 57.3 bis del Reglamento de IA, insertado por el Reglamento (UE) 2026/1744."
   },
   {
    "termino": "Evaluación de impacto relativa a los derechos fundamentales",
@@ -860,6 +912,7 @@
    ],
    "enlazado_desde": [
     "documentacion-tecnica",
+    "proteccion-equivalente-anexo-i",
     "sistema-de-gestion-de-la-calidad"
    ],
    "actualizado": "2026-08-16",
@@ -935,7 +988,9 @@
     "sesgo",
     "anotacion-de-datos"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "tratamiento-de-categorias-especiales-para-corregir-sesgos"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Conjunto de políticas, procedimientos y controles que garantizan que los datos con los que se entrena, valida y prueba un sistema de IA son adecuados, pertinentes, suficientemente representativos y cumplen los requisitos de calidad y completitud exigidos."
   },
@@ -1258,6 +1313,24 @@
    "extracto": "Según el artículo 3.24 del Reglamento (UE) 2024/1689, el marcado con el que un proveedor indica que un sistema de IA es conforme con los requisitos del capítulo III, sección 2, y con los demás actos de la legislación de armonización de la Unión que prevean su colocación."
   },
   {
+   "termino": "Material de abuso sexual infantil sintético",
+   "alias": "CSAM generado por IA",
+   "slug": "material-de-abuso-sexual-infantil-sintetico",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "practicas-prohibidas",
+    "contenido-intimo-sintetico",
+    "contenido-sintetico"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Material o espectáculos de abuso sexual de menores, en el sentido del artículo 2, letras c) y e), de la Directiva 2011/93/UE, generados o manipulados por un sistema de IA."
+  },
+  {
    "termino": "Medios razonablemente utilizables",
    "alias": "Means reasonably likely to be used",
    "slug": "medios-razonablemente-utilizables",
@@ -1365,7 +1438,9 @@
     "codigo-de-buenas-practicas",
     "sistema-de-ia-de-alto-riesgo"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "proteccion-equivalente-anexo-i"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Normas técnicas elaboradas por los organismos europeos de normalización —CEN, CENELEC, ETSI— a petición de la Comisión, cuyas referencias se publican en el Diario Oficial."
   },
@@ -1384,7 +1459,11 @@
     "consejo-de-ia",
     "autoridad-de-vigilancia-del-mercado"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "espacio-de-pruebas-a-escala-de-la-union",
+    "plataforma-unica-de-informacion",
+    "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.47 del Reglamento (UE) 2024/1689, la función de la Comisión consistente en contribuir a la implantación, el seguimiento y la supervisión de los sistemas de IA y los modelos de IA de uso general, y a la gobernanza de la IA prevista en la Decisión de la Comisión de 24 de enero de 2024; el propio…"
   },
@@ -1422,7 +1501,9 @@
     "distribuidor",
     "importador"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un proveedor, fabricante del producto, responsable del despliegue, representante autorizado, importador o distribuidor."
   },
@@ -1480,6 +1561,25 @@
    "extracto": "Valores numéricos —los pesos y sesgos que el modelo aprende durante el entrenamiento, según el glosario de Google— que definen el estado de un modelo de IA; influyen directamente en la salida o respuesta en relación a una entrada dada (el prompt)."
   },
   {
+   "termino": "Pequeña empresa de mediana capitalización",
+   "alias": "Small mid-cap",
+   "slug": "pequena-empresa-de-mediana-capitalizacion",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "actores"
+   ],
+   "relacionados": [
+    "proveedor",
+    "documentacion-tecnica",
+    "sistema-de-gestion-de-la-calidad",
+    "espacio-controlado-de-pruebas-para-la-ia"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el artículo 3.14 ter del Reglamento de IA, insertado por el Reglamento (UE) 2026/1744, una empresa pequeña de mediana capitalización tal como se define en el punto 2 del anexo de la Recomendación (UE) 2025/1099: la categoría intermedia entre la pyme y la gran empresa."
+  },
+  {
    "termino": "Persona afectada",
    "alias": "Affected person",
    "slug": "persona-afectada",
@@ -1499,10 +1599,29 @@
     "contenido-intimo-sintetico",
     "elaboracion-de-perfiles",
     "evaluacion-de-impacto-derechos-fundamentales",
+    "pruebas-en-condiciones-reales",
     "tecnicas-subliminales"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Quien sufre los efectos de un sistema de IA sin ser quien lo usa: el candidato descartado por un cribado automático, el solicitante al que un modelo deniega el crédito, el alumno al que un algoritmo puntúa."
+  },
+  {
+   "termino": "Plataforma única de información",
+   "alias": "Single information platform",
+   "slug": "plataforma-unica-de-informacion",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "oficina-de-ia",
+    "alfabetizacion-en-materia-de-ia",
+    "ria"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Plataforma que la Oficina de IA debe desarrollar y mantener para proporcionar información fácil de usar sobre el Reglamento de IA a todos los operadores de la Unión, prevista en el artículo 62.3.b entre las medidas de apoyo a proveedores y responsables del despliegue, en particular pymes y empresas emergentes."
   },
   {
    "termino": "Prácticas de IA prohibidas",
@@ -1522,6 +1641,7 @@
    "enlazado_desde": [
     "contenido-intimo-sintetico",
     "identificacion-biometrica",
+    "material-de-abuso-sexual-infantil-sintetico",
     "sistemas-de-reconocimiento-de-emociones"
    ],
    "actualizado": "2026-08-16",
@@ -1602,6 +1722,25 @@
    "extracto": "Según IBM, consiste en un tipo de ciberataque contra un LLM."
   },
   {
+   "termino": "Protección equivalente del anexo I",
+   "alias": "Cláusula de no duplicación del artículo 2.13",
+   "slug": "proteccion-equivalente-anexo-i",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "sistema-de-ia-de-alto-riesgo",
+    "evaluacion-de-la-conformidad",
+    "componente-de-seguridad",
+    "normas-armonizadas"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Regla del artículo 2.13 del Reglamento de IA, añadida por el Reglamento (UE) 2026/1744, que permite limitar la aplicación de los requisitos y obligaciones de los artículos 9 a 15 y 17 a 25 a los sistemas de IA de alto riesgo del artículo 6.1 cuando la legislación de armonización del anexo I, sección A —máquinas,…"
+  },
+  {
    "termino": "Proveedor",
    "alias": "",
    "slug": "proveedor",
@@ -1622,6 +1761,8 @@
     "importador",
     "instrucciones-de-uso",
     "marcado-ce",
+    "pequena-empresa-de-mediana-capitalizacion",
+    "pruebas-en-condiciones-reales",
     "responsable-del-tratamiento",
     "ria"
    ],
@@ -1645,6 +1786,25 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un proveedor de un sistema de IA, también de un sistema de IA de uso general, que integra un modelo de IA, con independencia de que el modelo de IA lo proporcione él mismo y esté integrado verticalmente o lo proporcione otra entidad en virtud de…"
+  },
+  {
+   "termino": "Pruebas en condiciones reales",
+   "alias": "Real-world testing",
+   "slug": "pruebas-en-condiciones-reales",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "espacio-controlado-de-pruebas-para-la-ia",
+    "sistema-de-ia-de-alto-riesgo",
+    "proveedor",
+    "persona-afectada"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Pruebas de un sistema de IA de alto riesgo realizadas fuera de un espacio controlado de pruebas, en el entorno y con los usuarios reales a los que se destina, que el artículo 60 del Reglamento de IA permite a los proveedores y proveedores potenciales antes de la introducción en el mercado, conforme a un plan de la…"
   },
   {
    "termino": "Razonamiento",
@@ -1678,6 +1838,25 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en toda medida encaminada a conseguir la devolución al proveedor de un sistema de IA puesto a disposición de los responsables del despliegue, a inutilizarlo o a desactivar su uso."
+  },
+  {
+   "termino": "Régimen de garantía del cumplimiento de la Oficina de IA",
+   "alias": "AI Office enforcement",
+   "slug": "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "oficina-de-ia",
+    "autoridad-de-vigilancia-del-mercado",
+    "operador",
+    "sistema-de-ia-de-alto-riesgo"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-16",
+   "extracto": "Conjunto de poderes de supervisión, investigación y sanción que los artículos 75 bis a 75 quater del Reglamento de IA, insertados por el Reglamento (UE) 2026/1744, atribuyen a la Oficina de IA sobre los sistemas de su competencia exclusiva (artículo 75.1): los basados en modelos de uso general del mismo proveedor y…"
   },
   {
    "termino": "Reinforcement Learning",
@@ -1715,7 +1894,8 @@
     "alfabetizacion-en-materia-de-ia",
     "ia-agentica",
     "persona-afectada",
-    "supervision-humana"
+    "supervision-humana",
+    "tratamiento-de-categorias-especiales-para-corregir-sesgos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, o autoridad pública, órgano u organismo que utilice un sistema de IA bajo su propia autoridad, salvo cuando su uso se enmarque en una actividad personal de carácter no profesional."
@@ -1811,7 +1991,8 @@
     "alfabetizacion-en-materia-de-ia",
     "clausula-de-anterioridad",
     "consejo-de-ia",
-    "espacio-controlado-de-pruebas-para-la-ia"
+    "espacio-controlado-de-pruebas-para-la-ia",
+    "plataforma-unica-de-informacion"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Acrónimo más común para referirse al Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia artificial, o Reglamento de Inteligencia Artificial (AI Act, su denominación habitual en inglés)."
@@ -1875,7 +2056,8 @@
     "anotacion-de-datos",
     "elaboracion-de-perfiles",
     "policia-predictiva",
-    "social-scoring"
+    "social-scoring",
+    "tratamiento-de-categorias-especiales-para-corregir-sesgos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Desviación sistemática en el comportamiento de un sistema de IA que hace que sus resultados perjudiquen o favorezcan de forma injustificada a determinadas personas o grupos."
@@ -1894,7 +2076,9 @@
     "evaluacion-de-la-conformidad",
     "proveedor"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "pequena-empresa-de-mediana-capitalizacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Obligación del proveedor —no del sistema— recogida en el artículo 17 del Reglamento (UE) 2024/1689: quien introduzca en el mercado un sistema de IA de alto riesgo debe establecer un sistema de gestión de la calidad que garantice el cumplimiento del Reglamento, consignado de manera sistemática y ordenada en…"
   },
@@ -1967,8 +2151,12 @@
     "marcado-ce",
     "normas-armonizadas",
     "organismo-notificado",
+    "proteccion-equivalente-anexo-i",
+    "pruebas-en-condiciones-reales",
+    "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia",
     "solidez",
-    "transparencia"
+    "transparencia",
+    "tratamiento-de-categorias-especiales-para-corregir-sesgos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Categoría central del Reglamento (UE) 2024/1689: la de los sistemas que, sin estar prohibidos, soportan el grueso de las obligaciones de la norma."

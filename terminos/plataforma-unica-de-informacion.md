@@ -5,7 +5,7 @@ slug: plataforma-unica-de-informacion
 categorias: [ria, gobernanza]
 relacionados: [oficina-de-ia, alfabetizacion-en-materia-de-ia, ria]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Plataforma que la Oficina de IA debe desarrollar y mantener para proporcionar información fácil de usar sobre el [Reglamento de IA](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) a todos los operadores de la Unión, prevista en el artículo 62.3.b entre las medidas de apoyo a proveedores y responsables del despliegue, en particular pymes y empresas emergentes.

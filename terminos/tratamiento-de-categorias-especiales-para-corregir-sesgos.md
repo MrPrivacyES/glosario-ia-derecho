@@ -5,7 +5,7 @@ slug: tratamiento-de-categorias-especiales-para-corregir-sesgos
 categorias: [ria, datos]
 relacionados: [sesgo, gobernanza-de-datos, sistema-de-ia-de-alto-riesgo, responsable-del-despliegue]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Excepción del artículo 4 bis del [Reglamento de IA](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), insertado por el [Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1744), que permite tratar excepcionalmente categorías especiales de datos personales —origen racial, salud, orientación sexual— en la medida en que sea estrictamente necesario para detectar y corregir sesgos en sistemas de IA. Resuelve una paradoja conocida: comprobar que un sistema no discrimina exige tratar precisamente los datos que el artículo 9 del RGPD blinda.

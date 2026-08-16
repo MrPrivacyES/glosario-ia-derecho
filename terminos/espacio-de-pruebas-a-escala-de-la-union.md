@@ -5,7 +5,7 @@ slug: espacio-de-pruebas-a-escala-de-la-union
 categorias: [ria, gobernanza]
 relacionados: [espacio-controlado-de-pruebas-para-la-ia, oficina-de-ia, autoridad-de-vigilancia-del-mercado]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Espacio controlado de pruebas para la IA que la Oficina de IA puede establecer a escala de la Unión, previsto en el artículo 57.3 bis del [Reglamento de IA](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), insertado por el [Reglamento (UE) 2026/1744](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32026R1744). Hasta el Ómnibus, los espacios controlados eran una infraestructura nacional; este es el primero de ámbito europeo, y las referencias del capítulo VI a las autoridades nacionales competentes se entienden hechas, cuando proceda, a la Oficina de IA.

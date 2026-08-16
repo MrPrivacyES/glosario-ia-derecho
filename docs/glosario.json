@@ -190,7 +190,7 @@
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "El Reinforcement Learning from Human Feedback (RLHF) es una técnica que combina aprendizaje por refuerzo con evaluaciones humanas de la salida (respuesta) del modelo para alinear su comportamiento con valores deseados."
+   "extracto": "El Reinforcement Learning from Human Feedback (RLHF), formalizado por OpenAI en el paper de InstructGPT (2022), es una técnica que combina aprendizaje por refuerzo con evaluaciones humanas de la salida (respuesta) del modelo para alinear su comportamiento con valores deseados."
   },
   {
    "termino": "Ataques de reidentificación",
@@ -292,11 +292,12 @@
     "gobernanza"
    ],
    "relacionados": [
-    "alfabetizacion-en-materia-de-ia"
+    "alfabetizacion-en-materia-de-ia",
+    "supervision-humana"
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "Según la orden ejecutiva #14110 de octubre de 2023 del gobierno Biden en Estados Unidos, el Chief AI Officer será el responsable de coordinar el uso de IA en una organización, promover la innovación en IA, gestionar los riesgos del uso de IA en la organización y gestionar las responsabilidades derivadas de la…"
+   "extracto": "Directivo responsable de coordinar el uso de la IA en una organización: estrategia, promoción de la innovación, gestión de los riesgos y gobernanza de los sistemas que se desarrollan o despliegan."
   },
   {
    "termino": "Ciberseguridad",
@@ -371,7 +372,7 @@
     "modelo-de-ia-de-uso-general"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Instrumento voluntario, elaborado por la industria con la Oficina de IA y evaluado por la Comisión, que concreta cómo cumplir determinadas obligaciones del Reglamento (UE) 2024/1689."
+   "extracto": "Instrumento voluntario, elaborado con la industria, que concreta cómo cumplir determinadas obligaciones del Reglamento (UE) 2024/1689."
   },
   {
    "termino": "Componente de seguridad",
@@ -640,7 +641,7 @@
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "Proceso por el que los conocimientos de un modelo fundacional (“Profesor”) se transfieren a uno más pequeño en desarrollo (“Estudiante”) conservando la mayor parte de su precisión, pero reduciendo parámetros y coste de inferencia."
+   "extracto": "Proceso por el que los conocimientos de un modelo fundacional (“Profesor”) se transfieren a uno más pequeño en desarrollo (“Estudiante”) conservando la mayor parte de su precisión, pero reduciendo parámetros y coste de inferencia; la técnica fue formulada por Hinton, Vinyals y Dean (2015)."
   },
   {
    "termino": "Distribuidor",
@@ -1104,7 +1105,7 @@
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "Principio económico según el cual las mejoras en la eficiencia de un recurso (p.ej."
+   "extracto": "Principio económico formulado por W."
   },
   {
    "termino": "Leyes de escalado",
@@ -1119,11 +1120,11 @@
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "Las “Scaling Laws” son regularidades empíricas que describen cómo el rendimiento del modelo mejora de forma predecible al aumentar en datos, parámetros o cómputo, permitiendo extrapolar la necesidad de recursos antes de entrenar."
+   "extracto": "Las “Scaling Laws”, descritas por Kaplan et al."
   },
   {
    "termino": "LLM o Large Language Model",
-   "alias": "",
+   "alias": "gran modelo de lenguaje",
    "slug": "llm-o-large-language-model",
    "categorias": [
     "tecnico"
@@ -1132,7 +1133,8 @@
     "transformer",
     "token",
     "gpt",
-    "alucinacion"
+    "alucinacion",
+    "modelo-de-ia-de-uso-general"
    ],
    "enlazado_desde": [
     "aprendizaje-reforzado-con-retroalimentacion-humana",
@@ -1150,7 +1152,7 @@
     "vibe-coding"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Ver la definición de “Modelo de IA de uso general”."
+   "extracto": "Modelo de IA entrenado con volúmenes masivos de texto para aprender las relaciones estadísticas del lenguaje y generar, a partir de una entrada (prompt), la continuación más probable token a token, según lo describe IBM."
   },
   {
    "termino": "Marca de agua",
@@ -1237,7 +1239,7 @@
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
-   "extracto": "Arquitectura en la que varios sub-modelos especializados (“Expertos”) compiten o son seleccionados dinámicamente mediante un router para responder a cada entrada, aumentando la capacidad efectiva sin elevar el coste de inferencia linealmente."
+   "extracto": "Arquitectura en la que varios sub-modelos especializados (“Expertos”) compiten o son seleccionados dinámicamente mediante un router para responder a cada entrada, aumentando la capacidad efectiva sin elevar el coste de inferencia linealmente (explicación técnica de Hugging Face)."
   },
   {
    "termino": "Modelo de IA de uso general",
@@ -1255,7 +1257,8 @@
    "enlazado_desde": [
     "ai-gyms",
     "capacidades-de-gran-impacto",
-    "ia-generativa"
+    "ia-generativa",
+    "llm-o-large-language-model"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un modelo de IA, también uno entrenado con un gran volumen de datos utilizando autosupervisión a gran escala, que presenta un grado considerable de generalidad y es capaz de realizar de manera competente una gran variedad de tareas…"
@@ -1395,7 +1398,7 @@
     "leyes-de-escalado"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Valores numéricos que definen el estado de un modelo de IA tras el entrenamiento; influyen directamente en la salida o respuesta en relación a una entrada dada (el prompt)."
+   "extracto": "Valores numéricos —los pesos y sesgos que el modelo aprende durante el entrenamiento, según el glosario de Google— que definen el estado de un modelo de IA; influyen directamente en la salida o respuesta en relación a una entrada dada (el prompt)."
   },
   {
    "termino": "Persona afectada",
@@ -1479,7 +1482,7 @@
   },
   {
    "termino": "Prompt",
-   "alias": "",
+   "alias": "instrucción o indicación",
    "slug": "prompt",
    "categorias": [
     "tecnico"
@@ -1494,7 +1497,7 @@
     "vibe-coding"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Ver definición de “Datos de entrada”."
+   "extracto": "Texto (o imagen, audio o documento) que se proporciona a un modelo generativo para condicionar su comportamiento y obtener la salida deseada, según el glosario de aprendizaje automático de Google."
   },
   {
    "termino": "Prompt injection",
@@ -1715,7 +1718,7 @@
     "espacio-controlado-de-pruebas-para-la-ia"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Acrónimo más común para referirse al Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia artificial, o Reglamento de Inteligencia Artificial."
+   "extracto": "Acrónimo más común para referirse al Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia artificial, o Reglamento de Inteligencia Artificial (AI Act, su denominación habitual en inglés)."
   },
   {
    "termino": "Riesgo",
@@ -1964,6 +1967,7 @@
     "human-in-the-loop"
    ],
    "enlazado_desde": [
+    "chief-ai-officer",
     "evaluacion-de-impacto-derechos-fundamentales"
    ],
    "actualizado": "2026-08-16",

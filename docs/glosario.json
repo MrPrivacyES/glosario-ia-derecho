@@ -20,6 +20,21 @@
    "extracto": "Son entornos simulados y controlados (normalmente clones de apps o servicios) en los que agentes de IA practican tareas de inicio a fin con refuerzos/feedback (Reinforcement Learning), así como validadores automáticos y humanos que miden su desempeño y seguridad."
   },
   {
+   "termino": "AI washing",
+   "alias": "lavado de imagen con IA",
+   "slug": "ai-washing",
+   "categorias": [
+    "cultura",
+    "riesgos"
+   ],
+   "relacionados": [
+    "sistema-de-ia",
+    "inteligencia-artificial"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Práctica de marketing engañosa consistente en exagerar o directamente inventar la presencia de inteligencia artificial en un producto o servicio para presentarlo como más avanzado o innovador de lo que realmente es."
+  },
+  {
    "termino": "Ajuste fino",
    "alias": "Fine-tuning",
    "slug": "ajuste-fino",

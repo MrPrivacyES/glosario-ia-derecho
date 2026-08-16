@@ -5,7 +5,7 @@ slug: elaboracion-de-perfiles
 categorias: [datos]
 relacionados: [decisiones-automatizadas, sesgo, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el artículo 4.4 del [Reglamento (UE) 2016/679](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02016R0679-20160504), toda forma de tratamiento automatizado de datos personales consistente en utilizar datos personales para evaluar determinados aspectos personales de una persona física, en particular para analizar o predecir aspectos relativos a su rendimiento profesional, situación económica, salud, preferencias personales, intereses, fiabilidad, comportamiento, ubicación o movimientos.

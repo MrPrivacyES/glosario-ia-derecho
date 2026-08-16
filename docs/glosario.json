@@ -511,6 +511,23 @@
    "extracto": "Datos artificiales generados por un modelo entrenado con un conjunto de datos de origen, del que imitan las características y la estructura."
   },
   {
+   "termino": "Decisiones automatizadas",
+   "alias": "Automated decision-making o ADM",
+   "slug": "decisiones-automatizadas",
+   "categorias": [
+    "datos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "elaboracion-de-perfiles",
+    "intervencion-humana-significativa",
+    "explicabilidad",
+    "persona-afectada"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "El artículo 22 del Reglamento (UE) 2016/679 reconoce a todo interesado el derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar."
+  },
+  {
    "termino": "DeepSeek",
    "alias": "",
    "slug": "deepseek",
@@ -589,6 +606,21 @@
    "extracto": "Entradas manipuladas de forma deliberada, a menudo con alteraciones imperceptibles para una persona, que hacen que un modelo cometa un error."
   },
   {
+   "termino": "Elaboración de perfiles",
+   "alias": "Profiling o perfilado",
+   "slug": "elaboracion-de-perfiles",
+   "categorias": [
+    "datos"
+   ],
+   "relacionados": [
+    "decisiones-automatizadas",
+    "sesgo",
+    "persona-afectada"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el artículo 4.4 del Reglamento (UE) 2016/679, toda forma de tratamiento automatizado de datos personales consistente en utilizar datos personales para evaluar determinados aspectos personales de una persona física, en particular para analizar o predecir aspectos relativos a su rendimiento profesional,…"
+  },
+  {
    "termino": "Embedding",
    "alias": "Incrustación",
    "slug": "embedding",
@@ -637,17 +669,19 @@
   },
   {
    "termino": "Espacio controlado de pruebas para la IA",
-   "alias": "Sandbox",
+   "alias": "Sandbox o entorno regulatorio de pruebas",
    "slug": "espacio-controlado-de-pruebas-para-la-ia",
    "categorias": [
     "ria",
     "gobernanza"
    ],
    "relacionados": [
-    "ria"
+    "ria",
+    "autoridad-de-vigilancia-del-mercado",
+    "fase-de-desarrollo"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un marco controlado establecido por una autoridad competente que ofrece a los proveedores y proveedores potenciales de sistemas de IA la posibilidad de desarrollar, entrenar, validar y probar, en condiciones reales cuando proceda, un…"
+   "extracto": "Según el Reglamento (UE) 2024/1689, un marco controlado establecido por una autoridad competente que ofrece a los proveedores y proveedores potenciales de sistemas de IA la posibilidad de desarrollar, entrenar, validar y probar, en condiciones reales cuando proceda, un sistema de IA innovador, con arreglo a un plan…"
   },
   {
    "termino": "Evaluación de impacto relativa a los derechos fundamentales",
@@ -694,7 +728,7 @@
    "relacionados": [
     "transparencia",
     "human-in-the-loop",
-    "razonamiento"
+    "decisiones-automatizadas"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Conjunto de técnicas que permiten dar cuenta de por qué un modelo ha producido un resultado concreto."
@@ -924,7 +958,7 @@
    "relacionados": [
     "supervision-humana",
     "human-in-the-loop",
-    "explicabilidad"
+    "decisiones-automatizadas"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Umbral que debe alcanzar la participación de una persona para que una decisión deje de considerarse «basada únicamente en el tratamiento automatizado» a efectos del artículo 22 del RGPD."
@@ -1199,8 +1233,8 @@
    ],
    "relacionados": [
     "responsable-del-despliegue",
-    "supervision-humana",
-    "intervencion-humana-significativa"
+    "intervencion-humana-significativa",
+    "decisiones-automatizadas"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Quien sufre los efectos de un sistema de IA sin ser quien lo usa: el candidato descartado por un cribado automático, el solicitante al que un modelo deniega el crédito, el alumno al que un algoritmo puntúa."
@@ -1249,7 +1283,7 @@
    "relacionados": [
     "practicas-prohibidas",
     "sesgo",
-    "persona-afectada"
+    "elaboracion-de-perfiles"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Uso de sistemas de IA para evaluar el riesgo de que una persona cometa un delito."
@@ -1623,7 +1657,7 @@
    ],
    "relacionados": [
     "practicas-prohibidas",
-    "persona-afectada",
+    "elaboracion-de-perfiles",
     "sesgo"
    ],
    "actualizado": "2026-08-16",

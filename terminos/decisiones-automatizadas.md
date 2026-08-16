@@ -5,7 +5,7 @@ slug: decisiones-automatizadas
 categorias: [datos, gobernanza]
 relacionados: [elaboracion-de-perfiles, intervencion-humana-significativa, explicabilidad, persona-afectada]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 El artículo 22 del [Reglamento (UE) 2016/679](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02016R0679-20160504) reconoce a todo interesado el derecho a no ser objeto de una decisión basada **únicamente** en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar. La prohibición decae en tres supuestos: que la decisión sea necesaria para celebrar o ejecutar un contrato, que la autorice el Derecho de la Unión o nacional con salvaguardias adecuadas, o que se base en el consentimiento explícito.

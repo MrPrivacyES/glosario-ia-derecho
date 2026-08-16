@@ -5,7 +5,7 @@ slug: ia-agentica
 categorias: [tecnico, datos]
 relacionados: [sistema-de-ia, responsable-del-despliegue, razonamiento]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Sistemas de IA que no se limitan a responder preguntas, sino que interactúan de forma autónoma con su entorno digital —navegan, consultan fuentes, invocan herramientas y encadenan pasos— para alcanzar un objetivo encargado por el usuario. Es la caracterización que emplea la AEPD en sus [orientaciones sobre inteligencia artificial agéntica](https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-agencia-publica-unas-orientaciones-sobre-inteligencia), de 18 de febrero de 2026.

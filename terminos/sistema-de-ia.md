@@ -3,7 +3,7 @@ termino: Sistema de IA
 alias: 
 slug: sistema-de-ia
 categorias: [ria]
-relacionados: [inteligencia-artificial, ria]
+relacionados: [inteligencia-artificial, ria, ia-agentica]
 actualizado: 2026-08-16
 estado: publicado
 ---

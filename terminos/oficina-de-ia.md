@@ -5,7 +5,7 @@ slug: oficina-de-ia
 categorias: [ria, gobernanza]
 relacionados: [ria, codigo-de-buenas-practicas, modelo-de-ia-de-uso-general]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Según el [artículo 3.47 del Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), la función de la Comisión consistente en contribuir a la implantación, el seguimiento y la supervisión de los sistemas de IA y los modelos de IA de uso general, y a la gobernanza de la IA prevista en la Decisión de la Comisión de 24 de enero de 2024; el propio Reglamento aclara que sus referencias a la Oficina de IA se entienden hechas a la Comisión.

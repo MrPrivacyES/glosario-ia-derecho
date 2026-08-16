@@ -3,7 +3,7 @@ termino: Razonamiento
 alias: 
 slug: razonamiento
 categorias: [tecnico]
-relacionados: [test-time-compute, llm-o-large-language-model]
+relacionados: [test-time-compute, llm-o-large-language-model, ia-agentica]
 actualizado: 2026-08-16
 estado: publicado
 ---

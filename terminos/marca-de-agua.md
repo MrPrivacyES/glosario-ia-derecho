@@ -5,7 +5,7 @@ slug: marca-de-agua
 categorias: [ria, tecnico]
 relacionados: [contenido-sintetico, ultrasuplantacion, codigo-de-buenas-practicas]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Señal imperceptible que se incrusta en el propio contenido generado por una IA —en los píxeles de una imagen, en la onda de audio o en la distribución de los tokens de un texto— para que una máquina pueda después detectar su origen artificial, incluso tras recortes, recompresiones o capturas de pantalla. No es un requisito nominal del Reglamento de IA: el [artículo 50.2 del Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) exige un marcado «en un formato legible por máquina», y el considerando 133 cita las marcas de agua junto a la identificación de metadatos, los métodos criptográficos de procedencia, los métodos de registro y las impresiones dactilares como técnicas admisibles.

@@ -3,9 +3,9 @@ termino: Código de buenas prácticas
 alias: Code of Practice
 slug: codigo-de-buenas-practicas
 categorias: [ria, gobernanza]
-relacionados: [oficina-de-ia, contenido-sintetico, modelo-de-ia-de-uso-general]
+relacionados: [oficina-de-ia, contenido-sintetico, marca-de-agua, modelo-de-ia-de-uso-general]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Instrumento voluntario, elaborado por la industria con la Oficina de IA y evaluado por la Comisión, que concreta cómo cumplir determinadas obligaciones del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712). El Reglamento los prevé para los modelos de IA de uso general (artículo 56) y para la detección, el marcado y el etiquetado de contenidos generados o manipulados artificialmente (artículo 50.7).

@@ -3,7 +3,7 @@ termino: Sistema de IA de uso general
 alias: 
 slug: sistema-de-ia-de-uso-general
 categorias: [ria]
-relacionados: [modelo-de-ia-de-uso-general]
+relacionados: [modelo-de-ia-de-uso-general, contenido-sintetico]
 actualizado: 2026-08-16
 estado: publicado
 ---

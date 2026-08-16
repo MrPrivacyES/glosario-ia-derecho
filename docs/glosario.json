@@ -108,6 +108,23 @@
    "extracto": "Según la orden ejecutiva #14110 de octubre de 2023 del gobierno Biden en Estados Unidos, el Chief AI Officer será el responsable de coordinar el uso de IA en una organización, promover la innovación en IA, gestionar los riesgos del uso de IA en la organización y gestionar las responsabilidades derivadas de la…"
   },
   {
+   "termino": "Código de buenas prácticas",
+   "alias": "Code of Practice",
+   "slug": "codigo-de-buenas-practicas",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "oficina-de-ia",
+    "contenido-sintetico",
+    "marca-de-agua",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Instrumento voluntario, elaborado por la industria con la Oficina de IA y evaluado por la Comisión, que concreta cómo cumplir determinadas obligaciones del Reglamento (UE) 2024/1689."
+  },
+  {
    "termino": "Componente de seguridad",
    "alias": "",
    "slug": "componente-de-seguridad",
@@ -120,6 +137,23 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un componente de un producto o un sistema de IA que cumple una función de seguridad para dicho producto o sistema de IA, o cuyo fallo o defecto de funcionamiento pone en peligro la salud y la seguridad de las personas o los bienes."
+  },
+  {
+   "termino": "Contenido sintético",
+   "alias": "Synthetic content",
+   "slug": "contenido-sintetico",
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "ultrasuplantacion",
+    "marca-de-agua",
+    "sistema-de-ia-de-uso-general",
+    "proveedor"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Contenido de audio, imagen, vídeo o texto generado o manipulado artificialmente por un sistema de IA, en contraposición al producido directamente por una persona."
   },
   {
    "termino": "Context Window",
@@ -300,6 +334,22 @@
    "extracto": "Un GPT o Transformador Pre-entrenado Generativo es un tipo de LLM o modelo de IA de uso general."
   },
   {
+   "termino": "IA agéntica",
+   "alias": "Agentic AI",
+   "slug": "ia-agentica",
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "sistema-de-ia",
+    "responsable-del-despliegue",
+    "razonamiento"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Sistemas de IA que no se limitan a responder preguntas, sino que interactúan de forma autónoma con su entorno digital —navegan, consultan fuentes, invocan herramientas y encadenan pasos— para alcanzar un objetivo encargado por el usuario."
+  },
+  {
    "termino": "Identificación biométrica",
    "alias": "Biometric identification",
    "slug": "identificacion-biometrica",
@@ -413,6 +463,22 @@
    "extracto": "Ver la definición de “Modelo de IA de uso general”."
   },
   {
+   "termino": "Marca de agua",
+   "alias": "Watermarking",
+   "slug": "marca-de-agua",
+   "categorias": [
+    "ria",
+    "tecnico"
+   ],
+   "relacionados": [
+    "contenido-sintetico",
+    "ultrasuplantacion",
+    "codigo-de-buenas-practicas"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Señal imperceptible que se incrusta en el propio contenido generado por una IA —en los píxeles de una imagen, en la onda de audio o en la distribución de los tokens de un texto— para que una máquina pueda después detectar su origen artificial, incluso tras recortes, recompresiones o capturas de pantalla."
+  },
+  {
    "termino": "Mixture of Experts (MoE) o “Mezcla de expertos”",
    "alias": "",
    "slug": "mixture-of-experts",
@@ -436,7 +502,8 @@
    "relacionados": [
     "sistema-de-ia-de-uso-general",
     "riesgo-sistemico",
-    "proveedor"
+    "proveedor",
+    "codigo-de-buenas-practicas"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un modelo de IA, también uno entrenado con un gran volumen de datos utilizando autosupervisión a gran escala, que presenta un grado considerable de generalidad y es capaz de realizar de manera competente una gran variedad de tareas…"
@@ -454,6 +521,22 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un cambio en un sistema de IA tras su introducción en el mercado o puesta en servicio que no haya sido previsto o proyectado en la evaluación de la conformidad inicial realizada por el proveedor y a consecuencia del cual se vea afectado el…"
+  },
+  {
+   "termino": "Oficina de IA",
+   "alias": "AI Office",
+   "slug": "oficina-de-ia",
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "ria",
+    "codigo-de-buenas-practicas",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "actualizado": "2026-08-16",
+   "extracto": "Según el artículo 3.47 del Reglamento (UE) 2024/1689, la función de la Comisión consistente en contribuir a la implantación, el seguimiento y la supervisión de los sistemas de IA y los modelos de IA de uso general, y a la gobernanza de la IA prevista en la Decisión de la Comisión de 24 de enero de 2024; el propio…"
   },
   {
    "termino": "Open Weights",
@@ -583,7 +666,8 @@
    ],
    "relacionados": [
     "test-time-compute",
-    "llm-o-large-language-model"
+    "llm-o-large-language-model",
+    "ia-agentica"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Capacidad de un sistema para encadenar inferencias lógicas o causales más allá de la simple correlación estadística, resolviendo tareas que requieren planificación, deducción o abstracción."
@@ -625,7 +709,8 @@
    ],
    "relacionados": [
     "proveedor",
-    "operador"
+    "operador",
+    "ia-agentica"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en una persona física o jurídica, o autoridad pública, órgano u organismo que utilice un sistema de IA bajo su propia autoridad, salvo cuando su uso se enmarque en una actividad personal de carácter no profesional."
@@ -667,10 +752,11 @@
    "relacionados": [
     "sistema-de-ia",
     "proveedor",
-    "riesgo"
+    "riesgo",
+    "oficina-de-ia"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "Acrónimo más común para referirse al Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia artificial o Reglamento de Inteligencia Artificial ."
+   "extracto": "Acrónimo más común para referirse al Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia artificial, o Reglamento de Inteligencia Artificial."
   },
   {
    "termino": "Riesgo",
@@ -712,7 +798,8 @@
    ],
    "relacionados": [
     "inteligencia-artificial",
-    "ria"
+    "ria",
+    "ia-agentica"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se trata de un sistema basado en una máquina que está diseñado para funcionar con distintos niveles de autonomía y que puede mostrar capacidad de adaptación tras el despliegue, y que, para objetivos explícitos o implícitos, infiere de la información…"
@@ -725,7 +812,8 @@
     "ria"
    ],
    "relacionados": [
-    "modelo-de-ia-de-uso-general"
+    "modelo-de-ia-de-uso-general",
+    "contenido-sintetico"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un sistema de IA basado en un modelo de IA de uso general y que puede servir para diversos fines, tanto para su uso directo como para su integración en otros sistemas de IA."
@@ -803,18 +891,20 @@
    "extracto": "La arquitectura de aprendizaje profundo transformadora o “Transformer”, fue desarrollada por investigadores de Google y se propuso en un famoso paper de 2017 titulado \"Attention Is All You Need\"."
   },
   {
-   "termino": "Ultrasuplantación",
-   "alias": "",
+   "termino": "Ultrafalsificación",
+   "alias": "Ultrasuplantación o deepfake",
    "slug": "ultrasuplantacion",
    "categorias": [
     "ria",
     "riesgos"
    ],
    "relacionados": [
-    "ria"
+    "ria",
+    "contenido-sintetico",
+    "marca-de-agua"
    ],
    "actualizado": "2026-08-16",
-   "extracto": "(Deepfake): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un contenido de imagen, audio o vídeo generado o manipulado por una IA que se asemeja a personas, objetos, lugares, entidades o sucesos reales y que puede inducir a una persona a pensar erróneamente que son auténticos o verídicos."
+   "extracto": "Según el artículo 3.60 del Reglamento (UE) 2024/1689, un contenido de imagen, audio o vídeo generado o manipulado por una IA que se asemeja a personas, objetos, lugares, entidades o sucesos reales y que puede inducir a una persona a pensar erróneamente que son auténticos o verídicos."
   },
   {
    "termino": "Uso indebido razonablemente previsible",

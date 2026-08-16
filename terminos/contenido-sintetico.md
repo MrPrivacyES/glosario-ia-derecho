@@ -5,7 +5,7 @@ slug: contenido-sintetico
 categorias: [ria, riesgos]
 relacionados: [ultrasuplantacion, marca-de-agua, sistema-de-ia-de-uso-general, proveedor]
 actualizado: 2026-08-16
-estado: borrador
+estado: publicado
 ---
 
 Contenido de audio, imagen, vídeo o texto generado o manipulado artificialmente por un sistema de IA, en contraposición al producido directamente por una persona. La expresión aparece en el [artículo 50.2 del Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712), que no la define en el artículo 3: son las [directrices de la Oficina de IA sobre las obligaciones de transparencia](https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-transparency-obligations) las que precisan su alcance.

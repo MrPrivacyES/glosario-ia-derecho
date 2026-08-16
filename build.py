@@ -93,6 +93,7 @@ def main():
             "termino": fm["termino"],
             "alias": fm.get("alias", ""),
             "slug": fm["slug"],
+            "slugs_antiguos": fm.get("slugs_antiguos") if isinstance(fm.get("slugs_antiguos"), list) else [],
             "categorias": fm["categorias"],
             "relacionados": fm["relacionados"],
             "actualizado": fm["actualizado"],
@@ -122,7 +123,7 @@ def main():
     hoy = datetime.date.today().isoformat()
 
     # datos abiertos (sin campo de búsqueda ni html)
-    abierto = [{k: t[k] for k in ("termino", "alias", "slug", "categorias", "relacionados", "enlazado_desde", "actualizado", "extracto")} for t in terms]
+    abierto = [{k: t[k] for k in ("termino", "alias", "slug", "slugs_antiguos", "categorias", "relacionados", "enlazado_desde", "actualizado", "extracto")} for t in terms]
     with open(os.path.join(OUT, "glosario.json"), "w", encoding="utf-8") as f:
         json.dump({"titulo": "Glosario sobre IA y Derecho — The Legal Letters",
                    "url": "https://glosario.thelegaletters.com",

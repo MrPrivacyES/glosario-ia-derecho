@@ -1,7 +1,8 @@
 ---
 termino: Ultrafalsificación
 alias: Ultrasuplantación o deepfake
-slug: ultrasuplantacion
+slug: ultrafalsificacion
+slugs_antiguos: [ultrasuplantacion]
 categorias: [ria, riesgos]
 relacionados: [contenido-sintetico, marca-de-agua, contenido-intimo-sintetico]
 actualizado: 2026-08-16

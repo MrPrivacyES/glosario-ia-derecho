@@ -3,7 +3,7 @@ termino: Marca de agua
 alias: Watermarking
 slug: marca-de-agua
 categorias: [ria, tecnico]
-relacionados: [contenido-sintetico, ultrasuplantacion, codigo-de-buenas-practicas]
+relacionados: [contenido-sintetico, ultrafalsificacion, codigo-de-buenas-practicas]
 actualizado: 2026-08-16
 estado: publicado
 ---

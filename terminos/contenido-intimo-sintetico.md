@@ -3,7 +3,7 @@ termino: Contenido íntimo sintético no consentido
 alias: Desnudos falsos o NCII
 slug: contenido-intimo-sintetico
 categorias: [ria, riesgos]
-relacionados: [practicas-prohibidas, ultrasuplantacion, contenido-sintetico, persona-afectada]
+relacionados: [practicas-prohibidas, ultrafalsificacion, contenido-sintetico, persona-afectada]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -186,7 +186,14 @@ function toggle(card, force) {
   if (abrir) history.replaceState(null, "", "#" + card.id);
 }
 
+const LEGACY = {};
+DATA.forEach(t => (t.slugs_antiguos || []).forEach(s => LEGACY[s] = t.slug));
+
 function irA(slug) {
+  if (!document.getElementById(slug) && LEGACY[slug]) {
+    slug = LEGACY[slug];
+    history.replaceState(null, "", "#" + slug);
+  }
   const card = document.getElementById(slug);
   if (!card) return;
   toggle(card, true);

@@ -8,6 +8,7 @@
    "termino": "AI Gyms",
    "alias": "Gimnasios de IA",
    "slug": "ai-gyms",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "riesgos"
@@ -24,6 +25,7 @@
    "termino": "AI washing",
    "alias": "lavado de imagen con IA",
    "slug": "ai-washing",
+   "slugs_antiguos": [],
    "categorias": [
     "cultura",
     "riesgos"
@@ -40,6 +42,7 @@
    "termino": "Ajuste fino",
    "alias": "Fine-tuning",
    "slug": "ajuste-fino",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "datos"
@@ -57,6 +60,7 @@
    "termino": "Alfabetización en materia de IA",
    "alias": "AI literacy",
    "slug": "alfabetizacion-en-materia-de-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -75,6 +79,7 @@
    "termino": "Alucinación",
    "alias": "Hallucination",
    "slug": "alucinacion",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "riesgos"
@@ -92,6 +97,7 @@
    "termino": "Anonimato de un modelo de IA",
    "alias": "Estatuto del modelo o model anonymity",
    "slug": "anonimato-de-los-modelos",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "tecnico"
@@ -113,6 +119,7 @@
    "termino": "Anotación de datos",
    "alias": "Etiquetado o data annotation",
    "slug": "anotacion-de-datos",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "tecnico"
@@ -130,6 +137,7 @@
    "termino": "Aprendizaje automático",
    "alias": "machine learning o ML",
    "slug": "aprendizaje-automatico",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -147,6 +155,7 @@
    "termino": "Aprendizaje federado",
    "alias": "Federated learning o FL",
    "slug": "aprendizaje-federado",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "datos"
@@ -164,6 +173,7 @@
    "termino": "Aprendizaje por transferencia",
    "alias": "Transfer learning",
    "slug": "aprendizaje-por-transferencia",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -180,6 +190,7 @@
    "termino": "Aprendizaje reforzado con retroalimentación humana",
    "alias": "",
    "slug": "aprendizaje-reforzado-con-retroalimentacion-humana",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "datos"
@@ -196,6 +207,7 @@
    "termino": "Ataques de reidentificación",
    "alias": "Inferencia de pertenencia, inversión de modelo o reconstrucción",
    "slug": "ataques-de-reidentificacion",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "datos"
@@ -215,6 +227,7 @@
    "termino": "Autoridad de vigilancia del mercado",
    "alias": "Market surveillance authority o MSA",
    "slug": "autoridad-de-vigilancia-del-mercado",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -237,6 +250,7 @@
    "termino": "Autoridades de derechos fundamentales",
    "alias": "FRAB o Fundamental Rights Authorities and Bodies",
    "slug": "autoridades-de-derechos-fundamentales",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -254,6 +268,7 @@
    "termino": "Capacidades de gran impacto",
    "alias": "",
    "slug": "capacidades-de-gran-impacto",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -270,6 +285,7 @@
    "termino": "Categorización biométrica",
    "alias": "Biometric categorization",
    "slug": "categorizacion-biometrica",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "biometria"
@@ -288,6 +304,7 @@
    "termino": "Chief AI Officer",
    "alias": "Director de Inteligencia Artificial",
    "slug": "chief-ai-officer",
+   "slugs_antiguos": [],
    "categorias": [
     "gobernanza"
    ],
@@ -303,6 +320,7 @@
    "termino": "Ciberseguridad",
    "alias": "Cybersecurity",
    "slug": "ciberseguridad",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -323,6 +341,7 @@
    "termino": "Ciclo de vida de un sistema de IA",
    "alias": "AI lifecycle",
    "slug": "ciclo-de-vida-del-sistema-de-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "gobernanza",
     "tecnico"
@@ -340,6 +359,7 @@
    "termino": "Cláusula de anterioridad",
    "alias": "Grandfathering o sistemas heredados",
    "slug": "clausula-de-anterioridad",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -357,6 +377,7 @@
    "termino": "Código de buenas prácticas",
    "alias": "Code of Practice",
    "slug": "codigo-de-buenas-practicas",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -378,6 +399,7 @@
    "termino": "Componente de seguridad",
    "alias": "",
    "slug": "componente-de-seguridad",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -394,6 +416,7 @@
    "termino": "Consejo de IA",
    "alias": "Consejo Europeo de Inteligencia Artificial o AI Board",
    "slug": "consejo-de-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -411,6 +434,7 @@
    "termino": "Conservación de registros",
    "alias": "Archivos de registro o logs",
    "slug": "conservacion-de-registros",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -430,13 +454,14 @@
    "termino": "Contenido íntimo sintético no consentido",
    "alias": "Desnudos falsos o NCII",
    "slug": "contenido-intimo-sintetico",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
    ],
    "relacionados": [
     "practicas-prohibidas",
-    "ultrasuplantacion",
+    "ultrafalsificacion",
     "contenido-sintetico",
     "persona-afectada"
    ],
@@ -448,12 +473,13 @@
    "termino": "Contenido sintético",
    "alias": "Synthetic content",
    "slug": "contenido-sintetico",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
    ],
    "relacionados": [
-    "ultrasuplantacion",
+    "ultrafalsificacion",
     "marca-de-agua",
     "ia-generativa",
     "contenido-intimo-sintetico"
@@ -469,6 +495,7 @@
    "termino": "Context Window",
    "alias": "token",
    "slug": "context-window",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -484,6 +511,7 @@
    "termino": "Datos biométricos",
    "alias": "Verificación biométrica o biometric data",
    "slug": "datos-biometricos",
+   "slugs_antiguos": [],
    "categorias": [
     "biometria",
     "datos"
@@ -501,6 +529,7 @@
    "termino": "Datos de entrada",
    "alias": "",
    "slug": "datos-de-entrada",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "datos"
@@ -519,6 +548,7 @@
    "termino": "Datos de entrenamiento",
    "alias": "",
    "slug": "datos-de-entrenamiento",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "datos"
@@ -546,6 +576,7 @@
    "termino": "Datos de prueba",
    "alias": "",
    "slug": "datos-de-prueba",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "datos"
@@ -562,6 +593,7 @@
    "termino": "Datos de validación",
    "alias": "",
    "slug": "datos-de-validacion",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "datos"
@@ -579,6 +611,7 @@
    "termino": "Datos sintéticos",
    "alias": "Synthetic data",
    "slug": "datos-sinteticos",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "tecnico"
@@ -596,6 +629,7 @@
    "termino": "Decisiones automatizadas",
    "alias": "Automated decision-making o ADM",
    "slug": "decisiones-automatizadas",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "gobernanza"
@@ -614,6 +648,7 @@
    "termino": "DeepSeek",
    "alias": "",
    "slug": "deepseek",
+   "slugs_antiguos": [],
    "categorias": [
     "cultura",
     "tecnico"
@@ -632,6 +667,7 @@
    "termino": "Distillation",
    "alias": "Destilación",
    "slug": "distillation",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -647,6 +683,7 @@
    "termino": "Distribuidor",
    "alias": "",
    "slug": "distribuidor",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -664,6 +701,7 @@
    "termino": "Documentación técnica",
    "alias": "Technical documentation",
    "slug": "documentacion-tecnica",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -681,6 +719,7 @@
    "termino": "Ejemplos adversarios",
    "alias": "Adversarial examples o evasión de modelos",
    "slug": "ejemplos-adversarios",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "riesgos"
@@ -698,6 +737,7 @@
    "termino": "Elaboración de perfiles",
    "alias": "Profiling o perfilado",
    "slug": "elaboracion-de-perfiles",
+   "slugs_antiguos": [],
    "categorias": [
     "datos"
    ],
@@ -717,6 +757,7 @@
    "termino": "Embedding",
    "alias": "Incrustación",
    "slug": "embedding",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -733,6 +774,7 @@
    "termino": "Enfoque basado en el riesgo",
    "alias": "Risk-based approach",
    "slug": "enfoque-basado-en-el-riesgo",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -750,6 +792,7 @@
    "termino": "Envenenamiento de datos",
    "alias": "Data poisoning o envenenamiento de modelos",
    "slug": "envenenamiento-de-datos",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "riesgos"
@@ -767,6 +810,7 @@
    "termino": "Espacio controlado de pruebas para la IA",
    "alias": "Sandbox o entorno regulatorio de pruebas",
    "slug": "espacio-controlado-de-pruebas-para-la-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -784,6 +828,7 @@
    "termino": "Evaluación de impacto relativa a los derechos fundamentales",
    "alias": "EIDF o FRIA",
    "slug": "evaluacion-de-impacto-derechos-fundamentales",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -802,6 +847,7 @@
    "termino": "Evaluación de la conformidad",
    "alias": "Conformity assessment",
    "slug": "evaluacion-de-la-conformidad",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -823,6 +869,7 @@
    "termino": "Explicabilidad",
    "alias": "Interpretabilidad o explainability",
    "slug": "explicabilidad",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "gobernanza"
@@ -840,6 +887,7 @@
    "termino": "Fase de desarrollo",
    "alias": "Fase de despliegue o development phase",
    "slug": "fase-de-desarrollo",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "gobernanza"
@@ -859,6 +907,7 @@
    "termino": "Finalidad prevista",
    "alias": "",
    "slug": "finalidad-prevista",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -876,6 +925,7 @@
    "termino": "Gobernanza de datos",
    "alias": "Gobierno del dato o data governance",
    "slug": "gobernanza-de-datos",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "ria"
@@ -893,6 +943,7 @@
    "termino": "GPT",
    "alias": "Generative Pre-trained Transformer",
    "slug": "gpt",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -908,6 +959,7 @@
    "termino": "Human in the loop",
    "alias": "No exclusividad de la decisión algorítmica",
    "slug": "human-in-the-loop",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "gobernanza"
@@ -925,6 +977,7 @@
    "termino": "IA agéntica",
    "alias": "Agentic AI",
    "slug": "ia-agentica",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "datos"
@@ -942,6 +995,7 @@
    "termino": "IA generativa",
    "alias": "Inteligencia artificial generativa o GenAI",
    "slug": "ia-generativa",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "ria"
@@ -963,6 +1017,7 @@
    "termino": "Identificación biométrica",
    "alias": "Biometric identification",
    "slug": "identificacion-biometrica",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "biometria"
@@ -980,6 +1035,7 @@
    "termino": "Importador",
    "alias": "",
    "slug": "importador",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -998,6 +1054,7 @@
    "termino": "Incidente grave",
    "alias": "Serious incident",
    "slug": "incidente-grave",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1015,6 +1072,7 @@
    "termino": "Instrucciones de uso",
    "alias": "Instructions for use",
    "slug": "instrucciones-de-uso",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -1032,6 +1090,7 @@
    "termino": "Inteligencia artificial",
    "alias": "sistema de",
    "slug": "inteligencia-artificial",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1047,6 +1106,7 @@
    "termino": "Inteligencia artificial de código abierto",
    "alias": "",
    "slug": "inteligencia-artificial-de-codigo-abierto",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "tecnico"
@@ -1062,6 +1122,7 @@
    "termino": "Inteligencia artificial general",
    "alias": "AGI",
    "slug": "inteligencia-artificial-general",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "cultura"
@@ -1078,6 +1139,7 @@
    "termino": "Intervención humana significativa",
    "alias": "Meaningful human intervention",
    "slug": "intervencion-humana-significativa",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "gobernanza"
@@ -1097,6 +1159,7 @@
    "termino": "Jevons Paradox",
    "alias": "Paradoja de Jevons",
    "slug": "jevons-paradox",
+   "slugs_antiguos": [],
    "categorias": [
     "cultura"
    ],
@@ -1111,6 +1174,7 @@
    "termino": "Leyes de escalado",
    "alias": "",
    "slug": "leyes-de-escalado",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1126,6 +1190,7 @@
    "termino": "LLM o Large Language Model",
    "alias": "gran modelo de lenguaje",
    "slug": "llm-o-large-language-model",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1158,13 +1223,14 @@
    "termino": "Marca de agua",
    "alias": "Watermarking",
    "slug": "marca-de-agua",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "tecnico"
    ],
    "relacionados": [
     "contenido-sintetico",
-    "ultrasuplantacion",
+    "ultrafalsificacion",
     "codigo-de-buenas-practicas"
    ],
    "enlazado_desde": [],
@@ -1175,6 +1241,7 @@
    "termino": "Marcado CE",
    "alias": "CE marking",
    "slug": "marcado-ce",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -1194,6 +1261,7 @@
    "termino": "Medios razonablemente utilizables",
    "alias": "Means reasonably likely to be used",
    "slug": "medios-razonablemente-utilizables",
+   "slugs_antiguos": [],
    "categorias": [
     "datos"
    ],
@@ -1210,6 +1278,7 @@
    "termino": "Memorización",
    "alias": "Regurgitación o memorisation",
    "slug": "memorizacion",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "datos"
@@ -1230,6 +1299,7 @@
    "termino": "Mixture of Experts (MoE) o “Mezcla de expertos”",
    "alias": "",
    "slug": "mixture-of-experts",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1245,6 +1315,7 @@
    "termino": "Modelo de IA de uso general",
    "alias": "modelo fundacional o LLM",
    "slug": "modelo-de-ia-de-uso-general",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1267,6 +1338,7 @@
    "termino": "Modificación sustancial",
    "alias": "",
    "slug": "modificacion-sustancial",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1283,6 +1355,7 @@
    "termino": "Normas armonizadas",
    "alias": "Especificaciones comunes o harmonised standards",
    "slug": "normas-armonizadas",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -1300,6 +1373,7 @@
    "termino": "Oficina de IA",
    "alias": "AI Office",
    "slug": "oficina-de-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -1318,6 +1392,7 @@
    "termino": "Open Weights",
    "alias": "Pesos abiertos",
    "slug": "open-weights",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1336,6 +1411,7 @@
    "termino": "Operador",
    "alias": "",
    "slug": "operador",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -1354,6 +1430,7 @@
    "termino": "Organismo notificado",
    "alias": "Notified body",
    "slug": "organismo-notificado",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -1371,6 +1448,7 @@
    "termino": "P(doom)",
    "alias": "probabilidad de apocalipsis",
    "slug": "p-doom",
+   "slugs_antiguos": [],
    "categorias": [
     "cultura",
     "riesgos"
@@ -1386,6 +1464,7 @@
    "termino": "Parámetros",
    "alias": "",
    "slug": "parametros",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1404,6 +1483,7 @@
    "termino": "Persona afectada",
    "alias": "Affected person",
    "slug": "persona-afectada",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -1428,6 +1508,7 @@
    "termino": "Prácticas de IA prohibidas",
    "alias": "Prohibited AI practices",
    "slug": "practicas-prohibidas",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1450,6 +1531,7 @@
    "termino": "Precisión",
    "alias": "Accuracy",
    "slug": "precision",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "tecnico"
@@ -1467,6 +1549,7 @@
    "termino": "Predicción de delitos",
    "alias": "Policía predictiva o predictive policing",
    "slug": "policia-predictiva",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1484,6 +1567,7 @@
    "termino": "Prompt",
    "alias": "instrucción o indicación",
    "slug": "prompt",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1503,6 +1587,7 @@
    "termino": "Prompt injection",
    "alias": "inyección en datos de entrada",
    "slug": "prompt-injection",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "riesgos"
@@ -1520,6 +1605,7 @@
    "termino": "Proveedor",
    "alias": "",
    "slug": "proveedor",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -1546,6 +1632,7 @@
    "termino": "Proveedor posterior",
    "alias": "",
    "slug": "proveedor-posterior",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -1563,6 +1650,7 @@
    "termino": "Razonamiento",
    "alias": "",
    "slug": "razonamiento",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1579,6 +1667,7 @@
    "termino": "Recuperación de un sistema de IA",
    "alias": "",
    "slug": "recuperacion-de-un-sistema-de-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1594,6 +1683,7 @@
    "termino": "Reinforcement Learning",
    "alias": "Aprendizaje de refuerzo",
    "slug": "reinforcement-learning",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1609,6 +1699,7 @@
    "termino": "Responsable del despliegue",
    "alias": "",
    "slug": "responsable-del-despliegue",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "actores"
@@ -1633,6 +1724,7 @@
    "termino": "Responsable del tratamiento",
    "alias": "Encargado del tratamiento o controller",
    "slug": "responsable-del-tratamiento",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "actores"
@@ -1653,6 +1745,7 @@
    "termino": "Retirada de un sistema de IA",
    "alias": "",
    "slug": "retirada-de-un-sistema-de-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1668,6 +1761,7 @@
    "termino": "Retrieval-Augmented Generation",
    "alias": "RAG",
    "slug": "retrieval-augmented-generation",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "datos"
@@ -1686,6 +1780,7 @@
    "termino": "Reutilización de datos",
    "alias": "Difusor y reutilizador de datos",
    "slug": "reutilizacion-de-datos",
+   "slugs_antiguos": [],
    "categorias": [
     "datos"
    ],
@@ -1702,6 +1797,7 @@
    "termino": "RIA",
    "alias": "",
    "slug": "ria",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1724,6 +1820,7 @@
    "termino": "Riesgo",
    "alias": "",
    "slug": "riesgo",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1746,6 +1843,7 @@
    "termino": "Riesgo sistémico",
    "alias": "",
    "slug": "riesgo-sistemico",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1763,6 +1861,7 @@
    "termino": "Sesgo",
    "alias": "Bias",
    "slug": "sesgo",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico",
     "riesgos"
@@ -1785,6 +1884,7 @@
    "termino": "Sistema de gestión de la calidad",
    "alias": "Quality management system o QMS",
    "slug": "sistema-de-gestion-de-la-calidad",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -1802,6 +1902,7 @@
    "termino": "Sistema de gestión de riesgos",
    "alias": "Risk management system",
    "slug": "sistema-de-gestion-de-riesgos",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -1821,6 +1922,7 @@
    "termino": "Sistema de IA",
    "alias": "",
    "slug": "sistema-de-ia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1843,6 +1945,7 @@
    "termino": "Sistema de IA de alto riesgo",
    "alias": "High-risk AI system",
    "slug": "sistema-de-ia-de-alto-riesgo",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1874,6 +1977,7 @@
    "termino": "Sistema de IA de uso general",
    "alias": "",
    "slug": "sistema-de-ia-de-uso-general",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -1889,6 +1993,7 @@
    "termino": "Sistemas de reconocimiento de emociones",
    "alias": "Emotion recognition systems",
    "slug": "sistemas-de-reconocimiento-de-emociones",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "biometria"
@@ -1906,6 +2011,7 @@
    "termino": "Sobreaprendizaje",
    "alias": "Overfitting o sobreajuste",
    "slug": "sobreaprendizaje",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -1922,6 +2028,7 @@
    "termino": "Social scoring",
    "alias": "puntuación ciudadana",
    "slug": "social-scoring",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1939,6 +2046,7 @@
    "termino": "Solidez",
    "alias": "Robustez o robustness",
    "slug": "solidez",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "tecnico"
@@ -1956,6 +2064,7 @@
    "termino": "Supervisión humana",
    "alias": "Vigilancia humana o human oversight",
    "slug": "supervision-humana",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -1977,6 +2086,7 @@
    "termino": "Técnicas subliminales",
    "alias": "IA manipuladora, engañosa o que explota vulnerabilidades",
    "slug": "tecnicas-subliminales",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "riesgos"
@@ -1994,6 +2104,7 @@
    "termino": "Tecnologías de mejora de la privacidad",
    "alias": "PET o privacy enhancing technologies",
    "slug": "tecnologias-de-mejora-de-la-privacidad",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "tecnico"
@@ -2013,6 +2124,7 @@
    "termino": "Test-time Compute",
    "alias": "Cómputo en tiempo de inferencia",
    "slug": "test-time-compute",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -2028,6 +2140,7 @@
    "termino": "Token",
    "alias": "",
    "slug": "token",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -2044,6 +2157,7 @@
    "termino": "Transformer",
    "alias": "Deep Learning Architecture",
    "slug": "transformer",
+   "slugs_antiguos": [],
    "categorias": [
     "tecnico"
    ],
@@ -2059,6 +2173,7 @@
    "termino": "Transparencia",
    "alias": "Transparency",
    "slug": "transparencia",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -2075,7 +2190,10 @@
   {
    "termino": "Ultrafalsificación",
    "alias": "Ultrasuplantación o deepfake",
-   "slug": "ultrasuplantacion",
+   "slug": "ultrafalsificacion",
+   "slugs_antiguos": [
+    "ultrasuplantacion"
+   ],
    "categorias": [
     "ria",
     "riesgos"
@@ -2093,6 +2211,7 @@
    "termino": "Uso indebido razonablemente previsible",
    "alias": "",
    "slug": "uso-indebido-razonablemente-previsible",
+   "slugs_antiguos": [],
    "categorias": [
     "ria"
    ],
@@ -2107,6 +2226,7 @@
    "termino": "Vibe Coding",
    "alias": "",
    "slug": "vibe-coding",
+   "slugs_antiguos": [],
    "categorias": [
     "cultura",
     "tecnico"
@@ -2125,6 +2245,7 @@
    "termino": "Vigilancia poscomercialización",
    "alias": "Post-market monitoring",
    "slug": "vigilancia-poscomercializacion",
+   "slugs_antiguos": [],
    "categorias": [
     "ria",
     "gobernanza"
@@ -2142,6 +2263,7 @@
    "termino": "Web scraping",
    "alias": "Rastreo y extracción web",
    "slug": "web-scraping",
+   "slugs_antiguos": [],
    "categorias": [
     "datos",
     "tecnico"

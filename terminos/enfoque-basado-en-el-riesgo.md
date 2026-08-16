@@ -3,7 +3,7 @@ termino: Enfoque basado en el riesgo
 alias: Risk-based approach
 slug: enfoque-basado-en-el-riesgo
 categorias: [ria, riesgos]
-relacionados: [riesgo, sistema-de-ia-de-alto-riesgo, ria]
+relacionados: [riesgo, sistema-de-ia-de-alto-riesgo, practicas-prohibidas]
 actualizado: 2026-08-16
 estado: publicado
 ---

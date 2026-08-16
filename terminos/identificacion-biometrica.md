@@ -3,7 +3,7 @@ termino: Identificación biométrica
 alias: Biometric identification
 slug: identificacion-biometrica
 categorias: [ria, biometria]
-relacionados: [categorizacion-biometrica, sistema-de-ia-de-alto-riesgo, persona-afectada]
+relacionados: [datos-biometricos, categorizacion-biometrica, practicas-prohibidas]
 actualizado: 2026-08-16
 estado: publicado
 ---

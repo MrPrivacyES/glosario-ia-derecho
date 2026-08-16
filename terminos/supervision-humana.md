@@ -3,7 +3,7 @@ termino: Supervisión humana
 alias: Vigilancia humana o human oversight
 slug: supervision-humana
 categorias: [ria, gobernanza]
-relacionados: [sistema-de-ia-de-alto-riesgo, responsable-del-despliegue, persona-afectada, explicabilidad]
+relacionados: [sistema-de-ia-de-alto-riesgo, responsable-del-despliegue, explicabilidad, intervencion-humana-significativa]
 actualizado: 2026-08-16
 estado: publicado
 ---

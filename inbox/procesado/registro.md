@@ -115,3 +115,45 @@ RGPD aplicadas a la IA, pero no acuñan vocabulario propio: son procedimiento, n
 La 11 (modelos de código abierto) queda cubierta por `open-weights` e
 `inteligencia-artificial-de-codigo-abierto`. Las síntesis de consultas públicas de 2025 son
 recopilaciones de aportaciones de terceros, sin doctrina propia.
+
+## 2026-08-16 — AEPD (12 documentos) y AP Países Bajos (16 documentos)
+
+Fuentes: `03_AEPD/` y `08_AP_PaisesBajos/`. Procesadas juntas porque se complementan: la AEPD
+aporta las tecnologías de mejora de la privacidad en castellano; la AP, la delimitación
+práctica de las prácticas prohibidas del artículo 5 del RIA a través de sus llamamientos a
+aportaciones (Department for the Coordination of Algorithmic Oversight).
+
+| Término | Estado | Fuente |
+|---|---|---|
+| `practicas-prohibidas` | nuevo (borrador) | AP, llamamientos 1 a 4 · art. 5 RIA |
+| `tecnicas-subliminales` | nuevo (borrador) | AP DCA-2024-01 · art. 5.1.a y b |
+| `policia-predictiva` | nuevo (borrador) | AP, prohibición D · art. 5.1.d |
+| `contenido-intimo-sintetico` | nuevo (borrador) | AEPD, imágenes de terceros · art. 5.1.b bis (Ómnibus) |
+| `intervencion-humana-significativa` | nuevo (borrador) | AP, herramientas · art. 22 RGPD |
+| `datos-sinteticos` | nuevo (borrador) | AEPD, guía PDPC Singapur |
+| `aprendizaje-federado` | nuevo (borrador) | AEPD, TechDispatch |
+| `tecnologias-de-mejora-de-la-privacidad` | nuevo (borrador) | AEPD, ambas guías |
+| `datos-biometricos` | nuevo (borrador) | arts. 3.34 y 3.36 RIA |
+| `social-scoring` | actualizado | AP DCA-2024-03 · art. 5.1.c |
+| `sistemas-de-reconocimiento-de-emociones` | actualizado | AP DCA-2024-02 · art. 3.39 |
+
+Hallazgo normativo: el Ómnibus digital de 2026 insertó dos prohibiciones nuevas en el art. 5.1
+del RIA —letra b bis, contenido íntimo sintético sin consentimiento, y letra b ter, material
+de abuso sexual infantil—, aplicables desde el 2 de diciembre de 2026, con un apartado 1 bis
+que acota cuándo alcanzan al desarrollador del sistema.
+
+### Descartado de estas dos series
+
+De la AEPD: la guía de adecuación al RGPD (2020) y la de requisitos de auditorías (2021)
+son metodología de cumplimiento, valiosas pero sin vocabulario propio que no esté ya
+recogido; la política interna de IA generativa y su anexo son documentos de organización
+interna de la propia Agencia; el decálogo «Cuidado con lo que le confIAs» y la infografía son
+divulgación ciudadana; «10 malentendidos sobre machine learning» aclara conceptos ya
+cubiertos por `aprendizaje-automatico` e `inteligencia-artificial`.
+
+De la AP: los cuatro informes periódicos de riesgos algorítmicos (ARR y RAN, unas 120.000
+palabras) son panorámicas de mercado, no fuentes terminológicas; las dos guías de
+alfabetización quedan cubiertas por `alfabetizacion-en-materia-de-ia`; la propuesta de espacio
+controlado de pruebas neerlandés y el dictamen sobre la estructura de supervisión son
+posiciones institucionales nacionales; el documento sobre normas de producto está en
+neerlandés y solapa con `normas-armonizadas`.

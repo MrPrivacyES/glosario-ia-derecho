@@ -3,7 +3,7 @@ termino: Aprendizaje automático
 alias: machine learning o ML
 slug: aprendizaje-automatico
 categorias: [tecnico]
-relacionados: [sistema-de-ia, datos-de-entrenamiento, aprendizaje-por-transferencia]
+relacionados: [sistema-de-ia, datos-de-entrenamiento, aprendizaje-por-transferencia, aprendizaje-federado]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -3,7 +3,7 @@ termino: Medios razonablemente utilizables
 alias: Means reasonably likely to be used
 slug: medios-razonablemente-utilizables
 categorias: [datos]
-relacionados: [anonimato-de-los-modelos, ataques-de-reidentificacion, memorizacion]
+relacionados: [anonimato-de-los-modelos, ataques-de-reidentificacion, tecnologias-de-mejora-de-la-privacidad]
 actualizado: 2026-08-16
 estado: publicado
 ---

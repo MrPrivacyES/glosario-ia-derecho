@@ -3,7 +3,7 @@ termino: Código de buenas prácticas
 alias: Code of Practice
 slug: codigo-de-buenas-practicas
 categorias: [ria, gobernanza]
-relacionados: [oficina-de-ia, contenido-sintetico, marca-de-agua, modelo-de-ia-de-uso-general]
+relacionados: [oficina-de-ia, contenido-sintetico, marca-de-agua, normas-armonizadas]
 actualizado: 2026-08-16
 estado: publicado
 ---

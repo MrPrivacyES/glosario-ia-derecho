@@ -3,7 +3,7 @@ termino: Modificación sustancial
 alias: 
 slug: modificacion-sustancial
 categorias: [ria]
-relacionados: [proveedor-posterior, finalidad-prevista]
+relacionados: [proveedor-posterior, finalidad-prevista, clausula-de-anterioridad]
 actualizado: 2026-08-16
 estado: publicado
 ---

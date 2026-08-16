@@ -1,0 +1,13 @@
+---
+termino: Sesgo
+alias: Bias
+slug: sesgo
+categorias: [tecnico, riesgos]
+relacionados: [datos-de-entrenamiento, web-scraping, riesgo]
+actualizado: 2026-08-16
+estado: borrador
+---
+
+Desviación sistemática en el comportamiento de un sistema de IA que hace que sus resultados perjudiquen o favorezcan de forma injustificada a determinadas personas o grupos. Puede venir de los datos —conjuntos poco representativos, o que reflejan discriminaciones históricas—, del diseño del modelo o del propio uso, cuando quien lo emplea confía acríticamente en lo que la máquina propone.
+
+El [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20240712) lo trata como un problema de gobernanza de datos: su artículo 10.2 obliga, en los sistemas de alto riesgo, a examinar los posibles sesgos que puedan afectar a la salud y la seguridad, perjudicar derechos fundamentales o dar lugar a discriminación prohibida por el Derecho de la Unión (letra f), y a adoptar medidas para detectarlos, prevenirlos y mitigarlos (letra g). Detectar un sesgo suele exigir tratar precisamente los datos que revelan el origen racial, la salud o la orientación sexual, y ahí surge la paradoja: para comprobar que no discriminas necesitas categorías especiales del artículo 9 del RGPD. El artículo 10.5 lo permitía de forma excepcional y estrictamente necesaria; el Ómnibus digital de 2026 introdujo un nuevo artículo 4 bis que extiende esa posibilidad a proveedores y responsables del despliegue de todos los sistemas y modelos. El [CEPD y el SEPD](https://www.edpb.europa.eu/documents/legislative-opinion/edpb-edps-joint-opinion-12026-on-the-proposal-for-a-regulation-as_en) advirtieron del riesgo de abuso y pidieron mantener el listón de la estricta necesidad.

@@ -3,7 +3,7 @@ termino: Componente de seguridad
 alias: 
 slug: componente-de-seguridad
 categorias: [ria]
-relacionados: [sistema-de-ia, riesgo]
+relacionados: [sistema-de-ia, riesgo, sistema-de-ia-de-alto-riesgo]
 actualizado: 2026-08-16
 estado: publicado
 ---

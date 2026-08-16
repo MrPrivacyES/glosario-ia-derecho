@@ -3,7 +3,7 @@ termino: Retrieval-Augmented Generation
 alias: RAG
 slug: retrieval-augmented-generation
 categorias: [tecnico]
-relacionados: [embedding, llm-o-large-language-model]
+relacionados: [embedding, llm-o-large-language-model, alucinacion]
 actualizado: 2026-08-16
 estado: publicado
 ---

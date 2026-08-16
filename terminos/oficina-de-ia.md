@@ -3,7 +3,7 @@ termino: Oficina de IA
 alias: AI Office
 slug: oficina-de-ia
 categorias: [ria, gobernanza]
-relacionados: [ria, codigo-de-buenas-practicas, modelo-de-ia-de-uso-general]
+relacionados: [ria, codigo-de-buenas-practicas, consejo-de-ia, autoridad-de-vigilancia-del-mercado]
 actualizado: 2026-08-16
 estado: publicado
 ---

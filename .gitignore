@@ -1,2 +1,10 @@
 .DS_Store
 __pycache__/
+
+# Documentos fuente volcados en el inbox: se procesan en local, no se
+# republican en el repo público del glosario. El README y el registro sí.
+inbox/*
+!inbox/README.md
+!inbox/procesado/
+inbox/procesado/*
+!inbox/procesado/registro.md

@@ -3,7 +3,7 @@ termino: Riesgo
 alias: 
 slug: riesgo
 categorias: [ria, riesgos]
-relacionados: [riesgo-sistemico, ria]
+relacionados: [riesgo-sistemico, ria, sistema-de-ia-de-alto-riesgo, enfoque-basado-en-el-riesgo]
 actualizado: 2026-08-16
 estado: publicado
 ---

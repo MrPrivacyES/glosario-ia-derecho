@@ -5,7 +5,7 @@ slug: conclusiones-preliminares
 categorias: [ria, gobernanza]
 relacionados: [regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia, evaluacion-de-modelos-de-ia-de-uso-general, oficina-de-ia, modelo-de-ia-de-uso-general]
 actualizado: 2026-08-17
-estado: borrador
+estado: publicado
 ---
 
 Acto por el que la Comisión comunica a un proveedor de un modelo de IA de uso general los cargos que le imputa antes de multarlo, dándole la oportunidad de ser oído ([artículo 101.2 del Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20260727)). Es el equivalente funcional del pliego de cargos del Derecho de la competencia: marca el momento en que el expediente deja de ser una investigación para convertirse en un procedimiento contradictorio, y abre el acceso al expediente.

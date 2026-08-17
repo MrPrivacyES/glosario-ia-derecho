@@ -2,7 +2,7 @@
  "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
  "url": "https://glosario.thelegaletters.com",
  "licencia": "CC BY 4.0",
- "generado": "2026-08-16",
+ "generado": "2026-08-17",
  "terminos": [
   {
    "termino": "AI Gyms",
@@ -417,6 +417,25 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un componente de un producto o un sistema de IA que cumple una función de seguridad para dicho producto o sistema de IA, o cuyo fallo o defecto de funcionamiento pone en peligro la salud y la seguridad de las personas o los bienes."
+  },
+  {
+   "termino": "Conclusiones preliminares",
+   "alias": "Preliminary findings",
+   "slug": "conclusiones-preliminares",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia",
+    "evaluacion-de-modelos-de-ia-de-uso-general",
+    "oficina-de-ia",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-17",
+   "extracto": "Acto por el que la Comisión comunica a un proveedor de un modelo de IA de uso general los cargos que le imputa antes de multarlo, dándole la oportunidad de ser oído (artículo 101.2 del Reglamento (UE) 2024/1689)."
   },
   {
    "termino": "Consejo de IA",
@@ -919,6 +938,25 @@
    "extracto": "Según el artículo 3.20 del Reglamento (UE) 2024/1689, el proceso por el que se demuestra si se han cumplido los requisitos del capítulo III, sección 2, en relación con un sistema de IA de alto riesgo."
   },
   {
+   "termino": "Evaluación de modelos de IA de uso general",
+   "alias": "Model evaluation",
+   "slug": "evaluacion-de-modelos-de-ia-de-uso-general",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "modelo-de-ia-de-uso-general",
+    "oficina-de-ia",
+    "riesgo-sistemico",
+    "conclusiones-preliminares"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-17",
+   "extracto": "Facultad de la Oficina de IA, previa consulta al Consejo de IA, de examinar directamente un modelo de IA de uso general para comprobar si su proveedor cumple el Reglamento cuando la información recabada no basta, o para investigar riesgos sistémicos a escala de la Unión, en particular a raíz de una alerta…"
+  },
+  {
    "termino": "Explicabilidad",
    "alias": "Interpretabilidad o explainability",
    "slug": "explicabilidad",
@@ -1344,7 +1382,7 @@
     "tecnologias-de-mejora-de-la-privacidad"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-08-17",
    "extracto": "Criterio con el que el Derecho de la Unión decide si un dato está verdaderamente anonimizado."
   },
   {
@@ -1401,6 +1439,8 @@
    "enlazado_desde": [
     "ai-gyms",
     "capacidades-de-gran-impacto",
+    "conclusiones-preliminares",
+    "evaluacion-de-modelos-de-ia-de-uso-general",
     "ia-generativa",
     "llm-o-large-language-model"
    ],
@@ -1460,7 +1500,9 @@
     "autoridad-de-vigilancia-del-mercado"
    ],
    "enlazado_desde": [
+    "conclusiones-preliminares",
     "espacio-de-pruebas-a-escala-de-la-union",
+    "evaluacion-de-modelos-de-ia-de-uso-general",
     "plataforma-unica-de-informacion",
     "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia"
    ],
@@ -1852,7 +1894,8 @@
     "oficina-de-ia",
     "autoridad-de-vigilancia-del-mercado",
     "operador",
-    "sistema-de-ia-de-alto-riesgo"
+    "sistema-de-ia-de-alto-riesgo",
+    "conclusiones-preliminares"
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
@@ -2032,7 +2075,8 @@
    "relacionados": [
     "riesgo",
     "capacidades-de-gran-impacto",
-    "modelo-de-ia-de-uso-general"
+    "modelo-de-ia-de-uso-general",
+    "evaluacion-de-modelos-de-ia-de-uso-general"
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
@@ -2463,7 +2507,7 @@
     "memorizacion"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-08-17",
    "extracto": "Recogida y extracción automatizada de información de fuentes accesibles al público en internet, normalmente para construir conjuntos de datos de entrenamiento."
   }
  ]

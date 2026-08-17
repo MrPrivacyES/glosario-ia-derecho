@@ -3,7 +3,7 @@ termino: Riesgo sistémico
 alias: 
 slug: riesgo-sistemico
 categorias: [ria, riesgos]
-relacionados: [riesgo, capacidades-de-gran-impacto, modelo-de-ia-de-uso-general]
+relacionados: [riesgo, capacidades-de-gran-impacto, modelo-de-ia-de-uso-general, evaluacion-de-modelos-de-ia-de-uso-general]
 actualizado: 2026-08-16
 estado: publicado
 ---

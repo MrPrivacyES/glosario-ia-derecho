@@ -5,7 +5,7 @@ slug: evaluacion-de-modelos-de-ia-de-uso-general
 categorias: [ria, gobernanza]
 relacionados: [modelo-de-ia-de-uso-general, oficina-de-ia, riesgo-sistemico, conclusiones-preliminares]
 actualizado: 2026-08-17
-estado: borrador
+estado: publicado
 ---
 
 Facultad de la Oficina de IA, previa consulta al Consejo de IA, de examinar directamente un modelo de IA de uso general para comprobar si su proveedor cumple el Reglamento cuando la información recabada no basta, o para investigar riesgos sistémicos a escala de la Unión, en particular a raíz de una alerta cualificada del grupo de expertos científicos ([artículo 92 del Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20260727)). Antes de exigir acceso, la Oficina puede entablar un «diálogo estructurado» con el proveedor sobre sus ensayos internos y sus salvaguardias frente al riesgo sistémico.

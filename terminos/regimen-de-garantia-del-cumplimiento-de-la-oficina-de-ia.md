@@ -3,7 +3,7 @@ termino: Régimen de garantía del cumplimiento de la Oficina de IA
 alias: AI Office enforcement
 slug: regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia
 categorias: [ria, gobernanza]
-relacionados: [oficina-de-ia, autoridad-de-vigilancia-del-mercado, operador, sistema-de-ia-de-alto-riesgo]
+relacionados: [oficina-de-ia, autoridad-de-vigilancia-del-mercado, operador, sistema-de-ia-de-alto-riesgo, conclusiones-preliminares]
 actualizado: 2026-08-16
 estado: publicado
 ---

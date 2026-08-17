@@ -46,6 +46,7 @@ Reglas del cuerpo:
 | `biometria` | biometría y reconocimiento |
 | `riesgos` | riesgos, seguridad, prácticas prohibidas |
 | `gobernanza` | cumplimiento, organización, supervisión |
+| `justicia` | uso de la IA en la Administración de Justicia y la actividad jurisdiccional |
 | `cultura` | jerga y cultura del sector IA |
 
 ## Reglas editoriales innegociables

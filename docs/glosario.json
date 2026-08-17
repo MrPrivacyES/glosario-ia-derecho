@@ -269,6 +269,25 @@
    "extracto": "Autoridades u organismos públicos nacionales encargados de supervisar o hacer respetar las obligaciones del Derecho de la Unión en materia de protección de los derechos fundamentales, incluido el derecho a la no discriminación."
   },
   {
+   "termino": "Calidad de los datos",
+   "alias": "Data quality",
+   "slug": "calidad-de-los-datos",
+   "slugs_antiguos": [],
+   "categorias": [
+    "datos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "precision",
+    "gobernanza-de-datos",
+    "datos-de-entrenamiento",
+    "sesgo"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-17",
+   "extracto": "Grado en que un conjunto de datos reúne las propiedades necesarias para que el tratamiento alcance su finalidad."
+  },
+  {
    "termino": "Capacidades de gran impacto",
    "alias": "",
    "slug": "capacidades-de-gran-impacto",
@@ -610,6 +629,7 @@
    "enlazado_desde": [
     "ajuste-fino",
     "anotacion-de-datos",
+    "calidad-de-los-datos",
     "datos-de-entrada",
     "datos-sinteticos",
     "envenenamiento-de-datos",
@@ -655,6 +675,25 @@
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en los datos usados para proporcionar una evaluación del sistema de IA entrenado y adaptar sus parámetros no entrenables y su proceso de aprendizaje para, entre otras cosas, evitar el subajuste o el"
   },
   {
+   "termino": "Datos judiciales",
+   "alias": "Judicial data",
+   "slug": "datos-judiciales",
+   "slugs_antiguos": [],
+   "categorias": [
+    "justicia",
+    "datos"
+   ],
+   "relacionados": [
+    "ia-en-la-actividad-jurisdiccional",
+    "fuentes-abiertas",
+    "decisiones-automatizadas",
+    "ia-generativa"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-17",
+   "extracto": "Toda información incorporada a los procesos y actuaciones a la que los jueces y magistrados tengan acceso en el ejercicio de la actividad jurisdiccional; así los define el ordinal tercero de la Instrucción 2/2026 del Consejo General del Poder Judicial, aprobada el 28 de enero de 2026 y aplicable desde su…"
+  },
+  {
    "termino": "Datos sintéticos",
    "alias": "Synthetic data",
    "slug": "datos-sinteticos",
@@ -685,9 +724,12 @@
     "elaboracion-de-perfiles",
     "intervencion-humana-significativa",
     "explicabilidad",
-    "persona-afectada"
+    "persona-afectada",
+    "ia-en-la-actividad-jurisdiccional"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "datos-judiciales"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "El artículo 22 del Reglamento (UE) 2016/679 reconoce a todo interesado el derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar."
   },
@@ -1013,6 +1055,25 @@
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en el uso para el que un proveedor concibe un sistema de IA, incluidos el contexto y las condiciones de uso concretos, según la información facilitada por el proveedor en las instrucciones de uso, los materiales y las declaraciones de…"
   },
   {
+   "termino": "Fuentes abiertas",
+   "alias": "Open sources",
+   "slug": "fuentes-abiertas",
+   "slugs_antiguos": [],
+   "categorias": [
+    "justicia",
+    "datos"
+   ],
+   "relacionados": [
+    "ia-en-la-actividad-jurisdiccional",
+    "datos-judiciales",
+    "web-scraping",
+    "prompt"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-17",
+   "extracto": "Toda información accesible al público en general, sin restricciones legales o técnicas, y que puede ser consultada de manera legítima por cualquier persona; la definición es del ordinal tercero de la Instrucción 2/2026 del Consejo General del Poder Judicial, sobre el uso de sistemas de IA en la actividad…"
+  },
+  {
    "termino": "Gobernanza de datos",
    "alias": "Gobierno del dato o data governance",
    "slug": "gobernanza-de-datos",
@@ -1024,7 +1085,8 @@
    "relacionados": [
     "datos-de-entrenamiento",
     "sesgo",
-    "anotacion-de-datos"
+    "anotacion-de-datos",
+    "calidad-de-los-datos"
    ],
    "enlazado_desde": [
     "tratamiento-de-categorias-especiales-para-corregir-sesgos"
@@ -1085,6 +1147,25 @@
    "extracto": "Sistemas de IA que no se limitan a responder preguntas, sino que interactúan de forma autónoma con su entorno digital —navegan, consultan fuentes, invocan herramientas y encadenan pasos— para alcanzar un objetivo encargado por el usuario."
   },
   {
+   "termino": "IA en la actividad jurisdiccional",
+   "alias": "Uso judicial de la inteligencia artificial",
+   "slug": "ia-en-la-actividad-jurisdiccional",
+   "slugs_antiguos": [],
+   "categorias": [
+    "justicia",
+    "ria"
+   ],
+   "relacionados": [
+    "datos-judiciales",
+    "fuentes-abiertas",
+    "decisiones-automatizadas",
+    "sistema-de-ia-de-alto-riesgo"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-17",
+   "extracto": "Utilización por jueces y magistrados de sistemas de IA, incluidas las herramientas generativas, en el ejercicio de las funciones jurisdiccionales."
+  },
+  {
    "termino": "IA generativa",
    "alias": "Inteligencia artificial generativa o GenAI",
    "slug": "ia-generativa",
@@ -1101,6 +1182,7 @@
     "vibe-coding"
    ],
    "enlazado_desde": [
+    "datos-judiciales",
     "retrieval-augmented-generation"
    ],
    "actualizado": "2026-08-16",
@@ -1701,10 +1783,11 @@
    "relacionados": [
     "solidez",
     "ciberseguridad",
-    "sobreaprendizaje"
+    "sobreaprendizaje",
+    "calidad-de-los-datos"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-08-17",
    "extracto": "Grado en que los resultados de un sistema de IA se corresponden con los correctos."
   },
   {
@@ -1739,6 +1822,7 @@
     "datos-de-entrada"
    ],
    "enlazado_desde": [
+    "fuentes-abiertas",
     "ia-generativa",
     "vibe-coding"
    ],
@@ -2098,6 +2182,7 @@
    ],
    "enlazado_desde": [
     "anotacion-de-datos",
+    "calidad-de-los-datos",
     "elaboracion-de-perfiles",
     "policia-predictiva",
     "social-scoring",
@@ -2192,6 +2277,7 @@
     "conservacion-de-registros",
     "enfoque-basado-en-el-riesgo",
     "evaluacion-de-impacto-derechos-fundamentales",
+    "ia-en-la-actividad-jurisdiccional",
     "marcado-ce",
     "normas-armonizadas",
     "organismo-notificado",
@@ -2506,7 +2592,9 @@
     "reutilizacion-de-datos",
     "memorizacion"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "fuentes-abiertas"
+   ],
    "actualizado": "2026-08-17",
    "extracto": "Recogida y extracción automatizada de información de fuentes accesibles al público en internet, normalmente para construir conjuntos de datos de entrenamiento."
   }

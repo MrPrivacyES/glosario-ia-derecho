@@ -3,7 +3,7 @@ termino: Decisiones automatizadas
 alias: Automated decision-making o ADM
 slug: decisiones-automatizadas
 categorias: [datos, gobernanza]
-relacionados: [elaboracion-de-perfiles, intervencion-humana-significativa, explicabilidad, persona-afectada]
+relacionados: [elaboracion-de-perfiles, intervencion-humana-significativa, explicabilidad, persona-afectada, ia-en-la-actividad-jurisdiccional]
 actualizado: 2026-08-16
 estado: publicado
 ---

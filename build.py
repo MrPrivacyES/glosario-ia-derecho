@@ -18,6 +18,7 @@ CATEGORIAS = {
     "biometria": "Biometría",
     "riesgos": "Riesgos y seguridad",
     "gobernanza": "Gobernanza",
+    "justicia": "Justicia",
     "cultura": "Cultura IA",
 }
 

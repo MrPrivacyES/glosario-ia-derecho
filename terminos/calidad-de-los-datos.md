@@ -5,7 +5,7 @@ slug: calidad-de-los-datos
 categorias: [datos, gobernanza]
 relacionados: [precision, gobernanza-de-datos, datos-de-entrenamiento, sesgo]
 actualizado: 2026-08-17
-estado: borrador
+estado: publicado
 ---
 
 Grado en que un conjunto de datos reúne las propiedades necesarias para que el tratamiento alcance su finalidad. La [nota técnica de la AEPD de 21 de julio de 2026](https://www.aepd.es/guias/calidad-datos-inteligencia-artificial.pdf) advierte de que no equivale al principio de exactitud del RGPD: la calidad es un concepto más amplio, que alcanza también a los datos no personales y responde a requisitos ajenos a la protección de datos.

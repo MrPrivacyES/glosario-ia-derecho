@@ -3,7 +3,7 @@ termino: Precisión
 alias: Accuracy
 slug: precision
 categorias: [ria, tecnico]
-relacionados: [solidez, ciberseguridad, sobreaprendizaje]
+relacionados: [solidez, ciberseguridad, sobreaprendizaje, calidad-de-los-datos]
 actualizado: 2026-08-17
 estado: publicado
 ---

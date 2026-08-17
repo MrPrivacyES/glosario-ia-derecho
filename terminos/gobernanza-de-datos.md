@@ -3,7 +3,7 @@ termino: Gobernanza de datos
 alias: Gobierno del dato o data governance
 slug: gobernanza-de-datos
 categorias: [datos, ria]
-relacionados: [datos-de-entrenamiento, sesgo, anotacion-de-datos]
+relacionados: [datos-de-entrenamiento, sesgo, anotacion-de-datos, calidad-de-los-datos]
 actualizado: 2026-08-16
 estado: publicado
 ---

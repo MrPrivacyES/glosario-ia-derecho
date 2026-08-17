@@ -4,11 +4,13 @@ alias: Rastreo y extracción web
 slug: web-scraping
 categorias: [datos, tecnico]
 relacionados: [datos-de-entrenamiento, sesgo, reutilizacion-de-datos, memorizacion]
-actualizado: 2026-08-16
+actualizado: 2026-08-17
 estado: publicado
 ---
 
 Recogida y extracción automatizada de información de fuentes accesibles al público en internet, normalmente para construir conjuntos de datos de entrenamiento. Es la forma en que se ha reunido buena parte del material con el que se entrenan los grandes modelos, y el [informe del grupo de trabajo del CEPD sobre ChatGPT](https://www.edpb.europa.eu/system/files/2024-05/edpb_20240523_report_chatgpt_taskforce_en.pdf) usa la expresión para englobar tanto el *scraping* como el *crawling*.
+
+El 7 de julio de 2026 el CEPD adoptó las [Directrices 03/2026 sobre el rastreo web en el contexto de la IA generativa](https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_2020603_webscraping_v1_en_0.pdf), primer marco específico de la materia, aún en borrador y sometido a consulta pública hasta el 30 de octubre de 2026. Cubren tanto a quien extrae los datos por sí mismo o por encargo como a quien reutiliza un conjunto ya extraído por un intermediario de datos, y distinguen entre rastreo selectivo y no selectivo según lo restrictivos que sean los criterios de recogida —no según la herramienta empleada—. Dos apuntes prácticos: excluir las fuentes que se oponen al rastreo mediante robots.txt o CAPTCHA se encuadra en la minimización de datos, y entre las salvaguardas propuestas figura un derecho de oposición previo y discrecional, con listas de exclusión que permitan oponerse antes incluso de que la recogida se produzca.
 
 Jurídicamente es terreno resbaladizo. Que un dato esté publicado no lo hace libre: sigue siendo dato personal, y la base jurídica que se invoca —el interés legítimo del artículo 6.1.f del RGPD— exige el triple test de interés legítimo, necesidad y ponderación, tomando en cuenta las expectativas razonables del interesado. Con categorías especiales el listón sube: el CEPD recuerda que la excepción del artículo 9.2.e exige que el interesado haya hecho manifiestamente públicos sus datos mediante un acto afirmativo claro, y la mera accesibilidad no equivale a eso. Como examinar caso por caso es inviable a esa escala, el peso recae en las salvaguardas: criterios de recogida precisos, exclusión de fuentes sensibles, filtrado y borrado o anonimización antes de la fase de entrenamiento. La carga de probar que funcionan es del responsable.
 

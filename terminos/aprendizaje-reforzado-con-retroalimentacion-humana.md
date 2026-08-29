@@ -3,7 +3,7 @@ termino: Aprendizaje reforzado con retroalimentación humana
 alias: 
 slug: aprendizaje-reforzado-con-retroalimentacion-humana
 categorias: [tecnico, datos]
-relacionados: [reinforcement-learning, llm-o-large-language-model]
+relacionados: [reinforcement-learning, llm-o-large-language-model, adulacion-algoritmica]
 actualizado: 2026-08-16
 estado: publicado
 ---

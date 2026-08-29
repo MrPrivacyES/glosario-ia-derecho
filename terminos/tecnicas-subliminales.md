@@ -3,7 +3,7 @@ termino: Técnicas subliminales
 alias: IA manipuladora, engañosa o que explota vulnerabilidades
 slug: tecnicas-subliminales
 categorias: [ria, riesgos]
-relacionados: [practicas-prohibidas, persona-afectada, riesgo]
+relacionados: [practicas-prohibidas, persona-afectada, riesgo, adulacion-algoritmica]
 actualizado: 2026-08-16
 estado: publicado
 ---

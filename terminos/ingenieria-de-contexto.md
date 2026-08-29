@@ -5,7 +5,7 @@ slug: ingenieria-de-contexto
 categorias: [tecnico, datos]
 relacionados: [prompt, context-window, retrieval-augmented-generation, ia-agentica]
 actualizado: 2026-08-26
-estado: borrador
+estado: publicado
 ---
 
 Conjunto de estrategias para seleccionar y mantener la información —los *tokens*— que un modelo tiene delante en cada paso de la inferencia, [según la definición de Anthropic de 29 de septiembre de 2025](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) que popularizó el término. La diferencia con el *prompt engineering* es de nivel: este se ocupa de cómo redactar la instrucción; aquella, de qué entra en la ventana de contexto en su conjunto —instrucciones de sistema, herramientas y sus resultados, ejemplos, historial, notas de memoria y datos recuperados de fuentes externas— y de qué se descarta cuando el espacio se agota, mediante técnicas como la compactación por resumen.

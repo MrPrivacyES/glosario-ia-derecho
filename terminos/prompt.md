@@ -3,7 +3,7 @@ termino: Prompt
 alias: instrucción o indicación
 slug: prompt
 categorias: [tecnico]
-relacionados: [prompt-injection, llm-o-large-language-model, datos-de-entrada]
+relacionados: [prompt-injection, llm-o-large-language-model, datos-de-entrada, ingenieria-de-contexto]
 actualizado: 2026-08-16
 estado: publicado
 ---

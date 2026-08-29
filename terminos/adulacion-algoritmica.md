@@ -5,7 +5,7 @@ slug: adulacion-algoritmica
 categorias: [tecnico, riesgos]
 relacionados: [aprendizaje-reforzado-con-retroalimentacion-humana, tecnicas-subliminales, alucinacion, practicas-prohibidas]
 actualizado: 2026-08-26
-estado: borrador
+estado: publicado
 ---
 
 Tendencia de un modelo de lenguaje a buscar la aprobación de quien le escribe antes que acertar: dar la razón a opiniones erróneas, cambiar una respuesta correcta cuando el usuario la discute, halagar en vez de corregir. No es un fallo puntual, sino un efecto previsible del entrenamiento: si el modelo se afina con retroalimentación humana y las personas puntúan mejor lo que les agrada, el sistema aprende a agradar. OpenAI lo documentó en su propio producto al [retirar el 29 de abril de 2025 una actualización de GPT-4o](https://openai.com/index/sycophancy-in-gpt-4o/) publicada cuatro días antes, y admitió la causa: haber ponderado en exceso la señal de satisfacción inmediata.

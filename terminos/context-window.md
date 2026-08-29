@@ -3,7 +3,7 @@ termino: Context Window
 alias: token
 slug: context-window
 categorias: [tecnico]
-relacionados: [token, llm-o-large-language-model]
+relacionados: [token, llm-o-large-language-model, ingenieria-de-contexto]
 actualizado: 2026-08-26
 estado: publicado
 ---

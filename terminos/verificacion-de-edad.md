@@ -5,7 +5,7 @@ slug: verificacion-de-edad
 categorias: [gobernanza, datos]
 relacionados: [motor-de-busqueda-en-linea-de-muy-gran-tamano, datos-biometricos, elaboracion-de-perfiles, categorizacion-biometrica]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Conjunto de técnicas con las que un servicio en línea determina la edad de quien lo usa, para impedir el acceso de menores a contenidos o funciones que no les corresponden. Las [directrices de la Comisión sobre protección de los menores en línea](https://digital-strategy.ec.europa.eu/en/library/commission-guidelines-protection-minors), de 10 de octubre de 2025, distinguen tres grados de intensidad creciente: la autodeclaración, la estimación de edad por métodos algorítmicos y la verificación propiamente dicha, basada en identificadores fiables.

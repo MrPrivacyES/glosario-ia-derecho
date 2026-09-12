@@ -5,7 +5,7 @@ slug: subencargado
 categorias: [datos, actores]
 relacionados: [responsable-del-tratamiento, retencion-cero, residencia-de-datos, model-context-protocol]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Tercero al que el encargado del tratamiento recurre para realizar por su cuenta parte del tratamiento que le ha confiado el responsable. En una plataforma de IA es la figura que sostiene casi toda la cadena real: el proveedor del modelo se apoya en una nube, esta en un centro de datos, y el asistente jurídico que contrata el despacho se apoya a su vez en el proveedor del modelo.

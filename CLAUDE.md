@@ -44,6 +44,7 @@ Reglas del cuerpo:
 | `actores` | roles y operadores de la cadena de valor del RIA |
 | `datos` | protección de datos, RGPD, gobernanza de datos |
 | `biometria` | biometría y reconocimiento |
+| `propiedad` | propiedad intelectual: derechos de autor, minería de datos, licencias de contenido |
 | `riesgos` | riesgos, seguridad, prácticas prohibidas |
 | `gobernanza` | cumplimiento, organización, supervisión |
 | `justicia` | uso de la IA en la Administración de Justicia y la actividad jurisdiccional |

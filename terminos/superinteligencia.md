@@ -5,7 +5,7 @@ slug: superinteligencia
 categorias: [cultura, riesgos]
 relacionados: [inteligencia-artificial-general, p-doom, capacidades-de-gran-impacto, riesgo-sistemico]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Sistema hipotético cuyas capacidades superarían a las humanas en prácticamente todas las tareas de valor económico y científico, incluida la de mejorarse a sí mismo. Es el escalón siguiente al de la inteligencia artificial general en la escala informal del sector, y como aquella carece de definición jurídica y de método acordado para verificar cuándo se ha alcanzado.

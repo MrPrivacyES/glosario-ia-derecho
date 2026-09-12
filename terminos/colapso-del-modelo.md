@@ -5,7 +5,7 @@ slug: colapso-del-modelo
 categorias: [tecnico, datos]
 relacionados: [datos-sinteticos, datos-de-entrenamiento, calidad-de-los-datos, sobreaprendizaje, memorizacion]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Degradación progresiva que sufre un modelo generativo cuando se entrena, generación tras generación, con contenido producido por modelos anteriores en lugar de con datos originales: las colas de la distribución desaparecen primero, la diversidad de las salidas se estrecha y el resultado acaba alejándose de la realidad que pretendía representar. Lo describió el equipo de Shumailov en [*AI models collapse when trained on recursively generated data*](https://www.nature.com/articles/s41586-024-07566-y), publicado en *Nature* en julio de 2024, que concluye que el uso indiscriminado de contenido generado por modelos introduce defectos irreversibles.

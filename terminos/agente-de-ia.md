@@ -5,7 +5,7 @@ slug: agente-de-ia
 categorias: [tecnico, ria]
 relacionados: [ia-agentica, sistema-de-ia, model-context-protocol, responsable-del-despliegue, intervencion-humana-significativa]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Sistema de IA que no se limita a devolver un resultado, sino que planifica y ejecuta por sí mismo una secuencia de acciones sobre herramientas y servicios externos —navegar, leer correo, invocar una API, contratar— para alcanzar un objetivo que se le ha encargado. Conviene no confundirlo con la IA agéntica: esta nombra la propiedad, la autonomía; «agente» nombra la cosa, el sistema concreto que se despliega, se contrata y se audita.

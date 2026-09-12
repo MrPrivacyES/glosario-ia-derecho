@@ -5,7 +5,7 @@ slug: retencion-cero
 categorias: [datos, gobernanza]
 relacionados: [subencargado, residencia-de-datos, datos-de-entrenamiento, responsable-del-tratamiento]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Régimen en el que el proveedor de un servicio de IA se compromete a no conservar las entradas ni las salidas una vez atendida la petición, más allá del tiempo estrictamente necesario para procesarla. Es la garantía que permite a un despacho usar un modelo de terceros sobre material de cliente sin que ese material quede almacenado en casa ajena.

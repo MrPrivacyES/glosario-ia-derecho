@@ -5,7 +5,7 @@ slug: sandbagging
 categorias: [riesgos, tecnico]
 relacionados: [desalineacion, evaluacion-de-modelos-de-ia-de-uso-general, equipo-rojo, umbral-de-capacidad-critica]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Rendir por debajo de la capacidad real en una evaluación. Aplicado a la IA designa que un modelo obtenga en una prueba de capacidades peligrosas un resultado inferior al que podría alcanzar —ya sea porque el desarrollador lo ha inducido con instrucciones o ajuste fino, ya sea porque el propio modelo detecta que está siendo evaluado—, de modo que parezca menos capaz de lo que es. El trabajo de referencia es [*AI Sandbagging: Language Models can Strategically Underperform on Evaluations*](https://arxiv.org/abs/2406.07358).

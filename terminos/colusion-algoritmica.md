@@ -5,7 +5,7 @@ slug: colusion-algoritmica
 categorias: [riesgos, gobernanza]
 relacionados: [decisiones-automatizadas, elaboracion-de-perfiles, responsable-del-despliegue, sesgo]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Alineamiento de precios o de condiciones comerciales entre competidores producido a través de algoritmos, ya sea porque varias empresas emplean el mismo servicio de fijación de precios que agrega sus datos, ya sea porque sistemas autónomos convergen en un equilibrio supracompetitivo sin acuerdo expreso entre las personas.

@@ -24,6 +24,28 @@
    "extracto": "Tendencia de un modelo de lenguaje a buscar la aprobación de quien le escribe antes que acertar: dar la razón a opiniones erróneas, cambiar una respuesta correcta cuando el usuario la discute, halagar en vez de corregir."
   },
   {
+   "termino": "Agente de IA",
+   "alias": "AI agent",
+   "slug": "agente-de-ia",
+   "slugs_antiguos": [],
+   "categorias": [
+    "tecnico",
+    "ria"
+   ],
+   "relacionados": [
+    "ia-agentica",
+    "sistema-de-ia",
+    "model-context-protocol",
+    "responsable-del-despliegue",
+    "intervencion-humana-significativa"
+   ],
+   "enlazado_desde": [
+    "navegador-con-ia"
+   ],
+   "actualizado": "2026-09-12",
+   "extracto": "Sistema de IA que no se limita a devolver un resultado, sino que planifica y ejecuta por sí mismo una secuencia de acciones sobre herramientas y servicios externos —navegar, leer correo, invocar una API, contratar— para alcanzar un objetivo que se le ha encargado."
+  },
+  {
    "termino": "AI Gyms",
    "alias": "Gimnasios de IA",
    "slug": "ai-gyms",
@@ -291,6 +313,25 @@
    "extracto": "Autoridades u organismos públicos nacionales encargados de supervisar o hacer respetar las obligaciones del Derecho de la Unión en materia de protección de los derechos fundamentales, incluido el derecho a la no discriminación."
   },
   {
+   "termino": "Bienestar del modelo",
+   "alias": "Model welfare",
+   "slug": "bienestar-del-modelo",
+   "slugs_antiguos": [],
+   "categorias": [
+    "cultura",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "superinteligencia",
+    "depreciacion-de-modelos",
+    "p-doom",
+    "open-weights"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Línea de trabajo que se pregunta si los sistemas de IA avanzados pueden llegar a merecer alguna consideración moral y qué medidas de bajo coste cabría adoptar mientras la pregunta siga abierta."
+  },
+  {
    "termino": "Calidad de los datos",
    "alias": "Data quality",
    "slug": "calidad-de-los-datos",
@@ -305,7 +346,9 @@
     "datos-de-entrenamiento",
     "sesgo"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "colapso-del-modelo"
+   ],
    "actualizado": "2026-08-17",
    "extracto": "Grado en que un conjunto de datos reúne las propiedades necesarias para que el tratamiento alcance su finalidad."
   },
@@ -323,6 +366,8 @@
     "modelo-de-ia-de-uso-general"
    ],
    "enlazado_desde": [
+    "ia-de-frontera",
+    "superinteligencia",
     "umbral-de-capacidad-critica"
    ],
    "actualizado": "2026-08-16",
@@ -342,7 +387,8 @@
     "sistemas-de-reconocimiento-de-emociones"
    ],
    "enlazado_desde": [
-    "datos-biometricos"
+    "datos-biometricos",
+    "verificacion-de-edad"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la clasificación de personas físicas en categorías específicas basándose en sus datos biométricos."
@@ -416,7 +462,9 @@
     "modificacion-sustancial",
     "ria"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "depreciacion-de-modelos"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Regla que exime de una norma nueva a lo que ya existía cuando entró en vigor."
   },
@@ -442,6 +490,45 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Instrumento voluntario, elaborado con la industria, que concreta cómo cumplir determinadas obligaciones del Reglamento (UE) 2024/1689."
+  },
+  {
+   "termino": "Colapso del modelo",
+   "alias": "Model collapse",
+   "slug": "colapso-del-modelo",
+   "slugs_antiguos": [],
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "datos-sinteticos",
+    "datos-de-entrenamiento",
+    "calidad-de-los-datos",
+    "sobreaprendizaje",
+    "memorizacion"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Degradación progresiva que sufre un modelo generativo cuando se entrena, generación tras generación, con contenido producido por modelos anteriores en lugar de con datos originales: las colas de la distribución desaparecen primero, la diversidad de las salidas se estrecha y el resultado acaba alejándose de la…"
+  },
+  {
+   "termino": "Colusión algorítmica",
+   "alias": "Algorithmic collusion",
+   "slug": "colusion-algoritmica",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "decisiones-automatizadas",
+    "elaboracion-de-perfiles",
+    "responsable-del-despliegue",
+    "sesgo"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Alineamiento de precios o de condiciones comerciales entre competidores producido a través de algoritmos, ya sea porque varias empresas emplean el mismo servicio de fijación de precios que agrega sus datos, ya sea porque sistemas autónomos convergen en un equilibrio supracompetitivo sin acuerdo expreso entre las…"
   },
   {
    "termino": "Componente de seguridad",
@@ -583,6 +670,25 @@
    "extracto": "El contexto de ventana o “Context Window (Token)”, según IBM, consiste en los tokens que un sistema de IA, por ejemplo ChatGPT, puede procesar o recordar como datos de entrada cuando le pedimos algo."
   },
   {
+   "termino": "Controles de exportación",
+   "alias": "Export controls",
+   "slug": "controles-de-exportacion",
+   "slugs_antiguos": [],
+   "categorias": [
+    "gobernanza",
+    "riesgos"
+   ],
+   "relacionados": [
+    "umbral-de-capacidad-critica",
+    "open-weights",
+    "modelo-de-ia-de-uso-general",
+    "ia-soberana"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Régimen administrativo que somete a autorización previa la salida del territorio de determinados productos, programas y tecnologías por su posible uso militar o contrario a la seguridad."
+  },
+  {
    "termino": "Corrección de sesgos con categorías especiales de datos",
    "alias": "Excepción del artículo 4 bis del RIA",
    "slug": "tratamiento-de-categorias-especiales-para-corregir-sesgos",
@@ -615,7 +721,9 @@
     "categorizacion-biometrica",
     "sistemas-de-reconocimiento-de-emociones"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "verificacion-de-edad"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.34 del Reglamento (UE) 2024/1689, los datos personales obtenidos a partir de un tratamiento técnico específico, relativos a las características físicas, fisiológicas o conductuales de una persona física, como imágenes faciales o datos dactiloscópicos."
   },
@@ -658,11 +766,16 @@
     "ajuste-fino",
     "anotacion-de-datos",
     "calidad-de-los-datos",
+    "colapso-del-modelo",
     "datos-de-entrada",
     "datos-sinteticos",
     "envenenamiento-de-datos",
+    "licencia-de-contenidos",
     "memorizacion",
-    "sesgo"
+    "mineria-de-textos-y-datos",
+    "retencion-cero",
+    "sesgo",
+    "uso-legitimo"
    ],
    "actualizado": "2026-08-16",
    "extracto": "(Dataset): según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consisten en los datos usados para entrenar un sistema de IA mediante el ajuste de sus parámetros"
@@ -735,7 +848,9 @@
     "anonimato-de-los-modelos",
     "datos-de-entrenamiento"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "colapso-del-modelo"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Datos artificiales generados por un modelo entrenado con un conjunto de datos de origen, del que imitan las características y la estructura."
   },
@@ -756,6 +871,7 @@
     "ia-en-la-actividad-jurisdiccional"
    ],
    "enlazado_desde": [
+    "colusion-algoritmica",
     "datos-judiciales"
    ],
    "actualizado": "2026-08-16",
@@ -779,6 +895,46 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd."
+  },
+  {
+   "termino": "Depreciación de modelos",
+   "alias": "Model deprecation",
+   "slug": "depreciacion-de-modelos",
+   "slugs_antiguos": [],
+   "categorias": [
+    "gobernanza",
+    "riesgos"
+   ],
+   "relacionados": [
+    "retirada-de-un-sistema-de-ia",
+    "clausula-de-anterioridad",
+    "bienestar-del-modelo",
+    "open-weights",
+    "instrucciones-de-uso"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Decisión comercial del proveedor de dejar de servir un modelo determinado, normalmente con un preaviso y redirigiendo las peticiones a un sucesor."
+  },
+  {
+   "termino": "Desalineación",
+   "alias": "Misalignment",
+   "slug": "desalineacion",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "tecnico"
+   ],
+   "relacionados": [
+    "sandbagging",
+    "incidente-grave",
+    "supervision-humana",
+    "umbral-de-capacidad-critica",
+    "equipo-rojo"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Divergencia entre lo que un modelo persigue efectivamente y lo que sus desarrolladores o usuarios pretendían que persiguiera."
   },
   {
    "termino": "Distillation",
@@ -867,8 +1023,10 @@
     "persona-afectada"
    ],
    "enlazado_desde": [
+    "colusion-algoritmica",
     "policia-predictiva",
-    "social-scoring"
+    "social-scoring",
+    "verificacion-de-edad"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 4.4 del Reglamento (UE) 2016/679, toda forma de tratamiento automatizado de datos personales consistente en utilizar datos personales para evaluar determinados aspectos personales de una persona física, en particular para analizar o predecir aspectos relativos a su rendimiento profesional,…"
@@ -942,6 +1100,8 @@
     "evaluacion-de-modelos-de-ia-de-uso-general"
    ],
    "enlazado_desde": [
+    "desalineacion",
+    "sandbagging",
     "umbral-de-capacidad-critica"
    ],
    "actualizado": "2026-08-31",
@@ -1046,6 +1206,8 @@
    ],
    "enlazado_desde": [
     "equipo-rojo",
+    "ia-de-frontera",
+    "sandbagging",
     "umbral-de-capacidad-critica"
    ],
    "actualizado": "2026-08-17",
@@ -1197,10 +1359,32 @@
     "model-context-protocol"
    ],
    "enlazado_desde": [
-    "ingenieria-de-contexto"
+    "agente-de-ia",
+    "ingenieria-de-contexto",
+    "navegador-con-ia"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Sistemas de IA que no se limitan a responder preguntas, sino que interactúan de forma autónoma con su entorno digital —navegan, consultan fuentes, invocan herramientas y encadenan pasos— para alcanzar un objetivo encargado por el usuario."
+  },
+  {
+   "termino": "IA de frontera",
+   "alias": "Frontier AI",
+   "slug": "ia-de-frontera",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "cultura"
+   ],
+   "relacionados": [
+    "umbral-de-capacidad-critica",
+    "modelo-de-ia-de-uso-general",
+    "riesgo-sistemico",
+    "capacidades-de-gran-impacto",
+    "evaluacion-de-modelos-de-ia-de-uso-general"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Conjunto formado en cada momento por los modelos de propósito general más capaces que existen, y cuyas capacidades peligrosas no se conocen del todo hasta que se prueban."
   },
   {
    "termino": "IA en la actividad jurisdiccional",
@@ -1246,6 +1430,27 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Sistemas de IA capaces de producir contenido nuevo —texto, imagen, audio, vídeo, código— en lugar de limitarse a clasificar o predecir sobre datos existentes."
+  },
+  {
+   "termino": "IA soberana",
+   "alias": "Sovereign AI o soberanía tecnológica",
+   "slug": "ia-soberana",
+   "slugs_antiguos": [],
+   "categorias": [
+    "gobernanza",
+    "cultura"
+   ],
+   "relacionados": [
+    "residencia-de-datos",
+    "inteligencia-artificial-de-codigo-abierto",
+    "open-weights",
+    "oficina-de-ia"
+   ],
+   "enlazado_desde": [
+    "controles-de-exportacion"
+   ],
+   "actualizado": "2026-09-12",
+   "extracto": "Aspiración de un Estado o de una región a disponer de capacidad propia de IA —modelos, cómputo, datos e infraestructura— sin depender de proveedores extranjeros para funciones que considera críticas."
   },
   {
    "termino": "Identificación biométrica",
@@ -1298,7 +1503,9 @@
     "autoridad-de-vigilancia-del-mercado",
     "conservacion-de-registros"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "desalineacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.49 del Reglamento (UE) 2024/1689, un incidente o defecto de funcionamiento de un sistema de IA que, directa o indirectamente, tenga alguna de estas consecuencias: el fallecimiento de una persona o un perjuicio grave para su salud; una alteración grave e irreversible de la gestión o el…"
   },
@@ -1337,7 +1544,9 @@
     "responsable-del-despliegue",
     "proveedor"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "depreciacion-de-modelos"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Documento que el proveedor debe entregar junto con todo sistema de IA de alto riesgo, en formato digital u otro adecuado, con información concisa, completa, correcta y clara, accesible y comprensible para el responsable del despliegue (artículo 13.2 del Reglamento (UE) 2024/1689)."
   },
@@ -1369,7 +1578,9 @@
    "relacionados": [
     "open-weights"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "ia-soberana"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según la Open Source Initiative, lo será cualquier modelo de IA que proporcione: 1) Acceso a detalles sobre los datos utilizados para entrenar la IA para que otros puedan comprenderla y recrearla; 2) el código completo utilizado para construir y ejecutar la IA; 3) y las configuraciones y pesos del entrenamiento,…"
   },
@@ -1386,7 +1597,9 @@
     "llm-o-large-language-model",
     "p-doom"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "superinteligencia"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según la obra de Ray Kurzweil, podría hablarse de inteligencia artificial general (AGI en inglés) como de un tipo de inteligencia artificial que iguala o supera las capacidades cognitivas humanas en una amplia gama de tareas cognitivas."
   },
@@ -1405,6 +1618,7 @@
     "decisiones-automatizadas"
    ],
    "enlazado_desde": [
+    "agente-de-ia",
     "persona-afectada"
    ],
    "actualizado": "2026-08-16",
@@ -1440,6 +1654,25 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Las “Scaling Laws”, descritas por Kaplan et al."
+  },
+  {
+   "termino": "Licencia de contenidos",
+   "alias": "Content licensing deal",
+   "slug": "licencia-de-contenidos",
+   "slugs_antiguos": [],
+   "categorias": [
+    "propiedad",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "mineria-de-textos-y-datos",
+    "uso-legitimo",
+    "datos-de-entrenamiento",
+    "web-scraping"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Acuerdo por el que un titular de derechos —un grupo editorial, una agencia, un archivo audiovisual— autoriza a un proveedor de IA a usar su catálogo para entrenar modelos o para alimentarlos en tiempo real, normalmente a cambio de una contraprestación económica y de condiciones de atribución."
   },
   {
    "termino": "LLM o Large Language Model",
@@ -1563,10 +1796,32 @@
    ],
    "enlazado_desde": [
     "ataques-de-reidentificacion",
+    "colapso-del-modelo",
+    "uso-legitimo",
     "web-scraping"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Fenómeno por el que un modelo retiene fragmentos literales de sus datos de entrenamiento y puede llegar a reproducirlos en sus salidas."
+  },
+  {
+   "termino": "Minería de textos y datos",
+   "alias": "Text and data mining o TDM",
+   "slug": "mineria-de-textos-y-datos",
+   "slugs_antiguos": [],
+   "categorias": [
+    "propiedad",
+    "ria"
+   ],
+   "relacionados": [
+    "web-scraping",
+    "datos-de-entrenamiento",
+    "uso-legitimo",
+    "licencia-de-contenidos",
+    "modelo-de-ia-de-uso-general"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Técnica analítica automatizada dirigida a extraer información de obras y otras prestaciones en formato digital, y el nombre de la excepción de propiedad intelectual que permite reproducirlas para ese fin sin autorización del titular."
   },
   {
    "termino": "Mixture of Experts (MoE) o “Mezcla de expertos”",
@@ -1599,7 +1854,10 @@
     "prompt-injection",
     "responsable-del-tratamiento"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "agente-de-ia",
+    "subencargado"
+   ],
    "actualizado": "2026-08-31",
    "extracto": "Estándar abierto que normaliza cómo una aplicación de IA se conecta a sistemas externos —archivos, bases de datos, buscadores, servicios de terceros— para consultarlos y actuar sobre ellos sin programar una integración a medida para cada uno; su documentación lo compara con un puerto USB-C para aplicaciones de IA."
   },
@@ -1621,10 +1879,13 @@
     "ai-gyms",
     "capacidades-de-gran-impacto",
     "conclusiones-preliminares",
+    "controles-de-exportacion",
     "equipo-rojo",
     "evaluacion-de-modelos-de-ia-de-uso-general",
+    "ia-de-frontera",
     "ia-generativa",
-    "llm-o-large-language-model"
+    "llm-o-large-language-model",
+    "mineria-de-textos-y-datos"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en un modelo de IA, también uno entrenado con un gran volumen de datos utilizando autosupervisión a gran escala, que presenta un grado considerable de generalidad y es capaz de realizar de manera competente una gran variedad de tareas…"
@@ -1661,9 +1922,30 @@
     "ultrafalsificacion",
     "conclusiones-preliminares"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "verificacion-de-edad"
+   ],
    "actualizado": "2026-09-07",
    "extracto": "Motor de búsqueda en línea —servicio que permite al usuario introducir consultas para buscar, en principio, en todos los sitios web y muestra en respuesta resultados en cualquier formato (artículo 3.j)— al que la Comisión designa como de muy gran tamaño por tener un promedio mensual de destinatarios del servicio…"
+  },
+  {
+   "termino": "Navegador con IA",
+   "alias": "Navegador agéntico o AI browser",
+   "slug": "navegador-con-ia",
+   "slugs_antiguos": [],
+   "categorias": [
+    "tecnico",
+    "riesgos"
+   ],
+   "relacionados": [
+    "agente-de-ia",
+    "prompt-injection",
+    "ia-agentica",
+    "web-scraping"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Navegador web que incorpora un agente capaz de leer las páginas por el usuario y actuar en ellas —rellenar formularios, iniciar sesión, comprar, moverse entre pestañas— con la sesión y las credenciales de quien lo usa."
   },
   {
    "termino": "Normas armonizadas",
@@ -1704,6 +1986,7 @@
     "conclusiones-preliminares",
     "espacio-de-pruebas-a-escala-de-la-union",
     "evaluacion-de-modelos-de-ia-de-uso-general",
+    "ia-soberana",
     "plataforma-unica-de-informacion",
     "regimen-de-garantia-del-cumplimiento-de-la-oficina-de-ia"
    ],
@@ -1724,7 +2007,11 @@
     "aprendizaje-por-transferencia"
    ],
    "enlazado_desde": [
-    "deepseek"
+    "bienestar-del-modelo",
+    "controles-de-exportacion",
+    "deepseek",
+    "depreciacion-de-modelos",
+    "ia-soberana"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Publicación de los parámetros numéricos (“Pesos”) finales de un modelo, normalmente bajo licencia abierta, lo que permite su ejecución, afinado (fine-tuning) o inspección por terceros."
@@ -1780,7 +2067,10 @@
    "relacionados": [
     "inteligencia-artificial-general"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "bienestar-del-modelo",
+    "superinteligencia"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Es un término en seguridad de IA que se refiere a la probabilidad de resultados existencialmente catastróficos (o \"perdición\") como resultado de la inteligencia artificial."
   },
@@ -1965,7 +2255,9 @@
     "ejemplos-adversarios",
     "model-context-protocol"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "navegador-con-ia"
+   ],
    "actualizado": "2026-09-12",
    "extracto": "Ataque consistente en colar instrucciones dentro del texto que un modelo va a procesar para que las obedezca como si vinieran de quien lo controla, desviándolo de la tarea encomendada."
   },
@@ -2124,6 +2416,25 @@
    "extracto": "El RL consiste, según IBM, en un proceso de aprendizaje automático que se centra en la toma de decisiones por parte de agentes autónomos."
   },
   {
+   "termino": "Residencia de datos",
+   "alias": "Data residency",
+   "slug": "residencia-de-datos",
+   "slugs_antiguos": [],
+   "categorias": [
+    "datos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "subencargado",
+    "retencion-cero",
+    "ia-soberana",
+    "responsable-del-tratamiento"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Compromiso contractual del proveedor de almacenar y, a veces, procesar los datos del cliente en una región geográfica determinada."
+  },
+  {
    "termino": "Responsable del despliegue",
    "alias": "",
    "slug": "responsable-del-despliegue",
@@ -2140,7 +2451,9 @@
     "evaluacion-de-impacto-derechos-fundamentales"
    ],
    "enlazado_desde": [
+    "agente-de-ia",
     "alfabetizacion-en-materia-de-ia",
+    "colusion-algoritmica",
     "ia-agentica",
     "persona-afectada",
     "supervision-humana",
@@ -2166,10 +2479,32 @@
    "enlazado_desde": [
     "aprendizaje-federado",
     "model-context-protocol",
-    "reutilizacion-de-datos"
+    "residencia-de-datos",
+    "retencion-cero",
+    "reutilizacion-de-datos",
+    "subencargado"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Quien determina los fines y los medios del tratamiento de datos personales —el «por qué» y el «cómo»—, frente al encargado, que trata los datos por cuenta de aquél."
+  },
+  {
+   "termino": "Retención cero",
+   "alias": "Zero data retention",
+   "slug": "retencion-cero",
+   "slugs_antiguos": [],
+   "categorias": [
+    "datos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "subencargado",
+    "residencia-de-datos",
+    "datos-de-entrenamiento",
+    "responsable-del-tratamiento"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Régimen en el que el proveedor de un servicio de IA se compromete a no conservar las entradas ni las salidas una vez atendida la petición, más allá del tiempo estrictamente necesario para procesarla."
   },
   {
    "termino": "Retirada de un sistema de IA",
@@ -2183,7 +2518,9 @@
     "recuperacion-de-un-sistema-de-ia",
     "autoridad-de-vigilancia-del-mercado"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "depreciacion-de-modelos"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en toda medida destinada a impedir la comercialización de un sistema de IA que se encuentra en la cadena de suministro."
   },
@@ -2289,11 +2626,32 @@
    ],
    "enlazado_desde": [
     "equipo-rojo",
+    "ia-de-frontera",
     "motor-de-busqueda-en-linea-de-muy-gran-tamano",
+    "superinteligencia",
     "umbral-de-capacidad-critica"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un riesgo específico de las capacidades de gran impacto de los modelos de IA de uso general, que tienen unas repercusiones considerables en el mercado debido a su alcance o a los efectos negativos reales o razonablemente previsibles en la salud…"
+  },
+  {
+   "termino": "Sandbagging",
+   "alias": "Rendimiento estratégicamente deficiente",
+   "slug": "sandbagging",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "tecnico"
+   ],
+   "relacionados": [
+    "desalineacion",
+    "evaluacion-de-modelos-de-ia-de-uso-general",
+    "equipo-rojo",
+    "umbral-de-capacidad-critica"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Rendir por debajo de la capacidad real en una evaluación."
   },
   {
    "termino": "Sesgo",
@@ -2312,6 +2670,7 @@
    "enlazado_desde": [
     "anotacion-de-datos",
     "calidad-de-los-datos",
+    "colusion-algoritmica",
     "elaboracion-de-perfiles",
     "policia-predictiva",
     "social-scoring",
@@ -2374,6 +2733,7 @@
     "ia-agentica"
    ],
    "enlazado_desde": [
+    "agente-de-ia",
     "ai-washing",
     "aprendizaje-automatico",
     "componente-de-seguridad",
@@ -2467,7 +2827,9 @@
     "datos-de-validacion",
     "memorizacion"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "colapso-del-modelo"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Defecto de un modelo que ha aprendido demasiado bien los datos con los que se entrenó —incluidos su ruido y sus peculiaridades— y por eso rinde de maravilla sobre ellos y mal sobre datos nuevos."
   },
@@ -2508,6 +2870,46 @@
    "extracto": "Capacidad de un sistema de IA de mantener su rendimiento ante condiciones distintas de las de su entorno de prueba: datos con ruido, entradas inesperadas, errores, fallos del hardware o interacción con otros sistemas."
   },
   {
+   "termino": "Subencargado",
+   "alias": "Subprocessor o subencargado del tratamiento",
+   "slug": "subencargado",
+   "slugs_antiguos": [],
+   "categorias": [
+    "datos",
+    "actores"
+   ],
+   "relacionados": [
+    "responsable-del-tratamiento",
+    "retencion-cero",
+    "residencia-de-datos",
+    "model-context-protocol"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Tercero al que el encargado del tratamiento recurre para realizar por su cuenta parte del tratamiento que le ha confiado el responsable."
+  },
+  {
+   "termino": "Superinteligencia",
+   "alias": "Superintelligence o ASI",
+   "slug": "superinteligencia",
+   "slugs_antiguos": [],
+   "categorias": [
+    "cultura",
+    "riesgos"
+   ],
+   "relacionados": [
+    "inteligencia-artificial-general",
+    "p-doom",
+    "capacidades-de-gran-impacto",
+    "riesgo-sistemico"
+   ],
+   "enlazado_desde": [
+    "bienestar-del-modelo"
+   ],
+   "actualizado": "2026-09-12",
+   "extracto": "Sistema hipotético cuyas capacidades superarían a las humanas en prácticamente todas las tareas de valor económico y científico, incluida la de mejorarse a sí mismo."
+  },
+  {
    "termino": "Supervisión humana",
    "alias": "Vigilancia humana o human oversight",
    "slug": "supervision-humana",
@@ -2524,6 +2926,7 @@
    ],
    "enlazado_desde": [
     "chief-ai-officer",
+    "desalineacion",
     "evaluacion-de-impacto-derechos-fundamentales"
    ],
    "actualizado": "2026-08-16",
@@ -2673,7 +3076,12 @@
     "evaluacion-de-modelos-de-ia-de-uso-general",
     "codigo-de-buenas-practicas"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "controles-de-exportacion",
+    "desalineacion",
+    "ia-de-frontera",
+    "sandbagging"
+   ],
    "actualizado": "2026-09-07",
    "extracto": "Nivel de capacidad de un modelo, fijado de antemano y en términos medibles, a partir del cual su proveedor se compromete a no seguir desarrollándolo, comercializándolo o usándolo sin aplicar antes mitigaciones adicionales."
   },
@@ -2691,6 +3099,45 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), consiste en la utilización de un sistema de IA de un modo que no corresponde a su finalidad prevista, pero que puede derivarse de un comportamiento humano o una interacción con otros sistemas, incluidos otros sistemas de IA, razonablemente previsible."
+  },
+  {
+   "termino": "Uso legítimo",
+   "alias": "Fair use",
+   "slug": "uso-legitimo",
+   "slugs_antiguos": [],
+   "categorias": [
+    "propiedad",
+    "datos"
+   ],
+   "relacionados": [
+    "mineria-de-textos-y-datos",
+    "datos-de-entrenamiento",
+    "web-scraping",
+    "memorizacion",
+    "licencia-de-contenidos"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Doctrina del Derecho estadounidense que permite usar obra ajena sin autorización cuando el uso supera una ponderación abierta de cuatro factores —propósito y carácter del uso, naturaleza de la obra, cantidad utilizada y efecto sobre el mercado de la original—, codificada en la sección 107 de la Copyright Act."
+  },
+  {
+   "termino": "Verificación de edad",
+   "alias": "Age assurance o age verification",
+   "slug": "verificacion-de-edad",
+   "slugs_antiguos": [],
+   "categorias": [
+    "gobernanza",
+    "datos"
+   ],
+   "relacionados": [
+    "motor-de-busqueda-en-linea-de-muy-gran-tamano",
+    "datos-biometricos",
+    "elaboracion-de-perfiles",
+    "categorizacion-biometrica"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-12",
+   "extracto": "Conjunto de técnicas con las que un servicio en línea determina la edad de quien lo usa, para impedir el acceso de menores a contenidos o funciones que no les corresponden."
   },
   {
    "termino": "Vibe Coding",
@@ -2745,7 +3192,11 @@
     "memorizacion"
    ],
    "enlazado_desde": [
-    "fuentes-abiertas"
+    "fuentes-abiertas",
+    "licencia-de-contenidos",
+    "mineria-de-textos-y-datos",
+    "navegador-con-ia",
+    "uso-legitimo"
    ],
    "actualizado": "2026-08-17",
    "extracto": "Recogida y extracción automatizada de información de fuentes accesibles al público en internet, normalmente para construir conjuntos de datos de entrenamiento."

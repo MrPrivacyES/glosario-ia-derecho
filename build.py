@@ -16,6 +16,7 @@ CATEGORIAS = {
     "actores": "Actores y roles",
     "datos": "Datos y privacidad",
     "biometria": "Biometría",
+    "propiedad": "Propiedad intelectual",
     "riesgos": "Riesgos y seguridad",
     "gobernanza": "Gobernanza",
     "justicia": "Justicia",

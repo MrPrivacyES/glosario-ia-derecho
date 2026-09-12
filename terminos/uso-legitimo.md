@@ -2,10 +2,10 @@
 termino: Uso legítimo
 alias: Fair use
 slug: uso-legitimo
-categorias: [datos, riesgos]
+categorias: [propiedad, datos]
 relacionados: [mineria-de-textos-y-datos, datos-de-entrenamiento, web-scraping, memorizacion, licencia-de-contenidos]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Doctrina del Derecho estadounidense que permite usar obra ajena sin autorización cuando el uso supera una ponderación abierta de cuatro factores —propósito y carácter del uso, naturaleza de la obra, cantidad utilizada y efecto sobre el mercado de la original—, codificada en la sección 107 de la *Copyright Act*. Es la defensa sobre la que se está decidiendo, caso a caso, si entrenar modelos con material protegido es lícito en Estados Unidos.

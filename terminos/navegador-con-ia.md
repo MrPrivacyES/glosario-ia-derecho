@@ -5,7 +5,7 @@ slug: navegador-con-ia
 categorias: [tecnico, riesgos]
 relacionados: [agente-de-ia, prompt-injection, ia-agentica, web-scraping]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Navegador web que incorpora un agente capaz de leer las páginas por el usuario y actuar en ellas —rellenar formularios, iniciar sesión, comprar, moverse entre pestañas— con la sesión y las credenciales de quien lo usa. Es la categoría de productos que abrieron ChatGPT Atlas y Perplexity Comet, y a la que se han sumado los asistentes integrados en Chrome y Edge.

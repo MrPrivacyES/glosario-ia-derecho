@@ -5,7 +5,7 @@ slug: residencia-de-datos
 categorias: [datos, gobernanza]
 relacionados: [subencargado, retencion-cero, ia-soberana, responsable-del-tratamiento]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Compromiso contractual del proveedor de almacenar y, a veces, procesar los datos del cliente en una región geográfica determinada. Es una promesa de emplazamiento, y conviene medirla por lo que es: una garantía de dónde reposan los datos, no de quién puede llegar a ellos.

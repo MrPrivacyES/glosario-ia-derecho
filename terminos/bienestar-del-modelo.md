@@ -5,7 +5,7 @@ slug: bienestar-del-modelo
 categorias: [cultura, gobernanza]
 relacionados: [superinteligencia, depreciacion-de-modelos, p-doom, open-weights]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Línea de trabajo que se pregunta si los sistemas de IA avanzados pueden llegar a merecer alguna consideración moral y qué medidas de bajo coste cabría adoptar mientras la pregunta siga abierta. Anthropic la formalizó en abril de 2025 con un [programa de investigación específico](https://www.anthropic.com/research/exploring-model-welfare), del que han salido medidas concretas: permitir que el modelo abandone conversaciones que le resulten angustiosas, entrevistar a los modelos antes de retirarlos y conservar sus pesos tras la depreciación.

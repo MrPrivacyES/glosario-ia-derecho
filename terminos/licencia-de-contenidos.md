@@ -2,10 +2,10 @@
 termino: Licencia de contenidos
 alias: Content licensing deal
 slug: licencia-de-contenidos
-categorias: [datos, gobernanza]
+categorias: [propiedad, gobernanza]
 relacionados: [mineria-de-textos-y-datos, uso-legitimo, datos-de-entrenamiento, web-scraping]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Acuerdo por el que un titular de derechos —un grupo editorial, una agencia, un archivo audiovisual— autoriza a un proveedor de IA a usar su catálogo para entrenar modelos o para alimentarlos en tiempo real, normalmente a cambio de una contraprestación económica y de condiciones de atribución. Es la salida negociada al mismo problema que la excepción de minería de textos y datos resuelve por vía legal.

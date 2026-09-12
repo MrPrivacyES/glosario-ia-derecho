@@ -2,10 +2,10 @@
 termino: Minería de textos y datos
 alias: Text and data mining o TDM
 slug: mineria-de-textos-y-datos
-categorias: [datos, ria]
+categorias: [propiedad, ria]
 relacionados: [web-scraping, datos-de-entrenamiento, uso-legitimo, licencia-de-contenidos, modelo-de-ia-de-uso-general]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Técnica analítica automatizada dirigida a extraer información de obras y otras prestaciones en formato digital, y el nombre de la excepción de propiedad intelectual que permite reproducirlas para ese fin sin autorización del titular. La establecen los artículos 3 y 4 de la [Directiva (UE) 2019/790](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32019L0790) y, en España, el [artículo 67 del Real Decreto-ley 24/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-17910), que no exige autorización «para las reproducciones de obras y otras prestaciones accesibles de forma legítima realizadas con fines de minería de textos y datos».

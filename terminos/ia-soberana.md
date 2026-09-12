@@ -5,7 +5,7 @@ slug: ia-soberana
 categorias: [gobernanza, cultura]
 relacionados: [residencia-de-datos, inteligencia-artificial-de-codigo-abierto, open-weights, oficina-de-ia]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Aspiración de un Estado o de una región a disponer de capacidad propia de IA —modelos, cómputo, datos e infraestructura— sin depender de proveedores extranjeros para funciones que considera críticas. No es un concepto jurídico sino un objetivo de política pública, pero se ha convertido en 2026 en el motor de normas concretas.

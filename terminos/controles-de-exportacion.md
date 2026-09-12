@@ -5,7 +5,7 @@ slug: controles-de-exportacion
 categorias: [gobernanza, riesgos]
 relacionados: [umbral-de-capacidad-critica, open-weights, modelo-de-ia-de-uso-general, ia-soberana]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Régimen administrativo que somete a autorización previa la salida del territorio de determinados productos, programas y tecnologías por su posible uso militar o contrario a la seguridad. En la Unión lo regula el [Reglamento (UE) 2021/821](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02021R0821-20251115), cuyo artículo 2.1 define los productos de doble uso como aquellos «incluido el soporte lógico (*software*) y la tecnología, que puedan destinarse a usos tanto civiles como militares».

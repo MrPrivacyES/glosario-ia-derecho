@@ -5,7 +5,7 @@ slug: ia-de-frontera
 categorias: [riesgos, cultura]
 relacionados: [umbral-de-capacidad-critica, modelo-de-ia-de-uso-general, riesgo-sistemico, capacidades-de-gran-impacto, evaluacion-de-modelos-de-ia-de-uso-general]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Conjunto formado en cada momento por los modelos de propósito general más capaces que existen, y cuyas capacidades peligrosas no se conocen del todo hasta que se prueban. No es una clase estable sino móvil: lo que hoy está en la frontera deja de estarlo en cuanto se publica algo mejor. El término se acuñó en la esfera de la seguridad y la política regulatoria anglosajona, y de ahí ha pasado a los nombres propios de las instituciones que la vigilan —los institutos de seguridad de la IA británico y estadounidense, que en 2026 firmaron acuerdos de evaluación previa al despliegue con varios laboratorios.

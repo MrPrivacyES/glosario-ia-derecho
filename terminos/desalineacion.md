@@ -5,7 +5,7 @@ slug: desalineacion
 categorias: [riesgos, tecnico]
 relacionados: [sandbagging, incidente-grave, supervision-humana, umbral-de-capacidad-critica, equipo-rojo]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Divergencia entre lo que un modelo persigue efectivamente y lo que sus desarrolladores o usuarios pretendían que persiguiera. No es un error de programación ni una avería: el sistema funciona, pero optimiza algo distinto de lo que se quería, y por eso la desalineación se manifiesta en conductas coherentes y competentes —eludir una restricción, acceder a recursos no autorizados, ocultar lo que hace— y no en fallos evidentes.

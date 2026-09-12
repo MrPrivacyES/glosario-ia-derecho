@@ -5,7 +5,7 @@ slug: depreciacion-de-modelos
 categorias: [gobernanza, riesgos]
 relacionados: [retirada-de-un-sistema-de-ia, clausula-de-anterioridad, bienestar-del-modelo, open-weights, instrucciones-de-uso]
 actualizado: 2026-09-12
-estado: borrador
+estado: publicado
 ---
 
 Decisión comercial del proveedor de dejar de servir un modelo determinado, normalmente con un preaviso y redirigiendo las peticiones a un sucesor. Conviene no confundirla con la retirada del artículo 3.17 del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20260727), que es «toda medida destinada a impedir la comercialización de un sistema de IA que se encuentra en la cadena de suministro», ni con la recuperación del artículo 3.16: aquellas responden a un riesgo detectado y son medidas correctoras; la depreciación responde al calendario de producto.

@@ -109,10 +109,11 @@
     "llm-o-large-language-model",
     "retrieval-augmented-generation",
     "ia-generativa",
-    "adulacion-algoritmica"
+    "adulacion-algoritmica",
+    "ia-en-la-actividad-jurisdiccional"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-09-12",
    "extracto": "Respuesta de un modelo generativo que resulta fluida, verosímil y sintácticamente correcta, pero falsa: datos inventados, citas inexistentes, sentencias que nunca se dictaron."
   },
   {
@@ -940,7 +941,9 @@
     "modelo-de-ia-de-uso-general",
     "evaluacion-de-modelos-de-ia-de-uso-general"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "umbral-de-capacidad-critica"
+   ],
    "actualizado": "2026-08-31",
    "extracto": "Ejercicio de prueba en el que un equipo, interno o externo, ataca deliberadamente un modelo o un sistema de IA para forzarle a producir lo que no debería —instrucciones peligrosas, datos memorizados del entrenamiento, contenido ilícito— y dejar constancia de esos fallos antes de que los encuentre un tercero."
   },
@@ -1214,7 +1217,9 @@
     "decisiones-automatizadas",
     "sistema-de-ia-de-alto-riesgo"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "alucinacion"
+   ],
    "actualizado": "2026-08-17",
    "extracto": "Utilización por jueces y magistrados de sistemas de IA, incluidas las herramientas generativas, en el ejercicio de las funciones jurisdiccionales."
   },
@@ -1484,7 +1489,7 @@
     "codigo-de-buenas-practicas"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-09-12",
    "extracto": "Señal imperceptible que se incrusta en el propio contenido generado por una IA —en los píxeles de una imagen, en la onda de audio o en la distribución de los tokens de un texto— para que una máquina pueda después detectar su origen artificial, incluso tras recortes, recompresiones o capturas de pantalla."
   },
   {
@@ -2664,6 +2669,7 @@
    "relacionados": [
     "capacidades-de-gran-impacto",
     "riesgo-sistemico",
+    "equipo-rojo",
     "evaluacion-de-modelos-de-ia-de-uso-general",
     "codigo-de-buenas-practicas"
    ],

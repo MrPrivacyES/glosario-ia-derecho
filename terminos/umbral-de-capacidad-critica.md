@@ -3,7 +3,7 @@ termino: Umbral de capacidad crítica
 alias: Critical capability threshold
 slug: umbral-de-capacidad-critica
 categorias: [riesgos, gobernanza]
-relacionados: [capacidades-de-gran-impacto, riesgo-sistemico, evaluacion-de-modelos-de-ia-de-uso-general, codigo-de-buenas-practicas]
+relacionados: [capacidades-de-gran-impacto, riesgo-sistemico, equipo-rojo, evaluacion-de-modelos-de-ia-de-uso-general, codigo-de-buenas-practicas]
 actualizado: 2026-09-07
 estado: publicado
 ---

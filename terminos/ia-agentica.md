@@ -3,7 +3,7 @@ termino: IA agéntica
 alias: Agentic AI
 slug: ia-agentica
 categorias: [tecnico, datos]
-relacionados: [sistema-de-ia, responsable-del-despliegue, razonamiento]
+relacionados: [sistema-de-ia, responsable-del-despliegue, razonamiento, model-context-protocol]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -3,7 +3,7 @@ termino: Ejemplos adversarios
 alias: Adversarial examples o evasión de modelos
 slug: ejemplos-adversarios
 categorias: [tecnico, riesgos]
-relacionados: [ciberseguridad, envenenamiento-de-datos, prompt-injection]
+relacionados: [ciberseguridad, envenenamiento-de-datos, prompt-injection, equipo-rojo]
 actualizado: 2026-08-16
 estado: publicado
 ---

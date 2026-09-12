@@ -5,7 +5,7 @@ slug: equipo-rojo
 categorias: [riesgos, gobernanza]
 relacionados: [ejemplos-adversarios, riesgo-sistemico, modelo-de-ia-de-uso-general, evaluacion-de-modelos-de-ia-de-uso-general]
 actualizado: 2026-08-31
-estado: borrador
+estado: publicado
 ---
 
 Ejercicio de prueba en el que un equipo, interno o externo, ataca deliberadamente un modelo o un sistema de IA para forzarle a producir lo que no debería —instrucciones peligrosas, datos memorizados del entrenamiento, contenido ilícito— y dejar constancia de esos fallos antes de que los encuentre un tercero. El [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20260727) lo llama por su nombre en el anexo XI, sección 2, punto 2, cuando exige a los proveedores de modelos de IA de uso general con riesgo sistémico «una descripción detallada de las medidas adoptadas para realizar pruebas adversarias internas o externas (por ejemplo, utilización de “equipos rojos”)».

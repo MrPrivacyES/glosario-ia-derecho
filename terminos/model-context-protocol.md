@@ -5,7 +5,7 @@ slug: model-context-protocol
 categorias: [tecnico, datos]
 relacionados: [ia-agentica, ingenieria-de-contexto, prompt-injection, responsable-del-tratamiento]
 actualizado: 2026-08-31
-estado: borrador
+estado: publicado
 ---
 
 Estándar abierto que normaliza cómo una aplicación de IA se conecta a sistemas externos —archivos, bases de datos, buscadores, servicios de terceros— para consultarlos y actuar sobre ellos sin programar una integración a medida para cada uno; [su documentación](https://modelcontextprotocol.io/docs/getting-started/intro) lo compara con un puerto USB-C para aplicaciones de IA. Lo publicó Anthropic en noviembre de 2024 y [lo donó el 9 de diciembre de 2025](https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/) a la Agentic AI Foundation de la Linux Foundation, con OpenAI y Block como cofundadores. Es hoy la forma habitual de dar herramientas a un agente, y por eso empieza a aparecer en los contratos.

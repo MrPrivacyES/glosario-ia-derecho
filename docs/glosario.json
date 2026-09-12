@@ -845,7 +845,8 @@
    "relacionados": [
     "ciberseguridad",
     "envenenamiento-de-datos",
-    "prompt-injection"
+    "prompt-injection",
+    "equipo-rojo"
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
@@ -923,6 +924,25 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Ataque que consiste en contaminar deliberadamente el material con el que se entrena un modelo para alterar su comportamiento posterior."
+  },
+  {
+   "termino": "Equipo rojo",
+   "alias": "Red teaming",
+   "slug": "equipo-rojo",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "ejemplos-adversarios",
+    "riesgo-sistemico",
+    "modelo-de-ia-de-uso-general",
+    "evaluacion-de-modelos-de-ia-de-uso-general"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-31",
+   "extracto": "Ejercicio de prueba en el que un equipo, interno o externo, ataca deliberadamente un modelo o un sistema de IA para forzarle a producir lo que no debería —instrucciones peligrosas, datos memorizados del entrenamiento, contenido ilícito— y dejar constancia de esos fallos antes de que los encuentre un tercero."
   },
   {
    "termino": "Espacio controlado de pruebas para la IA",
@@ -1022,6 +1042,7 @@
     "conclusiones-preliminares"
    ],
    "enlazado_desde": [
+    "equipo-rojo",
     "umbral-de-capacidad-critica"
    ],
    "actualizado": "2026-08-17",
@@ -1169,7 +1190,8 @@
    "relacionados": [
     "sistema-de-ia",
     "responsable-del-despliegue",
-    "razonamiento"
+    "razonamiento",
+    "model-context-protocol"
    ],
    "enlazado_desde": [
     "ingenieria-de-contexto"
@@ -1290,7 +1312,9 @@
     "retrieval-augmented-generation",
     "ia-agentica"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "model-context-protocol"
+   ],
    "actualizado": "2026-08-26",
    "extracto": "Conjunto de estrategias para seleccionar y mantener la información —los tokens— que un modelo tiene delante en cada paso de la inferencia, según la definición de Anthropic de 29 de septiembre de 2025 que popularizó el término."
   },
@@ -1556,6 +1580,25 @@
    "extracto": "Arquitectura en la que varios sub-modelos especializados (“Expertos”) compiten o son seleccionados dinámicamente mediante un router para responder a cada entrada, aumentando la capacidad efectiva sin elevar el coste de inferencia linealmente (explicación técnica de Hugging Face)."
   },
   {
+   "termino": "Model Context Protocol",
+   "alias": "MCP o protocolo de contexto de modelo",
+   "slug": "model-context-protocol",
+   "slugs_antiguos": [],
+   "categorias": [
+    "tecnico",
+    "datos"
+   ],
+   "relacionados": [
+    "ia-agentica",
+    "ingenieria-de-contexto",
+    "prompt-injection",
+    "responsable-del-tratamiento"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-08-31",
+   "extracto": "Estándar abierto que normaliza cómo una aplicación de IA se conecta a sistemas externos —archivos, bases de datos, buscadores, servicios de terceros— para consultarlos y actuar sobre ellos sin programar una integración a medida para cada uno; su documentación lo compara con un puerto USB-C para aplicaciones de IA."
+  },
+  {
    "termino": "Modelo de IA de uso general",
    "alias": "modelo fundacional o LLM",
    "slug": "modelo-de-ia-de-uso-general",
@@ -1573,6 +1616,7 @@
     "ai-gyms",
     "capacidades-de-gran-impacto",
     "conclusiones-preliminares",
+    "equipo-rojo",
     "evaluacion-de-modelos-de-ia-de-uso-general",
     "ia-generativa",
     "llm-o-large-language-model"
@@ -1903,7 +1947,7 @@
   },
   {
    "termino": "Prompt injection",
-   "alias": "inyección en datos de entrada",
+   "alias": "Inyección de instrucciones",
    "slug": "prompt-injection",
    "slugs_antiguos": [],
    "categorias": [
@@ -1913,11 +1957,12 @@
    "relacionados": [
     "prompt",
     "llm-o-large-language-model",
-    "ejemplos-adversarios"
+    "ejemplos-adversarios",
+    "model-context-protocol"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-08-16",
-   "extracto": "Según IBM, consiste en un tipo de ciberataque contra un LLM."
+   "actualizado": "2026-09-12",
+   "extracto": "Ataque consistente en colar instrucciones dentro del texto que un modelo va a procesar para que las obedezca como si vinieran de quien lo controla, desviándolo de la tarea encomendada."
   },
   {
    "termino": "Protección equivalente del anexo I",
@@ -2115,6 +2160,7 @@
    ],
    "enlazado_desde": [
     "aprendizaje-federado",
+    "model-context-protocol",
     "reutilizacion-de-datos"
    ],
    "actualizado": "2026-08-16",
@@ -2237,6 +2283,7 @@
     "evaluacion-de-modelos-de-ia-de-uso-general"
    ],
    "enlazado_desde": [
+    "equipo-rojo",
     "motor-de-busqueda-en-linea-de-muy-gran-tamano",
     "umbral-de-capacidad-critica"
    ],

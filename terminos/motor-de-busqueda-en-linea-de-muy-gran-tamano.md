@@ -5,7 +5,7 @@ slug: motor-de-busqueda-en-linea-de-muy-gran-tamano
 categorias: [gobernanza, riesgos]
 relacionados: [ia-generativa, riesgo-sistemico, ultrafalsificacion, conclusiones-preliminares]
 actualizado: 2026-09-07
-estado: borrador
+estado: publicado
 ---
 
 Motor de búsqueda en línea —servicio que permite al usuario introducir consultas para buscar, en principio, en todos los sitios web y muestra en respuesta resultados en cualquier formato (artículo 3.j)— al que la Comisión designa como de muy gran tamaño por tener un promedio mensual de destinatarios del servicio activos en la Unión igual o superior a cuarenta y cinco millones (artículos 33.1 y 33.4 del [Reglamento (UE) 2022/2065](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32022R2065), de servicios digitales). El 31 de agosto de 2026 la Comisión [designó a ChatGPT](https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act) como el primero: es la primera vez que un asistente conversacional de IA entra en la categoría, por tratarse de un servicio híbrido que se califica como motor de búsqueda porque responde a las consultas del usuario buscando también en la web. Los datos declarados por OpenAI —[159,1 millones de destinatarios activos mensuales](https://www.xataka.com/legislacion-y-derechos/califica-como-motor-busqueda-europa-coloca-a-chatgpt-dsa-activa-cuenta-atras-escrutinio)— triplican el umbral.

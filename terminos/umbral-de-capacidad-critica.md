@@ -3,9 +3,9 @@ termino: Umbral de capacidad crítica
 alias: Critical capability threshold
 slug: umbral-de-capacidad-critica
 categorias: [riesgos, gobernanza]
-relacionados: [capacidades-de-gran-impacto, riesgo-sistemico, equipo-rojo, codigo-de-buenas-practicas]
+relacionados: [capacidades-de-gran-impacto, riesgo-sistemico, evaluacion-de-modelos-de-ia-de-uso-general, codigo-de-buenas-practicas]
 actualizado: 2026-09-07
-estado: borrador
+estado: publicado
 ---
 
 Nivel de capacidad de un modelo, fijado de antemano y en términos medibles, a partir del cual su proveedor se compromete a no seguir desarrollándolo, comercializándolo o usándolo sin aplicar antes mitigaciones adicionales. Cada laboratorio tiene su versión —el *Preparedness Framework* de OpenAI, la *Responsible Scaling Policy* de Anthropic, el *Frontier Safety Framework* de Google— y el 3 de septiembre de 2026 se cruzó por primera vez uno de estos umbrales en un modelo de difusión general: OpenAI declaró que [GPT-6 Astra](https://deploymentsafety.openai.com/gpt-6-astra) alcanza el nivel «crítico» de capacidad en ciberseguridad, porque encuentra vulnerabilidades desconocidas y desarrolla formas de explotarlas en sistemas bien protegidos sin que una persona guíe cada paso.

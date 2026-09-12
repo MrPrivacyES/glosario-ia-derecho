@@ -2,7 +2,7 @@
  "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
  "url": "https://glosario.thelegaletters.com",
  "licencia": "CC BY 4.0",
- "generado": "2026-08-29",
+ "generado": "2026-09-12",
  "terminos": [
   {
    "termino": "Adulación algorítmica",
@@ -321,7 +321,9 @@
     "riesgo-sistemico",
     "modelo-de-ia-de-uso-general"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "umbral-de-capacidad-critica"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), capacidades que igualan o superan las capacidades mostradas por los modelos de IA de uso general más avanzados."
   },
@@ -434,7 +436,8 @@
    ],
    "enlazado_desde": [
     "consejo-de-ia",
-    "modelo-de-ia-de-uso-general"
+    "modelo-de-ia-de-uso-general",
+    "umbral-de-capacidad-critica"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Instrumento voluntario, elaborado con la industria, que concreta cómo cumplir determinadas obligaciones del Reglamento (UE) 2024/1689."
@@ -473,7 +476,9 @@
     "oficina-de-ia",
     "modelo-de-ia-de-uso-general"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "motor-de-busqueda-en-linea-de-muy-gran-tamano"
+   ],
    "actualizado": "2026-08-17",
    "extracto": "Acto por el que la Comisión comunica a un proveedor de un modelo de IA de uso general los cargos que le imputa antes de multarlo, dándole la oportunidad de ser oído (artículo 101.2 del Reglamento (UE) 2024/1689)."
   },
@@ -1016,7 +1021,9 @@
     "riesgo-sistemico",
     "conclusiones-preliminares"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "umbral-de-capacidad-critica"
+   ],
    "actualizado": "2026-08-17",
    "extracto": "Facultad de la Oficina de IA, previa consulta al Consejo de IA, de examinar directamente un modelo de IA de uso general para comprobar si su proveedor cumple el Reglamento cuando la información recabada no basta, o para investigar riesgos sistémicos a escala de la Unión, en particular a raíz de una alerta…"
   },
@@ -1207,6 +1214,7 @@
    ],
    "enlazado_desde": [
     "datos-judiciales",
+    "motor-de-busqueda-en-linea-de-muy-gran-tamano",
     "retrieval-augmented-generation"
    ],
    "actualizado": "2026-08-16",
@@ -1588,6 +1596,25 @@
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un cambio en un sistema de IA tras su introducción en el mercado o puesta en servicio que no haya sido previsto o proyectado en la evaluación de la conformidad inicial realizada por el proveedor y a consecuencia del cual se vea afectado el…"
+  },
+  {
+   "termino": "Motor de búsqueda en línea de muy gran tamaño",
+   "alias": "Very Large Online Search Engine o VLOSE",
+   "slug": "motor-de-busqueda-en-linea-de-muy-gran-tamano",
+   "slugs_antiguos": [],
+   "categorias": [
+    "gobernanza",
+    "riesgos"
+   ],
+   "relacionados": [
+    "ia-generativa",
+    "riesgo-sistemico",
+    "ultrafalsificacion",
+    "conclusiones-preliminares"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-07",
+   "extracto": "Motor de búsqueda en línea —servicio que permite al usuario introducir consultas para buscar, en principio, en todos los sitios web y muestra en respuesta resultados en cualquier formato (artículo 3.j)— al que la Comisión designa como de muy gran tamaño por tener un promedio mensual de destinatarios del servicio…"
   },
   {
    "termino": "Normas armonizadas",
@@ -2209,7 +2236,10 @@
     "modelo-de-ia-de-uso-general",
     "evaluacion-de-modelos-de-ia-de-uso-general"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "motor-de-busqueda-en-linea-de-muy-gran-tamano",
+    "umbral-de-capacidad-critica"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), un riesgo específico de las capacidades de gran impacto de los modelos de IA de uso general, que tienen unas repercusiones considerables en el mercado debido a su alcance o a los efectos negativos reales o razonablemente previsibles en la salud…"
   },
@@ -2569,9 +2599,30 @@
     "marca-de-agua",
     "contenido-intimo-sintetico"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "motor-de-busqueda-en-linea-de-muy-gran-tamano"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el artículo 3.60 del Reglamento (UE) 2024/1689, un contenido de imagen, audio o vídeo generado o manipulado por una IA que se asemeja a personas, objetos, lugares, entidades o sucesos reales y que puede inducir a una persona a pensar erróneamente que son auténticos o verídicos."
+  },
+  {
+   "termino": "Umbral de capacidad crítica",
+   "alias": "Critical capability threshold",
+   "slug": "umbral-de-capacidad-critica",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "capacidades-de-gran-impacto",
+    "riesgo-sistemico",
+    "evaluacion-de-modelos-de-ia-de-uso-general",
+    "codigo-de-buenas-practicas"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-07",
+   "extracto": "Nivel de capacidad de un modelo, fijado de antemano y en términos medibles, a partir del cual su proveedor se compromete a no seguir desarrollándolo, comercializándolo o usándolo sin aplicar antes mitigaciones adicionales."
   },
   {
    "termino": "Uso indebido razonablemente previsible",

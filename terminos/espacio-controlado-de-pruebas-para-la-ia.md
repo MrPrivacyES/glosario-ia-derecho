@@ -3,7 +3,7 @@ termino: Espacio controlado de pruebas para la IA
 alias: Sandbox o entorno regulatorio de pruebas
 slug: espacio-controlado-de-pruebas-para-la-ia
 categorias: [ria, gobernanza]
-relacionados: [ria, autoridad-de-vigilancia-del-mercado, fase-de-desarrollo]
+relacionados: [clausula-de-experimentacion, ria, autoridad-de-vigilancia-del-mercado, fase-de-desarrollo]
 actualizado: 2026-08-16
 estado: publicado
 ---

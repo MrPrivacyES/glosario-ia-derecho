@@ -3,7 +3,7 @@ termino: Sandbagging
 alias: Rendimiento estratégicamente deficiente
 slug: sandbagging
 categorias: [riesgos, tecnico]
-relacionados: [desalineacion, evaluacion-de-modelos-de-ia-de-uso-general, equipo-rojo, umbral-de-capacidad-critica]
+relacionados: [desalineacion, reward-hacking, evaluacion-de-modelos-de-ia-de-uso-general, equipo-rojo, umbral-de-capacidad-critica]
 actualizado: 2026-09-12
 estado: publicado
 ---

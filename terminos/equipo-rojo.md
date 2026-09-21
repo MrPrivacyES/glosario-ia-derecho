@@ -3,7 +3,7 @@ termino: Equipo rojo
 alias: Red teaming
 slug: equipo-rojo
 categorias: [riesgos, gobernanza]
-relacionados: [ejemplos-adversarios, riesgo-sistemico, modelo-de-ia-de-uso-general, evaluacion-de-modelos-de-ia-de-uso-general]
+relacionados: [ejemplos-adversarios, riesgo-sistemico, modelo-de-ia-de-uso-general, evaluacion-de-modelos-de-ia-de-uso-general, uplift]
 actualizado: 2026-08-31
 estado: publicado
 ---

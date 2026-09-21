@@ -3,7 +3,7 @@ termino: Ciberseguridad
 alias: Cybersecurity
 slug: ciberseguridad
 categorias: [ria, riesgos]
-relacionados: [envenenamiento-de-datos, ejemplos-adversarios, solidez, ataques-de-reidentificacion]
+relacionados: [envenenamiento-de-datos, ejemplos-adversarios, solidez, ataques-de-reidentificacion, ia-ofensiva]
 actualizado: 2026-08-16
 estado: publicado
 ---

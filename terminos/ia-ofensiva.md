@@ -5,7 +5,7 @@ slug: ia-ofensiva
 categorias: [riesgos, datos]
 relacionados: [agente-de-ia, ia-agentica, ciberseguridad, equipo-rojo]
 actualizado: 2026-09-21
-estado: borrador
+estado: publicado
 ---
 
 Empleo de capacidades de inteligencia artificial —generativa y, sobre todo, agéntica— para acelerar, escalar y adaptar técnicas de ciberataque ya conocidas. Es la noción que maneja el Centro Criptológico Nacional en la guía [CCN-CERT BP/36, «Buenas prácticas frente al modelo de IA ofensiva»](https://www.ccn.cni.es/es/actualidad-ccn/1363-el-centro-criptologico-nacional-alerta-del-cambio-de-paradigma-que-supone-la-ia-ofensiva-para-la-ciberseguridad), de 23 de junio de 2026, que la describe ya como una capacidad operativa integrada en campañas reales de actores criminales y estatales. La IA no inventa amenazas nuevas: rebaja la competencia técnica necesaria para ejecutarlas y recorta el tiempo disponible para detectarlas.

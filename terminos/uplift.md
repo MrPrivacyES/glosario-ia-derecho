@@ -5,7 +5,7 @@ slug: uplift
 categorias: [riesgos, gobernanza]
 relacionados: [evaluacion-de-modelos-de-ia-de-uso-general, equipo-rojo, capacidades-de-gran-impacto, umbral-de-capacidad-critica]
 actualizado: 2026-09-21
-estado: borrador
+estado: publicado
 ---
 
 Ventaja medible que el acceso a un modelo aporta a quien quiere hacer algo —típicamente algo dañino— frente a una línea de base sin ese modelo. Es la unidad en la que se discute hoy el riesgo sistémico: lo relevante no es que un modelo «sepa» de agentes patógenos o de vulnerabilidades, sino cuánto adelanta a quien ya lo intentaba con los medios a su alcance.

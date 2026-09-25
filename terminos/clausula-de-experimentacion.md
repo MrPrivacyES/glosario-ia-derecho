@@ -5,7 +5,7 @@ slug: clausula-de-experimentacion
 categorias: [gobernanza, ria]
 relacionados: [espacio-controlado-de-pruebas-para-la-ia, espacio-de-pruebas-a-escala-de-la-union, pruebas-en-condiciones-reales, ria]
 actualizado: 2026-09-14
-estado: borrador
+estado: publicado
 ---
 
 Disposición legal que permite a las autoridades encargadas de aplicar y hacer cumplir una norma ejercer, caso por caso, cierto margen de flexibilidad en relación con la prueba de tecnologías, productos, servicios o enfoques innovadores. La definición es del Consejo, en sus [Conclusiones de 16 de noviembre de 2020 sobre espacios controlados de pruebas y cláusulas de experimentación](https://data.consilium.europa.eu/doc/document/ST-13026-2020-INIT/en/pdf), que añaden el matiz decisivo: la cláusula de experimentación es a menudo la base jurídica del espacio controlado de pruebas.

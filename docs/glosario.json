@@ -2,7 +2,7 @@
  "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
  "url": "https://glosario.thelegaletters.com",
  "licencia": "CC BY 4.0",
- "generado": "2026-09-12",
+ "generado": "2026-09-25",
  "terminos": [
   {
    "termino": "Adulación algorítmica",
@@ -40,6 +40,7 @@
     "intervencion-humana-significativa"
    ],
    "enlazado_desde": [
+    "ia-ofensiva",
     "navegador-con-ia"
    ],
    "actualizado": "2026-09-12",
@@ -245,7 +246,9 @@
     "llm-o-large-language-model",
     "adulacion-algoritmica"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "reward-hacking"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "El Reinforcement Learning from Human Feedback (RLHF), formalizado por OpenAI en el paper de InstructGPT (2022), es una técnica que combina aprendizaje por refuerzo con evaluaciones humanas de la salida (respuesta) del modelo para alinear su comportamiento con valores deseados."
   },
@@ -368,7 +371,8 @@
    "enlazado_desde": [
     "ia-de-frontera",
     "superinteligencia",
-    "umbral-de-capacidad-critica"
+    "umbral-de-capacidad-critica",
+    "uplift"
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), capacidades que igualan o superan las capacidades mostradas por los modelos de IA de uso general más avanzados."
@@ -422,7 +426,8 @@
     "envenenamiento-de-datos",
     "ejemplos-adversarios",
     "solidez",
-    "ataques-de-reidentificacion"
+    "ataques-de-reidentificacion",
+    "ia-ofensiva"
    ],
    "enlazado_desde": [
     "precision"
@@ -467,6 +472,25 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Regla que exime de una norma nueva a lo que ya existía cuando entró en vigor."
+  },
+  {
+   "termino": "Cláusula de experimentación",
+   "alias": "Experimentation clause",
+   "slug": "clausula-de-experimentacion",
+   "slugs_antiguos": [],
+   "categorias": [
+    "gobernanza",
+    "ria"
+   ],
+   "relacionados": [
+    "espacio-controlado-de-pruebas-para-la-ia",
+    "espacio-de-pruebas-a-escala-de-la-union",
+    "pruebas-en-condiciones-reales",
+    "ria"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-14",
+   "extracto": "Disposición legal que permite a las autoridades encargadas de aplicar y hacer cumplir una norma ejercer, caso por caso, cierto margen de flexibilidad en relación con la prueba de tecnologías, productos, servicios o enfoques innovadores."
   },
   {
    "termino": "Código de buenas prácticas",
@@ -932,7 +956,9 @@
     "umbral-de-capacidad-critica",
     "equipo-rojo"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "reward-hacking"
+   ],
    "actualizado": "2026-09-12",
    "extracto": "Divergencia entre lo que un modelo persigue efectivamente y lo que sus desarrolladores o usuarios pretendían que persiguiera."
   },
@@ -1097,10 +1123,12 @@
     "ejemplos-adversarios",
     "riesgo-sistemico",
     "modelo-de-ia-de-uso-general",
-    "evaluacion-de-modelos-de-ia-de-uso-general"
+    "evaluacion-de-modelos-de-ia-de-uso-general",
+    "uplift"
    ],
    "enlazado_desde": [
     "desalineacion",
+    "ia-ofensiva",
     "sandbagging",
     "umbral-de-capacidad-critica"
    ],
@@ -1117,6 +1145,7 @@
     "gobernanza"
    ],
    "relacionados": [
+    "clausula-de-experimentacion",
     "ria",
     "autoridad-de-vigilancia-del-mercado",
     "fase-de-desarrollo"
@@ -1143,7 +1172,9 @@
     "oficina-de-ia",
     "autoridad-de-vigilancia-del-mercado"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "clausula-de-experimentacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Espacio controlado de pruebas para la IA que la Oficina de IA puede establecer a escala de la Unión, previsto en el artículo 57.3 bis del Reglamento de IA, insertado por el Reglamento (UE) 2026/1744."
   },
@@ -1208,7 +1239,8 @@
     "equipo-rojo",
     "ia-de-frontera",
     "sandbagging",
-    "umbral-de-capacidad-critica"
+    "umbral-de-capacidad-critica",
+    "uplift"
    ],
    "actualizado": "2026-08-17",
    "extracto": "Facultad de la Oficina de IA, previa consulta al Consejo de IA, de examinar directamente un modelo de IA de uso general para comprobar si su proveedor cumple el Reglamento cuando la información recabada no basta, o para investigar riesgos sistémicos a escala de la Unión, en particular a raíz de una alerta…"
@@ -1360,6 +1392,7 @@
    ],
    "enlazado_desde": [
     "agente-de-ia",
+    "ia-ofensiva",
     "ingenieria-de-contexto",
     "navegador-con-ia"
    ],
@@ -1430,6 +1463,25 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Sistemas de IA capaces de producir contenido nuevo —texto, imagen, audio, vídeo, código— en lugar de limitarse a clasificar o predecir sobre datos existentes."
+  },
+  {
+   "termino": "IA ofensiva",
+   "alias": "Offensive AI",
+   "slug": "ia-ofensiva",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "datos"
+   ],
+   "relacionados": [
+    "agente-de-ia",
+    "ia-agentica",
+    "ciberseguridad",
+    "equipo-rojo"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-21",
+   "extracto": "Empleo de capacidades de inteligencia artificial —generativa y, sobre todo, agéntica— para acelerar, escalar y adaptar técnicas de ciberataque ya conocidas."
   },
   {
    "termino": "IA soberana",
@@ -2196,7 +2248,9 @@
     "sobreaprendizaje",
     "calidad-de-los-datos"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "reward-hacking"
+   ],
    "actualizado": "2026-08-17",
    "extracto": "Grado en que los resultados de un sistema de IA se corresponden con los correctos."
   },
@@ -2342,7 +2396,9 @@
     "proveedor",
     "persona-afectada"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "clausula-de-experimentacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Pruebas de un sistema de IA de alto riesgo realizadas fuera de un espacio controlado de pruebas, en el entorno y con los usuarios reales a los que se destina, que el artículo 60 del Reglamento de IA permite a los proveedores y proveedores potenciales antes de la introducción en el mercado, conforme a un plan de la…"
   },
@@ -2563,6 +2619,25 @@
    "extracto": "Uso de datos ya recogidos —propios o ajenos— para construir un conjunto de entrenamiento."
   },
   {
+   "termino": "Reward hacking",
+   "alias": "Pirateo de la recompensa",
+   "slug": "reward-hacking",
+   "slugs_antiguos": [],
+   "categorias": [
+    "tecnico",
+    "riesgos"
+   ],
+   "relacionados": [
+    "desalineacion",
+    "sandbagging",
+    "aprendizaje-reforzado-con-retroalimentacion-humana",
+    "precision"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-14",
+   "extracto": "Conducta por la que un modelo maximiza la métrica con la que se le premia en lugar de cumplir el objetivo que esa métrica pretendía medir."
+  },
+  {
    "termino": "RIA",
    "alias": "",
    "slug": "ria",
@@ -2579,6 +2654,7 @@
    "enlazado_desde": [
     "alfabetizacion-en-materia-de-ia",
     "clausula-de-anterioridad",
+    "clausula-de-experimentacion",
     "consejo-de-ia",
     "espacio-controlado-de-pruebas-para-la-ia",
     "plataforma-unica-de-informacion"
@@ -2645,6 +2721,7 @@
    ],
    "relacionados": [
     "desalineacion",
+    "reward-hacking",
     "evaluacion-de-modelos-de-ia-de-uso-general",
     "equipo-rojo",
     "umbral-de-capacidad-critica"
@@ -3080,10 +3157,30 @@
     "controles-de-exportacion",
     "desalineacion",
     "ia-de-frontera",
-    "sandbagging"
+    "sandbagging",
+    "uplift"
    ],
    "actualizado": "2026-09-07",
    "extracto": "Nivel de capacidad de un modelo, fijado de antemano y en términos medibles, a partir del cual su proveedor se compromete a no seguir desarrollándolo, comercializándolo o usándolo sin aplicar antes mitigaciones adicionales."
+  },
+  {
+   "termino": "Uplift",
+   "alias": "Incremento de capacidad",
+   "slug": "uplift",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "evaluacion-de-modelos-de-ia-de-uso-general",
+    "equipo-rojo",
+    "capacidades-de-gran-impacto",
+    "umbral-de-capacidad-critica"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-21",
+   "extracto": "Ventaja medible que el acceso a un modelo aporta a quien quiere hacer algo —típicamente algo dañino— frente a una línea de base sin ese modelo."
   },
   {
    "termino": "Uso indebido razonablemente previsible",

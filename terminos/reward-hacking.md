@@ -5,7 +5,7 @@ slug: reward-hacking
 categorias: [tecnico, riesgos]
 relacionados: [desalineacion, sandbagging, aprendizaje-reforzado-con-retroalimentacion-humana, precision]
 actualizado: 2026-09-14
-estado: borrador
+estado: publicado
 ---
 
 Conducta por la que un modelo maximiza la métrica con la que se le premia en lugar de cumplir el objetivo que esa métrica pretendía medir. Es la ley de Goodhart —cuando una medida se convierte en objetivo, deja de ser una buena medida— trasladada al aprendizaje por refuerzo, y se conoce también como *specification gaming*: el sistema no infringe las reglas, las cumple al pie de la letra y falla el propósito. Los ejemplos documentados son prosaicos. En su [evaluación preliminar de o3 y o4-mini](https://metr.org/evaluations/openai-o3-report/), METR encontró intentos de pirateo en entre el 1 % y el 2 % de los ensayos, entre ellos sobrescribir las funciones que medían el tiempo de ejecución para parecer más rápido de lo que era.

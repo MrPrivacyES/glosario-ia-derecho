@@ -55,7 +55,8 @@
 
   #stats { color: var(--muted); font-size: 14px; margin: 16px 0 8px; }
   .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
-          margin: 10px 0; box-shadow: var(--shadow); overflow: hidden; }
+          margin: 10px 0; box-shadow: var(--shadow); overflow: hidden;
+          scroll-margin-top: calc(var(--sticky-h, 0px) + 14px); }
   .card-head { display: block; width: 100%; text-align: left; border: none; background: none;
                color: inherit; font: inherit; cursor: pointer; padding: 16px 18px; }
   .card-head h2 { margin: 0; font-size: 19px; font-family: Georgia, serif; }
@@ -189,23 +190,42 @@ function toggle(card, force) {
 const LEGACY = {};
 DATA.forEach(t => (t.slugs_antiguos || []).forEach(s => LEGACY[s] = t.slug));
 
+function limpiarFiltros() {
+  $("#q").value = ""; filtroCats.clear(); letra = null;
+  document.querySelectorAll(".chip.on, .letters .on").forEach(x => x.classList.remove("on"));
+  render();
+}
+
 function irA(slug) {
-  if (!document.getElementById(slug) && LEGACY[slug]) {
+  if (LEGACY[slug] && !DATA.some(t => t.slug === slug)) {
     slug = LEGACY[slug];
     history.replaceState(null, "", "#" + slug);
   }
-  const card = document.getElementById(slug);
+  let card = document.getElementById(slug);
+  // El término existe pero los filtros activos lo ocultan: quítalos y vuelve a buscarlo.
+  if (!card && DATA.some(t => t.slug === slug)) {
+    limpiarFiltros();
+    card = document.getElementById(slug);
+  }
   if (!card) return;
   toggle(card, true);
   card.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
+// La barra de controles es sticky y su alto varía con el ancho (los chips se
+// reparten en más o menos filas): se publica como variable CSS para que el
+// scroll-margin-top de las fichas deje siempre el título por debajo de ella.
+function medirSticky() {
+  const c = document.querySelector(".controls");
+  document.documentElement.style.setProperty("--sticky-h", (c ? c.offsetHeight : 0) + "px");
+}
+medirSticky();
+window.addEventListener("resize", medirSticky);
+window.addEventListener("load", medirSticky);
+
 $("#q").oninput = render;
 $("#orden").onchange = render;
-$("#reset").onclick = e => { e.preventDefault();
-  $("#q").value = ""; filtroCats.clear(); letra = null;
-  document.querySelectorAll(".chip.on, .letters .on").forEach(x => x.classList.remove("on"));
-  render(); };
+$("#reset").onclick = e => { e.preventDefault(); limpiarFiltros(); };
 window.addEventListener("hashchange", () => irA(location.hash.slice(1)));
 document.addEventListener("click", e => {
   const a = e.target.closest('a[href^="#"]');

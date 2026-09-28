@@ -3,7 +3,7 @@ termino: Elaboración de perfiles
 alias: Profiling o perfilado
 slug: elaboracion-de-perfiles
 categorias: [datos]
-relacionados: [decisiones-automatizadas, sesgo, persona-afectada]
+relacionados: [decisiones-automatizadas, sesgo, persona-afectada, gestion-algoritmica]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -2,7 +2,7 @@
  "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
  "url": "https://glosario.thelegaletters.com",
  "licencia": "CC BY 4.0",
- "generado": "2026-09-25",
+ "generado": "2026-09-29",
  "terminos": [
   {
    "termino": "Adulación algorítmica",
@@ -896,7 +896,9 @@
    ],
    "enlazado_desde": [
     "colusion-algoritmica",
-    "datos-judiciales"
+    "datos-judiciales",
+    "gestion-algoritmica",
+    "sesgo-de-automatizacion"
    ],
    "actualizado": "2026-08-16",
    "extracto": "El artículo 22 del Reglamento (UE) 2016/679 reconoce a todo interesado el derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar."
@@ -1046,7 +1048,8 @@
    "relacionados": [
     "decisiones-automatizadas",
     "sesgo",
-    "persona-afectada"
+    "persona-afectada",
+    "gestion-algoritmica"
    ],
    "enlazado_desde": [
     "colusion-algoritmica",
@@ -1321,6 +1324,25 @@
    "extracto": "Toda información accesible al público en general, sin restricciones legales o técnicas, y que puede ser consultada de manera legítima por cualquier persona; la definición es del ordinal tercero de la Instrucción 2/2026 del Consejo General del Poder Judicial, sobre el uso de sistemas de IA en la actividad…"
   },
   {
+   "termino": "Gestión algorítmica",
+   "alias": "Algorithmic management",
+   "slug": "gestion-algoritmica",
+   "slugs_antiguos": [],
+   "categorias": [
+    "datos",
+    "gobernanza"
+   ],
+   "relacionados": [
+    "decisiones-automatizadas",
+    "elaboracion-de-perfiles",
+    "sistema-de-ia-de-alto-riesgo",
+    "responsable-del-despliegue"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-28",
+   "extracto": "Uso de sistemas automatizados para seguir, evaluar o decidir sobre el trabajo de las personas: asignar tareas y turnos, fijar retribuciones variables, medir el rendimiento, cribar candidaturas, promocionar o despedir."
+  },
+  {
    "termino": "Gobernanza de datos",
    "alias": "Gobierno del dato o data governance",
    "slug": "gobernanza-de-datos",
@@ -1371,7 +1393,9 @@
     "intervencion-humana-significativa",
     "explicabilidad"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "sesgo-de-automatizacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Arquitectura en la que una persona interviene dentro del ciclo de decisión del sistema, con capacidad efectiva de controlar, validar o rechazar el resultado automático."
   },
@@ -1667,13 +1691,14 @@
    "relacionados": [
     "supervision-humana",
     "human-in-the-loop",
-    "decisiones-automatizadas"
+    "decisiones-automatizadas",
+    "sesgo-de-automatizacion"
    ],
    "enlazado_desde": [
     "agente-de-ia",
     "persona-afectada"
    ],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-09-28",
    "extracto": "Umbral que debe alcanzar la participación de una persona para que una decisión deje de considerarse «basada únicamente en el tratamiento automatizado» a efectos del artículo 22 del RGPD."
   },
   {
@@ -2510,6 +2535,7 @@
     "agente-de-ia",
     "alfabetizacion-en-materia-de-ia",
     "colusion-algoritmica",
+    "gestion-algoritmica",
     "ia-agentica",
     "persona-afectada",
     "supervision-humana",
@@ -2757,6 +2783,25 @@
    "extracto": "Desviación sistemática en el comportamiento de un sistema de IA que hace que sus resultados perjudiquen o favorezcan de forma injustificada a determinadas personas o grupos."
   },
   {
+   "termino": "Sesgo de automatización",
+   "alias": "Automation bias",
+   "slug": "sesgo-de-automatizacion",
+   "slugs_antiguos": [],
+   "categorias": [
+    "ria",
+    "riesgos"
+   ],
+   "relacionados": [
+    "supervision-humana",
+    "intervencion-humana-significativa",
+    "decisiones-automatizadas",
+    "human-in-the-loop"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-28",
+   "extracto": "Tendencia a confiar automáticamente o en exceso en los resultados de salida que genera un sistema de IA, sobre todo cuando se usa para aportar información o recomendaciones con las que una persona adopta la decisión."
+  },
+  {
    "termino": "Sistema de gestión de la calidad",
    "alias": "Quality management system o QMS",
    "slug": "sistema-de-gestion-de-la-calidad",
@@ -2843,6 +2888,7 @@
     "conservacion-de-registros",
     "enfoque-basado-en-el-riesgo",
     "evaluacion-de-impacto-derechos-fundamentales",
+    "gestion-algoritmica",
     "ia-en-la-actividad-jurisdiccional",
     "marcado-ce",
     "normas-armonizadas",
@@ -2999,7 +3045,8 @@
     "sistema-de-ia-de-alto-riesgo",
     "responsable-del-despliegue",
     "intervencion-humana-significativa",
-    "human-in-the-loop"
+    "human-in-the-loop",
+    "sesgo-de-automatizacion"
    ],
    "enlazado_desde": [
     "chief-ai-officer",

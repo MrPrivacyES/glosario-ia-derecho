@@ -5,7 +5,7 @@ slug: sesgo-de-automatizacion
 categorias: [ria, riesgos]
 relacionados: [supervision-humana, intervencion-humana-significativa, decisiones-automatizadas, human-in-the-loop]
 actualizado: 2026-09-28
-estado: borrador
+estado: publicado
 ---
 
 Tendencia a confiar automáticamente o en exceso en los resultados de salida que genera un sistema de IA, sobre todo cuando se usa para aportar información o recomendaciones con las que una persona adopta la decisión. Es la definición que da el propio artículo 14.4.b) del [Reglamento (UE) 2024/1689](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02024R1689-20260727), que la acuña entre comillas como término propio.

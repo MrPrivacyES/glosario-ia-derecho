@@ -5,7 +5,7 @@ slug: gestion-algoritmica
 categorias: [datos, gobernanza]
 relacionados: [decisiones-automatizadas, elaboracion-de-perfiles, sistema-de-ia-de-alto-riesgo, responsable-del-despliegue]
 actualizado: 2026-09-28
-estado: borrador
+estado: publicado
 ---
 
 Uso de sistemas automatizados para seguir, evaluar o decidir sobre el trabajo de las personas: asignar tareas y turnos, fijar retribuciones variables, medir el rendimiento, cribar candidaturas, promocionar o despedir. La [Directiva (UE) 2024/2831](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024L2831), sobre trabajo en plataformas, la articula en torno a dos figuras que define en su artículo 2: los «sistemas automatizados de seguimiento» y los «sistemas automatizados de toma de decisiones».

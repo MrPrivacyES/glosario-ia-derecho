@@ -94,7 +94,9 @@
     "datos-de-entrenamiento",
     "proveedor-posterior"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "alineacion"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Segunda fase del entrenamiento de un modelo: sobre un modelo ya preentrenado con un corpus general y costoso, se realiza un entrenamiento adicional con un conjunto de datos mucho más pequeño y específico para especializarlo en una tarea, un dominio o un estilo."
   },
@@ -118,6 +120,25 @@
    ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento Europeo sobre Inteligencia Artificial (RIA), se refiere al conjunto de capacidades, conocimientos y comprensión que permiten a proveedores, responsables del despliegue y otras personas afectadas tomar decisiones informadas en relación con los sistemas de IA, así como comprender las…"
+  },
+  {
+   "termino": "Alineación",
+   "alias": "Alignment",
+   "slug": "alineacion",
+   "slugs_antiguos": [],
+   "categorias": [
+    "tecnico",
+    "riesgos"
+   ],
+   "relacionados": [
+    "desalineacion",
+    "aprendizaje-reforzado-con-retroalimentacion-humana",
+    "ajuste-fino",
+    "riesgo-sistemico"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-09-29",
+   "extracto": "Conjunto de técnicas —y, a la vez, objetivo de investigación— con que se busca que un modelo de IA persiga efectivamente las intenciones, preferencias y valores de quienes lo desarrollan y lo usan, y no otros distintos."
   },
   {
    "termino": "Alucinación",
@@ -244,7 +265,8 @@
    "relacionados": [
     "reinforcement-learning",
     "llm-o-large-language-model",
-    "adulacion-algoritmica"
+    "adulacion-algoritmica",
+    "alineacion"
    ],
    "enlazado_desde": [
     "reward-hacking"
@@ -959,6 +981,7 @@
     "equipo-rojo"
    ],
    "enlazado_desde": [
+    "alineacion",
     "reward-hacking"
    ],
    "actualizado": "2026-09-12",
@@ -2727,6 +2750,7 @@
     "evaluacion-de-modelos-de-ia-de-uso-general"
    ],
    "enlazado_desde": [
+    "alineacion",
     "equipo-rojo",
     "ia-de-frontera",
     "motor-de-busqueda-en-linea-de-muy-gran-tamano",

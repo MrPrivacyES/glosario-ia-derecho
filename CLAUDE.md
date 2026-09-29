@@ -75,5 +75,7 @@ Reglas del cuerpo:
 ## Publicación
 
 `/publicar` ejecuta `python3 build.py`, verifica que el HTML se generó, hace commit y push.
-GitHub Pages sirve `docs/` en la rama `main`. El dominio previsto es
-`glosario.thelegaletters.com` (CNAME en `docs/CNAME` una vez configurado el DNS).
+GitHub Pages sirve `docs/` en la rama `main` en https://glosario.thelegaletters.com
+(dominio verificado, HTTPS forzado; DNS: CNAME `glosario` → `mrprivacyes.github.io` en
+GoDaddy). `docs/CNAME` es imprescindible para el dominio propio: nunca borrarlo ni
+vaciar `docs/`. La URL antigua `mrprivacyes.github.io/glosario-ia-derecho/` redirige sola.

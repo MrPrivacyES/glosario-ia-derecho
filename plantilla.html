@@ -78,6 +78,19 @@
   .foot-entry { margin-top: 12px; font-size: 12.5px; color: var(--muted); display: flex; gap: 14px; }
   .foot-entry a { color: var(--muted); }
   #none { color: var(--muted); padding: 40px 0; text-align: center; display: none; }
+  .novedades { margin: 22px 0 6px; padding: 14px 16px; background: var(--card);
+               border: 1px solid var(--border); border-radius: 12px; box-shadow: var(--shadow); }
+  .novedades h2 { margin: 0 0 8px; font-size: 12.5px; color: var(--muted); font-weight: 600;
+                  text-transform: uppercase; letter-spacing: .04em; }
+  .novedades ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px 22px;
+                  grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); }
+  .novedades li { display: flex; align-items: baseline; gap: 8px; min-width: 0; font-size: 14.5px; }
+  .novedades li a { text-decoration: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .novedades li a:hover { text-decoration: underline; }
+  .novedades .tipo { flex: none; font-size: 11px; font-weight: 600; padding: 1px 8px; border-radius: 999px;
+                     background: var(--chip); color: var(--muted); }
+  .novedades .tipo.nuevo { background: var(--accent-soft); color: var(--accent); }
+  .novedades .fecha { flex: none; margin-left: auto; font-size: 12.5px; color: var(--muted); }
   footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--border);
            color: var(--muted); font-size: 14px; }
   footer p { margin: 6px 0; }
@@ -89,6 +102,10 @@
     <h1>Glosario sobre IA y Derecho</h1>
     <p class="sub">Diccionario jurídico-tecnológico vivo sobre inteligencia artificial: definiciones en castellano con fuentes oficiales enlazadas, del Reglamento europeo de IA a la jerga del sector.</p>
     <p class="meta-line">__COUNT__ términos · actualizado el __FECHA__ · un proyecto de <a href="https://www.thelegaletters.com" target="_blank" rel="noopener">The Legal Letters</a></p>
+    <section class="novedades" aria-labelledby="nov-tit">
+      <h2 id="nov-tit">Últimas incorporaciones y actualizaciones</h2>
+      <ul id="novedades"></ul>
+    </section>
   </header>
 
   <div class="controls">
@@ -140,6 +157,18 @@ for (const L of "ABCDEFGHIJKLMNOPQRSTUVWXYZ") {
     render(); };
   $("#letters").appendChild(b);
 }
+
+// novedades: los términos con cambios más recientes; «Nuevo» si el último cambio
+// es su alta en el glosario, «Actualizado» si se revisó después de incorporarse
+const NOVEDADES = 6;
+const fechaCorta = f => new Date(f + "T12:00:00").toLocaleDateString("es-ES", { day: "numeric", month: "short" });
+$("#novedades").innerHTML = [...DATA]
+  .sort((a, b) => b.actualizado.localeCompare(a.actualizado) || b.alta.localeCompare(a.alta))
+  .slice(0, NOVEDADES)
+  .map(t => { const nuevo = t.alta >= t.actualizado;
+    return `<li><span class="tipo${nuevo ? " nuevo" : ""}">${nuevo ? "Nuevo" : "Actualizado"}</span>` +
+      `<a href="#${t.slug}">${t.termino}</a><span class="fecha">${fechaCorta(t.actualizado)}</span></li>`; })
+  .join("");
 
 function cardHTML(t) {
   const alias = t.alias ? ` <span class="alias">(${t.alias})</span>` : "";

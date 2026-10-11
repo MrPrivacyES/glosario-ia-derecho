@@ -2,7 +2,7 @@
  "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
  "url": "https://glosario.thelegaletters.com",
  "licencia": "CC BY 4.0",
- "generado": "2026-09-29",
+ "generado": "2026-10-11",
  "terminos": [
   {
    "termino": "Adulación algorítmica",
@@ -768,6 +768,7 @@
     "sistemas-de-reconocimiento-de-emociones"
    ],
    "enlazado_desde": [
+    "neurodatos",
     "verificacion-de-edad"
    ],
    "actualizado": "2026-08-16",
@@ -1076,6 +1077,7 @@
    ],
    "enlazado_desde": [
     "colusion-algoritmica",
+    "neurodatos",
     "policia-predictiva",
     "social-scoring",
     "verificacion-de-edad"
@@ -1527,7 +1529,7 @@
     "equipo-rojo"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-09-21",
+   "actualizado": "2026-10-05",
    "extracto": "Empleo de capacidades de inteligencia artificial —generativa y, sobre todo, agéntica— para acelerar, escalar y adaptar técnicas de ciberataque ya conocidas."
   },
   {
@@ -2048,6 +2050,25 @@
    "extracto": "Navegador web que incorpora un agente capaz de leer las páginas por el usuario y actuar en ellas —rellenar formularios, iniciar sesión, comprar, moverse entre pestañas— con la sesión y las credenciales de quien lo usa."
   },
   {
+   "termino": "Neurodatos",
+   "alias": "Neurodata",
+   "slug": "neurodatos",
+   "slugs_antiguos": [],
+   "categorias": [
+    "datos",
+    "biometria"
+   ],
+   "relacionados": [
+    "datos-biometricos",
+    "sistemas-de-reconocimiento-de-emociones",
+    "tecnicas-subliminales",
+    "elaboracion-de-perfiles"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-10-05",
+   "extracto": "Información que se recoge del cerebro o del sistema nervioso —mediante neuroimagen, diademas de electroencefalografía o interfaces cerebro-máquina— junto con las inferencias que se basan directamente en ella, como las señales emocionales o los gustos."
+  },
+  {
    "termino": "Normas armonizadas",
    "alias": "Especificaciones comunes o harmonised standards",
    "slug": "normas-armonizadas",
@@ -2360,7 +2381,7 @@
    "enlazado_desde": [
     "navegador-con-ia"
    ],
-   "actualizado": "2026-09-12",
+   "actualizado": "2026-10-11",
    "extracto": "Ataque consistente en colar instrucciones dentro del texto que un modelo va a procesar para que las obedezca como si vinieran de quien lo controla, desviándolo de la tarea encomendada."
   },
   {
@@ -2955,7 +2976,8 @@
    "relacionados": [
     "categorizacion-biometrica",
     "datos-biometricos",
-    "practicas-prohibidas"
+    "practicas-prohibidas",
+    "neurodatos"
    ],
    "enlazado_desde": [],
    "actualizado": "2026-08-16",
@@ -3095,7 +3117,9 @@
     "riesgo",
     "adulacion-algoritmica"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "neurodatos"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Primera de las prácticas prohibidas."
   },

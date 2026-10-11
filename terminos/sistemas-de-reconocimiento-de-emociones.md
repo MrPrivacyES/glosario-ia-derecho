@@ -3,7 +3,7 @@ termino: Sistemas de reconocimiento de emociones
 alias: Emotion recognition systems
 slug: sistemas-de-reconocimiento-de-emociones
 categorias: [ria, biometria]
-relacionados: [categorizacion-biometrica, datos-biometricos, practicas-prohibidas]
+relacionados: [categorizacion-biometrica, datos-biometricos, practicas-prohibidas, neurodatos]
 actualizado: 2026-08-16
 estado: publicado
 ---

@@ -4,7 +4,7 @@
 Sin dependencias externas: solo stdlib. Ejecutar desde la raíz del repo:
     python3 build.py
 """
-import json, os, re, sys, html, datetime, unicodedata
+import json, os, re, sys, html, datetime, subprocess, unicodedata
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, "terminos")
@@ -71,6 +71,21 @@ def first_sentence(md):
     s = s[:1].upper() + s[1:]
     return s if len(s) <= 320 else s[:317].rsplit(" ", 1)[0] + "…"
 
+def fechas_alta():
+    """Fecha del commit que añadió cada término (git); los aún no confirmados toman la de hoy."""
+    altas, fecha = {}, None
+    try:
+        log = subprocess.run(["git", "log", "--diff-filter=A", "--name-only", "--format=@%as", "--", "terminos"],
+                             cwd=ROOT, capture_output=True, text=True, check=True).stdout
+    except (OSError, subprocess.CalledProcessError):
+        return altas
+    for line in log.splitlines():
+        if line.startswith("@"):
+            fecha = line[1:]
+        elif line.startswith("terminos/") and line.endswith(".md"):
+            altas[line[9:-3]] = fecha  # el log va de más reciente a más antiguo: queda el alta original
+    return altas
+
 def normaliza(s):
     return "".join(c for c in unicodedata.normalize("NFKD", s.lower()) if not unicodedata.combining(c))
 
@@ -105,6 +120,9 @@ def main():
         })
 
     slugs = {t["slug"] for t in terms}
+    altas, hoy = fechas_alta(), datetime.date.today().isoformat()
+    for t in terms:
+        t["alta"] = altas.get(t["slug"], hoy)
     for t in terms:
         rotos = [r for r in t["relacionados"] if r not in slugs]
         if rotos:
@@ -122,7 +140,6 @@ def main():
 
     terms.sort(key=lambda t: normaliza(t["termino"]))
     os.makedirs(OUT, exist_ok=True)
-    hoy = datetime.date.today().isoformat()
 
     # datos abiertos (sin campo de búsqueda ni html)
     abierto = [{k: t[k] for k in ("termino", "alias", "slug", "slugs_antiguos", "categorias", "relacionados", "enlazado_desde", "actualizado", "extracto")} for t in terms]

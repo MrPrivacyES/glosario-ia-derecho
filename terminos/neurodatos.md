@@ -5,7 +5,7 @@ slug: neurodatos
 categorias: [datos, biometria]
 relacionados: [datos-biometricos, sistemas-de-reconocimiento-de-emociones, tecnicas-subliminales, elaboracion-de-perfiles]
 actualizado: 2026-10-05
-estado: borrador
+estado: publicado
 ---
 
 Información que se recoge del cerebro o del sistema nervioso —mediante neuroimagen, diademas de electroencefalografía o interfaces cerebro-máquina— junto con las inferencias que se basan directamente en ella, como las señales emocionales o los gustos. Es la definición del [TechDispatch sobre neurodatos](https://www.aepd.es/guias/neurodatos-aepd-edps.pdf) que publicaron conjuntamente la AEPD y el Supervisor Europeo de Protección de Datos en 2024.

@@ -2,7 +2,7 @@
  "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
  "url": "https://glosario.thelegaletters.com",
  "licencia": "CC BY 4.0",
- "generado": "2026-10-11",
+ "generado": "2026-10-16",
  "terminos": [
   {
    "termino": "Adulación algorítmica",
@@ -532,6 +532,7 @@
    "enlazado_desde": [
     "consejo-de-ia",
     "modelo-de-ia-de-uso-general",
+    "perdida-de-control",
     "umbral-de-capacidad-critica"
    ],
    "actualizado": "2026-08-16",
@@ -983,6 +984,7 @@
    ],
    "enlazado_desde": [
     "alineacion",
+    "perdida-de-control",
     "reward-hacking"
    ],
    "actualizado": "2026-09-12",
@@ -1364,7 +1366,7 @@
     "responsable-del-despliegue"
    ],
    "enlazado_desde": [],
-   "actualizado": "2026-09-28",
+   "actualizado": "2026-10-14",
    "extracto": "Uso de sistemas automatizados para seguir, evaluar o decidir sobre el trabajo de las personas: asignar tareas y turnos, fijar retribuciones variables, medir el rendimiento, cribar candidaturas, promocionar o despedir."
   },
   {
@@ -1464,7 +1466,9 @@
     "capacidades-de-gran-impacto",
     "evaluacion-de-modelos-de-ia-de-uso-general"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "perdida-de-control"
+   ],
    "actualizado": "2026-09-12",
    "extracto": "Conjunto formado en cada momento por los modelos de propósito general más capaces que existen, y cuyas capacidades peligrosas no se conocen del todo hasta que se prueban."
   },
@@ -2234,6 +2238,25 @@
    "extracto": "Según el artículo 3.14 ter del Reglamento de IA, insertado por el Reglamento (UE) 2026/1744, una empresa pequeña de mediana capitalización tal como se define en el punto 2 del anexo de la Recomendación (UE) 2025/1099: la categoría intermedia entre la pyme y la gran empresa."
   },
   {
+   "termino": "Pérdida de control",
+   "alias": "Loss of control",
+   "slug": "perdida-de-control",
+   "slugs_antiguos": [],
+   "categorias": [
+    "riesgos",
+    "ria"
+   ],
+   "relacionados": [
+    "riesgo-sistemico",
+    "desalineacion",
+    "ia-de-frontera",
+    "codigo-de-buenas-practicas"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-10-14",
+   "extracto": "Riesgo de que las personas dejen de poder dirigir, modificar o apagar de forma fiable un modelo de IA."
+  },
+  {
    "termino": "Persona afectada",
    "alias": "Affected person",
    "slug": "persona-afectada",
@@ -2768,7 +2791,8 @@
     "riesgo",
     "capacidades-de-gran-impacto",
     "modelo-de-ia-de-uso-general",
-    "evaluacion-de-modelos-de-ia-de-uso-general"
+    "evaluacion-de-modelos-de-ia-de-uso-general",
+    "perdida-de-control"
    ],
    "enlazado_desde": [
     "alineacion",

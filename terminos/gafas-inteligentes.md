@@ -5,7 +5,7 @@ slug: gafas-inteligentes
 categorias: [datos, biometria]
 relacionados: [responsable-del-tratamiento, identificacion-biometrica, datos-biometricos, datos-de-entrenamiento]
 actualizado: 2026-10-19
-estado: borrador
+estado: publicado
 ---
 
 Dispositivos que se llevan puestos, con aspecto de gafas corrientes o de sol, y que incorporan capacidad de cómputo y elementos como cámaras, altavoces, micrófonos y aplicaciones, entre ellas sistemas de IA para tareas como traducir o identificar objetos. Es la definición de la [Declaración 1/2026 del CEPD sobre gafas inteligentes](https://www.edpb.europa.eu/system/files/2026-10/20261310_edpb_statement_smart-glasses_en.pdf), adoptada el 13 de octubre de 2026.

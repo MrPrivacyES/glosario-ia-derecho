@@ -2,7 +2,7 @@
  "titulo": "Glosario sobre IA y Derecho — The Legal Letters",
  "url": "https://glosario.thelegaletters.com",
  "licencia": "CC BY 4.0",
- "generado": "2026-10-16",
+ "generado": "2026-11-01",
  "terminos": [
   {
    "termino": "Adulación algorítmica",
@@ -769,6 +769,7 @@
     "sistemas-de-reconocimiento-de-emociones"
    ],
    "enlazado_desde": [
+    "gafas-inteligentes",
     "neurodatos",
     "verificacion-de-edad"
    ],
@@ -818,6 +819,7 @@
     "datos-de-entrada",
     "datos-sinteticos",
     "envenenamiento-de-datos",
+    "gafas-inteligentes",
     "licencia-de-contenidos",
     "memorizacion",
     "mineria-de-textos-y-datos",
@@ -924,7 +926,7 @@
     "gestion-algoritmica",
     "sesgo-de-automatizacion"
    ],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-10-19",
    "extracto": "El artículo 22 del Reglamento (UE) 2016/679 reconoce a todo interesado el derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar."
   },
   {
@@ -1351,6 +1353,25 @@
    "extracto": "Toda información accesible al público en general, sin restricciones legales o técnicas, y que puede ser consultada de manera legítima por cualquier persona; la definición es del ordinal tercero de la Instrucción 2/2026 del Consejo General del Poder Judicial, sobre el uso de sistemas de IA en la actividad…"
   },
   {
+   "termino": "Gafas inteligentes",
+   "alias": "Smart glasses",
+   "slug": "gafas-inteligentes",
+   "slugs_antiguos": [],
+   "categorias": [
+    "datos",
+    "biometria"
+   ],
+   "relacionados": [
+    "responsable-del-tratamiento",
+    "identificacion-biometrica",
+    "datos-biometricos",
+    "datos-de-entrenamiento"
+   ],
+   "enlazado_desde": [],
+   "actualizado": "2026-10-19",
+   "extracto": "Dispositivos que se llevan puestos, con aspecto de gafas corrientes o de sol, y que incorporan capacidad de cómputo y elementos como cámaras, altavoces, micrófonos y aplicaciones, entre ellas sistemas de IA para tareas como traducir o identificar objetos."
+  },
+  {
    "termino": "Gestión algorítmica",
    "alias": "Algorithmic management",
    "slug": "gestion-algoritmica",
@@ -1571,7 +1592,9 @@
     "categorizacion-biometrica",
     "practicas-prohibidas"
    ],
-   "enlazado_desde": [],
+   "enlazado_desde": [
+    "gafas-inteligentes"
+   ],
    "actualizado": "2026-08-16",
    "extracto": "Según el Reglamento (UE) 2024/1689, el reconocimiento automatizado de características humanas físicas, fisiológicas o conductuales (como la cara, la voz o la marcha) con el fin de determinar la identidad de una persona, comparando sus datos biométricos con una base de datos de referencia."
   },
@@ -2084,12 +2107,13 @@
    "relacionados": [
     "evaluacion-de-la-conformidad",
     "codigo-de-buenas-practicas",
-    "sistema-de-ia-de-alto-riesgo"
+    "sistema-de-ia-de-alto-riesgo",
+    "sistema-de-gestion-de-la-calidad"
    ],
    "enlazado_desde": [
     "proteccion-equivalente-anexo-i"
    ],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-10-26",
    "extracto": "Normas técnicas elaboradas por los organismos europeos de normalización —CEN, CENELEC, ETSI— a petición de la Comisión, cuyas referencias se publican en el Diario Oficial."
   },
   {
@@ -2627,6 +2651,7 @@
    ],
    "enlazado_desde": [
     "aprendizaje-federado",
+    "gafas-inteligentes",
     "model-context-protocol",
     "residencia-de-datos",
     "retencion-cero",
@@ -2882,12 +2907,13 @@
    "relacionados": [
     "sistema-de-gestion-de-riesgos",
     "evaluacion-de-la-conformidad",
-    "proveedor"
+    "proveedor",
+    "normas-armonizadas"
    ],
    "enlazado_desde": [
     "pequena-empresa-de-mediana-capitalizacion"
    ],
-   "actualizado": "2026-08-16",
+   "actualizado": "2026-10-26",
    "extracto": "Obligación del proveedor —no del sistema— recogida en el artículo 17 del Reglamento (UE) 2024/1689: quien introduzca en el mercado un sistema de IA de alto riesgo debe establecer un sistema de gestión de la calidad que garantice el cumplimiento del Reglamento, consignado de manera sistemática y ordenada en…"
   },
   {
